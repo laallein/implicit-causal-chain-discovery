@@ -1,0 +1,1933 @@
+custom_id,cause,effect,Does_cause_lead_to_effect,Does_effect_lead_to_cause_SWITCH,Does_cause_lead_to_effect_PASSIVE,Does_effect_lead_to_cause_SWITCH_PASSIVE
+request-1-0-0,companies emit greenhouse gases,greenhouse gases accumulate in the atmosphere,yes,yes,yes,yes
+request-1-0-1,greenhouse gases accumulate in the atmosphere,enhanced greenhouse effect,yes,no,yes,no
+request-1-0-2,enhanced greenhouse effect,the climate is altered,yes,no,yes,no
+request-1-1-0,corporations engage in deforestation,reduced carbon sequestration,yes,no,yes,yes
+request-1-1-1,reduced carbon sequestration,increased atmospheric co₂ levels,yes,no,yes,no
+request-1-1-2,increased atmospheric co₂ levels,the climate is affected,yes,yes,yes,no
+request-1-2-0,companies industrialize production processes,increased energy consumption,yes,no,yes,no
+request-1-2-1,increased energy consumption,higher fossil fuel usage,yes,no,yes,yes
+request-1-2-2,higher fossil fuel usage,the climate changes,yes,no,yes,no
+request-1-3-0,corporations produce industrial waste,pollution enters ecosystems,yes,yes,yes,yes
+request-1-3-1,pollution enters ecosystems,disruption of natural carbon cycles,yes,yes,yes,yes
+request-1-3-2,disruption of natural carbon cycles,the climate is impacted,yes,yes,yes,yes
+request-1-4-0,companies develop and promote automobiles,increased vehicle emissions,yes,no,yes,yes
+request-1-4-1,increased vehicle emissions,rise in air pollutants,yes,no,yes,no
+request-1-4-2,rise in air pollutants,the climate is influenced,yes,yes,yes,yes
+request-2-0-0,buying from companies that mess the climate,increased revenue for these companies,yes,yes,i cannot determine based on the information provided,yes
+request-2-0-1,increased revenue for these companies,expansion of their market presence,yes,yes,yes,yes
+request-2-0-2,expansion of their market presence,greater influence over industry standards,yes,yes,yes,cannot provide a 'yes' or 'no' answer without more information
+request-2-0-3,greater influence over industry standards,maintenance and growth of climatedamaging practices,yes,yes,yes,yes
+request-2-0-4,maintenance and growth of climatedamaging practices,keeping of climatedamaging companies,yes,yes,yes,yes
+request-2-1-0,buying from companies that mess the climate,higher sales volumes,no,no,no,yes
+request-2-1-1,higher sales volumes,increased profitability,yes,no,yes,no
+request-2-1-2,increased profitability,allocation of funds to harmful projects,no,yes,yes,no
+request-2-1-3,allocation of funds to harmful projects,continuation of environmentally detrimental operations,yes,yes,yes,yes
+request-2-1-4,continuation of environmentally detrimental operations,keeping of climatedamaging companies,yes,yes,yes,yes
+request-2-2-0,buying from companies that mess the climate,consumer preference for lowcost products,no,yes,no,yes
+request-2-2-1,consumer preference for lowcost products,limited investment in sustainable alternatives,yes,"i'm sorry, but it's not possible to provide a simple 'yes' or 'no' answer to this question, as it involves multiple factors",yes,yes
+request-2-2-2,limited investment in sustainable alternatives,persistence of unsustainable business models,yes,yes,yes,yes
+request-2-2-3,persistence of unsustainable business models,ongoing environmental harm,yes,yes,yes,no
+request-2-2-4,ongoing environmental harm,keeping of climatedamaging companies,no,yes,no,yes
+request-2-3-0,buying from companies that mess the climate,enhanced financial stability for these companies,yes,yes,no,yes
+request-2-3-1,enhanced financial stability for these companies,ability to resist regulatory changes,yes,no,yes,no
+request-2-3-2,ability to resist regulatory changes,sustained climateunfriendly policies,yes,yes,yes,yes
+request-2-3-3,sustained climateunfriendly policies,endurance of harmful business practices,yes,yes,yes,yes
+request-2-3-4,endurance of harmful business practices,keeping of climatedamaging companies,yes,yes,yes,yes
+request-2-4-0,buying from companies that mess the climate,market dominance of climatedamaging companies,yes,yes,yes,yes
+request-2-4-1,market dominance of climatedamaging companies,reduced competition from sustainable businesses,yes,yes,yes,yes
+request-2-4-2,reduced competition from sustainable businesses,lack of innovation in green technologies,yes,yes,no,no
+request-2-4-3,lack of innovation in green technologies,continued reliance on harmful methods,yes,yes,yes,yes
+request-2-4-4,continued reliance on harmful methods,keeping of climatedamaging companies,yes,yes,yes,yes
+request-3-0-0,systemic change,policy reform,yes,yes,yes,yes
+request-3-0-1,policy reform,renewable energy adoption,yes,yes,yes,yes
+request-3-0-2,renewable energy adoption,progress in climate change,yes,yes,yes,yes
+request-3-1-0,systemic change,economic incentives,yes,yes,yes,yes
+request-3-1-1,economic incentives,emission reductions,yes,yes,yes,no
+request-3-1-2,emission reductions,progress in climate change,yes,yes,yes,no
+request-3-2-0,systemic change,educational initiatives,yes,yes,no,yes
+request-3-2-1,educational initiatives,public awareness,yes,yes,yes,yes
+request-3-2-2,public awareness,sustainable behavior,yes,no,yes,no
+request-3-2-3,sustainable behavior,progress in climate change,yes,yes,yes,yes
+request-3-3-0,systemic change,technological innovation,yes,yes,yes,yes
+request-3-3-1,technological innovation,energy efficiency improvements,yes,yes,yes,no
+request-3-3-2,energy efficiency improvements,progress in climate change,yes,yes,yes,yes
+request-3-4-0,systemic change,legislative action,yes,yes,yes,yes
+request-3-4-1,legislative action,carbon pricing,yes,yes,yes,no
+request-3-4-2,carbon pricing,progress in climate change,yes,yes,no,no
+request-3-5-0,systemic change,infrastructure development,yes,yes,yes,yes
+request-3-5-1,infrastructure development,green transportation systems,yes,yes,yes,no
+request-3-5-2,green transportation systems,progress in climate change,yes,yes,yes,yes
+request-3-6-0,systemic change,international cooperation,yes,yes,yes,yes
+request-3-6-1,international cooperation,global climate agreements,yes,yes,yes,no
+request-3-6-2,global climate agreements,progress in climate change,yes,yes,yes,yes
+request-3-7-0,systemic change,corporate responsibility,yes,yes,yes,no
+request-3-7-1,corporate responsibility,green business practices,yes,no,yes,no
+request-3-7-2,green business practices,progress in climate change,yes,yes,yes,no
+request-4-0-0,ultra wealthy people,increased consumption of luxury goods,yes,no,yes,no
+request-4-0-1,increased consumption of luxury goods,higher production demands,yes,yes,yes,no
+request-4-0-2,higher production demands,increased manufacturing emissions,yes,no,yes,no
+request-4-0-3,increased manufacturing emissions,more carbon footprint,yes,no,yes,no
+request-4-1-0,ultra wealthy people,ownership of private jets,yes,no,yes,no
+request-4-1-1,ownership of private jets,frequent air travel,yes,no,no,yes
+request-4-1-2,frequent air travel,higher aviation emissions,yes,no,yes,no
+request-4-1-3,higher aviation emissions,more carbon footprint,yes,no,yes,yes
+request-4-2-0,ultra wealthy people,investment in large estates,yes,no,yes,no
+request-4-2-1,investment in large estates,high energy usage for maintenance,yes,no,yes,no
+request-4-2-2,high energy usage for maintenance,increased residential energy consumption,yes,yes,no,yes
+request-4-2-3,increased residential energy consumption,more carbon footprint,yes,no,yes,no
+request-4-3-0,ultra wealthy people,funding of energyintensive industries,yes,no,no,no
+request-4-3-1,funding of energyintensive industries,expansion of industrial activities,yes,yes,yes,yes
+request-4-3-2,expansion of industrial activities,higher industrial emissions,yes,no,yes,no
+request-4-3-3,higher industrial emissions,more carbon footprint,yes,no,yes,yes
+request-4-4-0,ultra wealthy people,ownership of multiple properties,yes,no,no,no
+request-4-4-1,ownership of multiple properties,increased heating and cooling needs,yes,no,yes,no
+request-4-4-2,increased heating and cooling needs,greater energy consumption,yes,no,yes,no
+request-4-4-3,greater energy consumption,more carbon footprint,yes,no,yes,no
+request-4-5-0,ultra wealthy people,support for luxury transportation services,yes,no,yes,no
+request-4-5-1,support for luxury transportation services,increased use of highemission vehicles,yes,no,yes,no
+request-4-5-2,increased use of highemission vehicles,higher transportation emissions,yes,no,yes,no
+request-4-5-3,higher transportation emissions,more carbon footprint,yes,no,yes,no
+request-4-6-0,ultra wealthy people,consumption of exotic foods,yes,no,no,no
+request-4-6-1,consumption of exotic foods,intensive agricultural practices,yes,yes,yes,no
+request-4-6-2,intensive agricultural practices,increased agricultural emissions,yes,no,yes,no
+request-4-6-3,increased agricultural emissions,more carbon footprint,yes,no,yes,no
+request-5-0-0,porks craddling into pools that often break loose,release of pollutants into the environment,no,"i'm sorry, but i don't understand your question could you please clarify?",yes,no
+request-5-0-1,release of pollutants into the environment,contamination of water sources,yes,yes,yes,no
+request-5-0-2,contamination of water sources,harm to aquatic life,yes,no,yes,yes
+request-5-0-3,harm to aquatic life,disruption of ecosystems,yes,yes,yes,yes
+request-5-0-4,disruption of ecosystems,massive environmental damage,yes,yes,yes,yes
+request-5-1-0,porks craddling into pools that often break loose,spread of debris and pollutants,yes,"i'm sorry, but i need more information to provide an accurate answer",no,yes
+request-5-1-1,spread of debris and pollutants,accumulation of harmful substances in the environment,yes,yes,yes,no
+request-5-1-2,accumulation of harmful substances in the environment,toxin buildup in soil and water,yes,yes,yes,yes
+request-5-1-3,toxin buildup in soil and water,negative impact on plant and animal health,yes,no,yes,yes
+request-5-1-4,negative impact on plant and animal health,massive environmental damage,yes,yes,yes,yes
+request-5-2-0,porks craddling into pools that often break loose,structural failures leading to spills,no,no,no,no
+request-5-2-1,structural failures leading to spills,release of hazardous materials,yes,yes,yes,yes
+request-5-2-2,release of hazardous materials,contamination of natural resources,yes,yes,yes,no
+request-5-2-3,contamination of natural resources,longterm ecosystem degradation,yes,yes,yes,no
+request-5-2-4,longterm ecosystem degradation,massive environmental damage,yes,yes,yes,yes
+request-6-0-0,having fewer children,lower population growth,yes,no,yes,no
+request-6-0-1,lower population growth,reduced resource consumption,yes,no,yes,no
+request-6-0-2,reduced resource consumption,lower carbon footprint,yes,yes,yes,no
+request-6-1-0,having fewer children,decreased energy demand,yes,no,yes,no
+request-6-1-1,decreased energy demand,reduced fossil fuel usage,yes,no,yes,no
+request-6-1-2,reduced fossil fuel usage,lower carbon footprint,yes,no,yes,no
+request-6-2-0,having fewer children,smaller household sizes,yes,yes,yes,yes
+request-6-2-1,smaller household sizes,less energy use in homes,yes,no,yes,no
+request-6-2-2,less energy use in homes,lower carbon footprint,yes,no,yes,yes
+request-6-3-0,having fewer children,lower food demand,yes,no,yes,no
+request-6-3-1,lower food demand,reduced agricultural emissions,yes,no,yes,no
+request-6-3-2,reduced agricultural emissions,lower carbon footprint,yes,no,yes,no
+request-6-4-0,having fewer children,decreased transportation needs,yes,no,yes,no
+request-6-4-1,decreased transportation needs,reduced vehicle emissions,yes,no,yes,no
+request-6-4-2,reduced vehicle emissions,lower carbon footprint,yes,no,yes,no
+request-6-5-0,having fewer children,increased per capita resource availability,yes,yes,yes,yes
+request-6-5-1,increased per capita resource availability,more sustainable resource use,no,yes,no,no
+request-6-5-2,more sustainable resource use,lower carbon footprint,yes,yes,yes,no
+request-7-0-0,climate change,increased sea surface temperatures,yes,no,yes,no
+request-7-0-1,increased sea surface temperatures,more intense hurricanes,yes,no,yes,no
+request-7-0-2,more intense hurricanes,hurricane harvey severity,yes,no,no,no
+request-7-0-3,hurricane harvey severity,increased flooding in houston,yes,no,yes,no
+request-7-0-4,increased flooding in houston,doubling of flooded houston homes,no,no,yes,no
+request-7-1-0,climate change,sea level rise,yes,no,yes,no
+request-7-1-1,sea level rise,higher storm surges during hurricanes,yes,no,yes,no
+request-7-1-2,higher storm surges during hurricanes,greater flood impact in houston,yes,no,yes,no
+request-7-1-3,greater flood impact in houston,doubling of flooded houston homes,no,yes,yes,yes
+request-7-2-0,climate change,altered precipitation patterns,yes,no,yes,no
+request-7-2-1,altered precipitation patterns,increased rainfall during hurricane harvey,yes,yes,yes,no
+request-7-2-2,increased rainfall during hurricane harvey,more extensive flooding in houston,yes,no,yes,no
+request-7-2-3,more extensive flooding in houston,doubling of flooded houston homes,yes,no,yes,no
+request-8-0-0,methane emissions,increased atmospheric methane concentration,yes,no,yes,no
+request-8-0-1,increased atmospheric methane concentration,enhanced greenhouse effect,yes,yes,yes,no
+request-8-0-2,enhanced greenhouse effect,global warming,yes,no,yes,no
+request-8-0-3,global warming,environmental pollution,no,yes,no,yes
+request-8-1-0,methane leakage,air quality degradation,yes,no,yes,no
+request-8-1-1,air quality degradation,respiratory health pollution,yes,yes,yes,no
+request-8-2-0,methane release from landfills,methane oxidation in the atmosphere,yes,no,no,no
+request-8-2-1,methane oxidation in the atmosphere,ozone formation,yes,no,yes,no
+request-8-2-2,ozone formation,smog pollution,yes,no,no,yes
+request-8-3-0,methane from agricultural activities,livestock waste accumulation,no,yes,no,yes
+request-8-3-1,livestock waste accumulation,methane generation,yes,no,yes,no
+request-8-3-2,methane generation,soil and water pollution,yes,yes,no,no
+request-9-0-0,melting of antarctic ice and methane pockets unabsorbed by microorganisms,release of methane from thawing ice,yes,no,no,no
+request-9-0-1,release of methane from thawing ice,release of methane into the atmosphere,yes,yes,yes,yes
+request-9-1-0,melting of antarctic ice and methane pockets unabsorbed by microorganisms,destabilization of methane hydrates,yes,yes,no,yes
+request-9-1-1,destabilization of methane hydrates,release of methane into the atmosphere,yes,yes,yes,no
+request-9-2-0,melting of antarctic ice and methane pockets unabsorbed by microorganisms,exposure of methane to atmospheric conditions,yes,no,no,no
+request-9-2-1,exposure of methane to atmospheric conditions,release of methane into the atmosphere,yes,yes,no,yes
+request-10-0-0,lunar wobble,altered tidal forces,yes,yes,no,yes
+request-10-0-1,altered tidal forces,increased sea levels,no,no,no,no
+request-10-0-2,increased sea levels,coastal flooding in the 2030s,yes,no,yes,no
+request-10-0-3,coastal flooding in the 2030s,changes in the coastline,yes,yes,yes,yes
+request-10-1-0,lunar wobble,variations in earth's rotation,yes,no,yes,no
+request-10-1-1,variations in earth's rotation,climate changes,yes,yes,no,yes
+request-10-1-2,climate changes,sealevel rise,yes,no,yes,no
+request-10-1-3,sealevel rise,coastal flooding in the 2030s,yes,no,yes,no
+request-10-1-4,coastal flooding in the 2030s,changes in the coastline,yes,yes,yes,no
+request-10-2-0,lunar wobble,gravitational fluctuations,yes,no,no,yes
+request-10-2-1,gravitational fluctuations,increased storm intensity,no,no,no,no
+request-10-2-2,increased storm intensity,coastal flooding in the 2030s,yes,no,yes,no
+request-10-2-3,coastal flooding in the 2030s,changes in the coastline,yes,yes,yes,yes
+request-11-0-0,drought,reduced precipitation,no,yes,no,yes
+request-11-0-1,reduced precipitation,lowered river levels,yes,no,yes,no
+request-11-0-2,lowered river levels,landscape modification,yes,yes,yes,yes
+request-11-0-3,landscape modification,updated geography maps,yes,no,yes,no
+request-11-1-0,drought,increased evaporation rates,yes,yes,no,yes
+request-11-1-1,increased evaporation rates,soil moisture depletion,yes,no,yes,no
+request-11-1-2,soil moisture depletion,vegetation loss,yes,yes,yes,yes
+request-11-1-3,vegetation loss,altered topography,yes,yes,yes,yes
+request-11-1-4,altered topography,reflected in geography maps,yes,no,yes,no
+request-11-2-0,drought,extended dry periods,no,yes,no,yes
+request-11-2-1,extended dry periods,formation of new desert areas,yes,no,yes,no
+request-11-2-2,formation of new desert areas,changes in land use,yes,yes,yes,yes
+request-11-2-3,changes in land use,recorded in geography maps,yes,yes,yes,yes
+request-11-3-0,drought,water reservoir depletion,yes,no,yes,no
+request-11-3-1,water reservoir depletion,river course alteration,yes,yes,yes,yes
+request-11-3-2,river course alteration,modified drainage systems,yes,yes,yes,yes
+request-11-3-3,modified drainage systems,depicted in geography maps,yes,no,no,no
+request-11-4-0,drought,agricultural stress,yes,no,yes,no
+request-11-4-1,agricultural stress,abandoned farmland,yes,yes,yes,no
+request-11-4-2,abandoned farmland,natural vegetation takeover,yes,no,yes,no
+request-11-4-3,natural vegetation takeover,redesigned landscape features,yes,yes,no,no
+request-11-4-4,redesigned landscape features,shown in geography maps,yes,no,yes,yes
+request-12-0-0,changes in geographical maps,redefinition of national boundaries,no,yes,no,yes
+request-12-0-1,redefinition of national boundaries,ethnic tensions,yes,yes,yes,yes
+request-12-0-2,ethnic tensions,migration issues,yes,yes,it depends,yes
+request-12-1-0,changes in geographical maps,alteration of natural resources distribution,no,yes,no,yes
+request-12-1-1,alteration of natural resources distribution,economic instability,yes,yes,yes,yes
+request-12-1-2,economic instability,migration issues,yes,no,yes,no
+request-12-2-0,changes in geographical maps,modification of transportation routes,yes,yes,no,yes
+request-12-2-1,modification of transportation routes,shifts in economic opportunities,yes,yes,yes,yes
+request-12-2-2,shifts in economic opportunities,migration issues,yes,yes,yes,yes
+request-12-3-0,changes in geographical maps,changes in land use patterns,yes,yes,no,yes
+request-12-3-1,changes in land use patterns,displacement of populations,yes,yes,yes,yes
+request-12-3-2,displacement of populations,migration issues,yes,yes,yes,yes
+request-12-4-0,changes in geographical maps,shifts in climate zones,yes,yes,no,no
+request-12-4-1,shifts in climate zones,environmental stress,yes,yes,yes,yes
+request-12-4-2,environmental stress,migration issues,yes,yes,yes,yes
+request-12-5-0,changes in geographical maps,reconfiguration of economic regions,yes,yes,no,yes
+request-12-5-1,reconfiguration of economic regions,job scarcity in certain areas,yes,yes,yes,yes
+request-12-5-2,job scarcity in certain areas,migration issues,yes,it's not possible to adequately answer with a simple 'yes' or 'no' as the impact of migration on job scarcity in certain areas is complex and depends on various factors,yes,yes
+request-13-0-0,methane emission,atmospheric accumulation,yes,no,yes,no
+request-13-0-1,atmospheric accumulation,greenhouse gas effect,yes,no,yes,no
+request-13-0-2,greenhouse gas effect,global warming,yes,no,yes,no
+request-13-0-3,global warming,pollution,no,yes,no,yes
+request-13-1-0,methane leakage,oxidation in the atmosphere,yes,no,no,no
+request-13-1-1,oxidation in the atmosphere,formation of groundlevel ozone,yes,yes,yes,no
+request-13-1-2,formation of groundlevel ozone,air quality degradation,yes,yes,yes,yes
+request-13-1-3,air quality degradation,pollution,no,yes,no,yes
+request-13-2-0,methane release from agriculture,increase in atmospheric methane,yes,no,yes,no
+request-13-2-1,increase in atmospheric methane,enhanced greenhouse warming,yes,yes,yes,yes
+request-13-2-2,enhanced greenhouse warming,climaterelated disruptions,yes,no,yes,no
+request-13-2-3,climaterelated disruptions,pollution,yes,yes,no,yes
+request-13-3-0,methane extraction,fossil fuel combustion,no,no,no,no
+request-13-3-1,fossil fuel combustion,emission of pollutants,yes,no,yes,yes
+request-13-3-2,emission of pollutants,air contamination,yes,no,yes,no
+request-13-3-3,air contamination,pollution,no,yes,yes,yes
+request-14-0-0,methane release into arctic ocean sediments and waters,increased greenhouse gas concentrations,yes,yes,yes,yes
+request-14-0-1,increased greenhouse gas concentrations,accelerated global warming,yes,yes,yes,no
+request-14-0-2,accelerated global warming,ocean temperature rise,yes,no,yes,no
+request-14-0-3,ocean temperature rise,thawing of subsea permafrost and decomposition of methane hydrates,yes,yes,yes,no
+request-14-1-0,methane release into arctic ocean sediments and waters,altered sediment chemistry,yes,yes,yes,yes
+request-14-1-1,altered sediment chemistry,destabilization of permafrost structure,yes,yes,no,yes
+request-14-1-2,destabilization of permafrost structure,thawing of subsea permafrost and decomposition of methane hydrates,yes,yes,yes,yes
+request-14-2-0,methane release into arctic ocean sediments and waters,enhanced microbial activity,yes,yes,yes,yes
+request-14-2-1,enhanced microbial activity,increased heat generation within sediments,yes,yes,no,yes
+request-14-2-2,increased heat generation within sediments,thawing of subsea permafrost and decomposition of methane hydrates,yes,no,no,no
+request-14-3-0,methane release into arctic ocean sediments and waters,reduction in sediment stability,yes,yes,yes,yes
+request-14-3-1,reduction in sediment stability,physical disruption of permafrost layers,yes,yes,yes,yes
+request-14-3-2,physical disruption of permafrost layers,thawing of subsea permafrost and decomposition of methane hydrates,yes,yes,no,yes
+request-15-0-0,methane production by methanogenic microbes,methane released into the atmosphere,yes,no,yes,no
+request-15-0-1,methane released into the atmosphere,atmospheric methane intensifies the greenhouse effect,yes,yes,yes,yes
+request-15-0-2,atmospheric methane intensifies the greenhouse effect,global temperatures rise,yes,yes,yes,yes
+request-15-0-3,global temperatures rise,permafrost thaws,yes,yes,yes,no
+request-15-0-4,permafrost thaws,ancient carbon is released from sediment into the atmosphere,yes,yes,yes,yes
+request-15-1-0,decomposition of organic matter in wetlands,methane emitted from wetlands,yes,no,yes,no
+request-15-1-1,methane emitted from wetlands,methane accumulates in the atmosphere,yes,no,yes,yes
+request-15-1-2,methane accumulates in the atmosphere,enhanced greenhouse warming,yes,yes,yes,yes
+request-15-1-3,enhanced greenhouse warming,increased surface temperatures,yes,yes,yes,no
+request-15-1-4,increased surface temperatures,thermal expansion and sediment disruption,yes,no,yes,no
+request-15-1-5,thermal expansion and sediment disruption,ancient carbon is released from sediment into the atmosphere,yes,yes,no,yes
+request-15-2-0,methane hydrate destabilization in ocean sediments,methane released into ocean water,yes,no,yes,no
+request-15-2-1,methane released into ocean water,methane escapes from ocean to atmosphere,yes,yes,yes,no
+request-15-2-2,methane escapes from ocean to atmosphere,atmospheric methane levels rise,yes,no,no,no
+request-15-2-3,atmospheric methane levels rise,strengthened greenhouse effect,yes,yes,yes,no
+request-15-2-4,strengthened greenhouse effect,ocean temperatures increase,yes,no,yes,no
+request-15-2-5,ocean temperatures increase,ancient carbon is released from sediment into the atmosphere,no,yes,yes,no
+request-15-3-0,anthropogenic methane emissions from fossil fuel extraction,methane enters the atmosphere,yes,yes,yes,yes
+request-15-3-1,methane enters the atmosphere,elevated methane enhances greenhouse warming,yes,no,yes,yes
+request-15-3-2,elevated methane enhances greenhouse warming,climate change accelerates geological weathering,yes,no,no,yes
+request-15-3-3,climate change accelerates geological weathering,increased erosion and sediment disturbance,yes,no,yes,yes
+request-15-3-4,increased erosion and sediment disturbance,ancient carbon is released from sediment into the atmosphere,yes,no,yes,yes
+request-15-4-0,methane leakage from natural seeps,methane concentration in the atmosphere increases,yes,no,yes,no
+request-15-4-1,methane concentration in the atmosphere increases,greenhouse gas effect is amplified,yes,yes,yes,yes
+request-15-4-2,greenhouse gas effect is amplified,global warming intensifies,yes,yes,yes,yes
+request-15-4-3,global warming intensifies,sedimentary layers are disturbed by temperature changes,no,no,yes,no
+request-15-4-4,sedimentary layers are disturbed by temperature changes,ancient carbon is released from sediment into the atmosphere,yes,no,yes,no
+request-16-0-0,ancient sources dominating deep waters,accumulation of methane in deep water reservoirs,yes,no,yes,no
+request-16-0-1,accumulation of methane in deep water reservoirs,limited mixing between deep and surface waters,yes,yes,yes,yes
+request-16-0-2,limited mixing between deep and surface waters,low methane flux to surface,yes,no,yes,no
+request-16-0-3,low methane flux to surface,the 10 ± 3% contribution of surface water methane,no,no,no,no
+request-16-1-0,ancient sources dominating deep waters,high release rates of methane from deep sources,no,no,no,no
+request-16-1-1,high release rates of methane from deep sources,increased methane availability in the water column,yes,no,yes,yes
+request-16-1-2,increased methane availability in the water column,methane transport mechanisms transferring deep methane to surface,yes,yes,yes,yes
+request-16-1-3,methane transport mechanisms transferring deep methane to surface,methane oxidization in surface waters limiting its concentration,yes,yes,yes,yes
+request-16-1-4,methane oxidization in surface waters limiting its concentration,the 10 ± 3% contribution of surface water methane,yes,yes,yes,yes
+request-16-2-0,ancient sources dominating deep waters,cold temperatures in deep waters preserving methane,no,yes,yes,yes
+request-16-2-1,cold temperatures in deep waters preserving methane,minimal methane release to surface,yes,no,yes,yes
+request-16-2-2,minimal methane release to surface,reduced surface water methane levels,yes,yes,yes,yes
+request-16-2-3,reduced surface water methane levels,the 10 ± 3% contribution of surface water methane,no,no,no,no
+request-16-3-0,ancient sources dominating deep waters,methane sequestration in deepsea sediments,no,no,no,no
+request-16-3-1,methane sequestration in deepsea sediments,low disturbance of sediment layers,yes,yes,no,yes
+request-16-3-2,low disturbance of sediment layers,restricted methane migration to surface,yes,yes,yes,yes
+request-16-3-3,restricted methane migration to surface,the 10 ± 3% contribution of surface water methane,yes,no,no,no
+request-16-4-0,ancient sources dominating deep waters,hydrothermal vent activity releasing methane,no,no,no,no
+request-16-4-1,hydrothermal vent activity releasing methane,methane dilution in vast deep water volumes,yes,no,yes,no
+request-16-4-2,methane dilution in vast deep water volumes,limited upward transport of diluted methane,yes,yes,yes,no
+request-16-4-3,limited upward transport of diluted methane,the 10 ± 3% contribution of surface water methane,yes,yes,no,yes
+request-17-0-0,sourced methane,methane release,yes,yes,yes,yes
+request-17-0-1,methane release,atmospheric methane increase,yes,no,yes,no
+request-17-0-2,atmospheric methane increase,greenhouse effect intensification,yes,yes,yes,no
+request-17-0-3,greenhouse effect intensification,climate warming,yes,yes,yes,no
+request-17-0-4,climate warming,permafrost thawing,yes,yes,yes,no
+request-17-0-5,permafrost thawing,the emission of ancient carbon into the atmosphere,yes,yes,yes,no
+request-17-1-0,oceanic oxidation,reduced oceanic carbon uptake,no,no,no,no
+request-17-1-1,reduced oceanic carbon uptake,elevated atmospheric co₂ levels,yes,no,no,no
+request-17-1-2,elevated atmospheric co₂ levels,climate warming,yes,yes,yes,no
+request-17-1-3,climate warming,carbon reservoir destabilization,yes,yes,yes,no
+request-17-1-4,carbon reservoir destabilization,the emission of ancient carbon into the atmosphere,yes,yes,yes,yes
+request-17-2-0,dispersion processes as climate change progresses,enhanced distribution of greenhouse gases,yes,no,yes,yes
+request-17-2-1,enhanced distribution of greenhouse gases,atmospheric warming,yes,yes,yes,no
+request-17-2-2,atmospheric warming,destabilization of carbon storage,yes,yes,yes,no
+request-17-2-3,destabilization of carbon storage,the emission of ancient carbon into the atmosphere,yes,yes,yes,yes
+request-18-0-0,co2 mitigation,reduction in atmospheric co₂ levels,yes,no,yes,no
+request-18-0-1,reduction in atmospheric co₂ levels,stabilization of global temperatures,yes,no,yes,no
+request-18-0-2,stabilization of global temperatures,alteration of ocean temperature gradients,yes,no,no,no
+request-18-0-3,alteration of ocean temperature gradients,disruption of amoc,yes,yes,yes,yes
+request-18-0-4,disruption of amoc,collapse of the atlantic meridional overturning circulation,yes,yes,yes,no
+request-18-1-0,co2 mitigation,decrease in greenhouse gas emissions,yes,yes,yes,yes
+request-18-1-1,decrease in greenhouse gas emissions,changes in global precipitation patterns,yes,no,no,no
+request-18-1-2,changes in global precipitation patterns,increased freshwater influx into the north atlantic,yes,yes,yes,yes
+request-18-1-3,increased freshwater influx into the north atlantic,reduction in ocean salinity,yes,no,yes,no
+request-18-1-4,reduction in ocean salinity,weakening of amoc,yes,yes,yes,no
+request-18-1-5,weakening of amoc,collapse of the atlantic meridional overturning circulation,yes,yes,yes,no
+request-18-2-0,co2 mitigation,adoption of renewable energy sources,yes,yes,yes,yes
+request-18-2-1,adoption of renewable energy sources,reduction in atmospheric aerosols,yes,no,yes,no
+request-18-2-2,reduction in atmospheric aerosols,increased solar radiation absorption by oceans,yes,no,yes,no
+request-18-2-3,increased solar radiation absorption by oceans,altered ocean heat distribution,yes,no,yes,no
+request-18-2-4,altered ocean heat distribution,destabilization of amoc,yes,yes,yes,yes
+request-18-2-5,destabilization of amoc,collapse of the atlantic meridional overturning circulation,yes,yes,yes,no
+request-19-0-0,stronger amoc in rcp85 framework,increased northward heat transport,yes,yes,no,no
+request-19-0-1,increased northward heat transport,enhanced heat distribution in the north atlantic,yes,yes,yes,no
+request-19-0-2,enhanced heat distribution in the north atlantic,elevated sea surface and air temperatures in the north atlantic relative to rcp85ctrl,yes,yes,yes,yes
+request-19-1-0,stronger amoc in rcp85 framework,altered ocean circulation patterns,yes,no,no,no
+request-19-1-1,altered ocean circulation patterns,reduced heat uptake by the north atlantic,yes,yes,yes,yes
+request-19-1-2,reduced heat uptake by the north atlantic,elevated sea surface and air temperatures in the north atlantic relative to rcp85ctrl,yes,yes,yes,no
+request-19-2-0,stronger amoc in rcp85 framework,increased mixing of warm surface waters with deeper layers,yes,no,no,no
+request-19-2-1,increased mixing of warm surface waters with deeper layers,amplified local warming in the north atlantic,no,no,no,no
+request-19-2-2,amplified local warming in the north atlantic,elevated sea surface and air temperatures in the north atlantic relative to rcp85ctrl,yes,yes,yes,yes
+request-20-0-0,the hottest pathway resulting in 45+ degrees of warming by the end of the century,increased demand for climate adaptation technologies,yes,no,no,no
+request-20-0-1,increased demand for climate adaptation technologies,growth in green technology sectors,yes,yes,yes,no
+request-20-0-2,growth in green technology sectors,job creation and investment,yes,yes,yes,yes
+request-20-0-3,job creation and investment,the absolute highest economic growth,no,yes,no,yes
+request-20-1-0,the hottest pathway resulting in 45+ degrees of warming by the end of the century,accelerated infrastructure development for climate resilience,yes,no,no,no
+request-20-1-1,accelerated infrastructure development for climate resilience,expansion of construction and related industries,yes,yes,yes,no
+request-20-1-2,expansion of construction and related industries,increased gdp from infrastructure projects,yes,yes,yes,yes
+request-20-1-3,increased gdp from infrastructure projects,the absolute highest economic growth,no,yes,no,no
+request-20-2-0,the hottest pathway resulting in 45+ degrees of warming by the end of the century,international policies and regulations to mitigate climate impacts,yes,no,no,no
+request-20-2-1,international policies and regulations to mitigate climate impacts,increased government spending on green initiatives,yes,no,yes,yes
+request-20-2-2,increased government spending on green initiatives,stimulated economic activities in sustainable sectors,yes,yes,yes,no
+request-20-2-3,stimulated economic activities in sustainable sectors,the absolute highest economic growth,no,no,no,no
+request-20-3-0,the hottest pathway resulting in 45+ degrees of warming by the end of the century,forced migration and urbanization,yes,no,yes,no
+request-20-3-1,forced migration and urbanization,increased urban development and consumer markets,yes,no,yes,no
+request-20-3-2,increased urban development and consumer markets,boost in service and manufacturing industries,yes,yes,yes,yes
+request-20-3-3,boost in service and manufacturing industries,the absolute highest economic growth,no,yes,no,no
+request-20-4-0,the hottest pathway resulting in 45+ degrees of warming by the end of the century,resource scarcity and competition,yes,no,yes,no
+request-20-4-1,resource scarcity and competition,innovation in resourceefficient technologies,yes,no,yes,no
+request-20-4-2,innovation in resourceefficient technologies,market expansion for sustainable products,yes,yes,yes,yes
+request-20-4-3,market expansion for sustainable products,the absolute highest economic growth,no,yes,no,no
+request-21-0-0,people’s anxiety,increased heart rate,yes,no,yes,no
+request-21-0-1,increased heart rate,increased respiration,no,yes,no,yes
+request-21-0-2,increased respiration,increased oxygen intake and co₂ release,yes,yes,yes,no
+request-21-1-0,people’s anxiety,activation of the sympathetic nervous system,yes,yes,yes,yes
+request-21-1-1,activation of the sympathetic nervous system,hyperventilation,yes,yes,yes,no
+request-21-1-2,hyperventilation,increased oxygen intake and co₂ release,yes,no,no,no
+request-21-2-0,people’s anxiety,release of stress hormones,yes,yes,yes,yes
+request-21-2-1,release of stress hormones,increased metabolic rate,yes,no,yes,no
+request-21-2-2,increased metabolic rate,increased oxygen intake and co₂ release,yes,no,yes,no
+request-21-3-0,people’s anxiety,muscle tension,yes,no,yes,no
+request-21-3-1,muscle tension,increased physical activity,no,yes,no,yes
+request-21-3-2,increased physical activity,increased oxygen intake and co₂ release,yes,no,yes,no
+request-22-0-0,genuine population decline beyond expected levels,aging population,yes,yes,no,yes
+request-22-0-1,aging population,fewer women of childbearing age,yes,yes,yes,no
+request-22-0-2,fewer women of childbearing age,decline in birth rates this century,no,yes,no,yes
+request-22-1-0,genuine population decline beyond expected levels,economic downturn,yes,yes,yes,yes
+request-22-1-1,economic downturn,increased unemployment,yes,no,yes,no
+request-22-1-2,increased unemployment,delay in family planning,yes,no,yes,no
+request-22-1-3,delay in family planning,decline in birth rates this century,yes,no,yes,no
+request-22-2-0,genuine population decline beyond expected levels,social changes,yes,yes,yes,yes
+request-22-2-1,social changes,shift in cultural values,yes,yes,yes,yes
+request-22-2-2,shift in cultural values,lower fertility preferences,yes,yes,yes,yes
+request-22-2-3,lower fertility preferences,decline in birth rates this century,yes,no,yes,yes
+request-22-3-0,genuine population decline beyond expected levels,increased educational attainment,no,no,no,yes
+request-22-3-1,increased educational attainment,delayed marriage,yes,no,yes,no
+request-22-3-2,delayed marriage,reduced number of children per family,yes,yes,yes,no
+request-22-3-3,reduced number of children per family,decline in birth rates this century,yes,yes,yes,no
+request-22-4-0,genuine population decline beyond expected levels,housing market instability,yes,yes,yes,yes
+request-22-4-1,housing market instability,reduced household formation,yes,yes,yes,yes
+request-22-4-2,reduced household formation,fewer births,yes,no,no,no
+request-22-4-3,fewer births,decline in birth rates this century,no,yes,yes,yes
+request-23-0-0,china,rapid industrialization,yes,yes,no,no
+request-23-0-1,rapid industrialization,increased manufacturing output,yes,yes,yes,no
+request-23-0-2,increased manufacturing output,higher energy consumption,yes,yes,yes,yes
+request-23-0-3,higher energy consumption,most emissions,yes,no,yes,yes
+request-23-1-0,china,urban expansion,yes,no,no,no
+request-23-1-1,urban expansion,growth in transportation systems,yes,yes,yes,yes
+request-23-1-2,growth in transportation systems,elevated fuel use,yes,no,yes,no
+request-23-1-3,elevated fuel use,most emissions,yes,no,yes,no
+request-23-2-0,china,economic growth,yes,no,no,"i'm sorry, but could you please clarify your question?"
+request-23-2-1,economic growth,construction boom,yes,yes,yes,no
+request-23-2-2,construction boom,increased use of cement and steel,yes,yes,yes,no
+request-23-2-3,increased use of cement and steel,most emissions,no,no,no,no
+request-23-3-0,china,reliance on coalfired power plants,yes,"i'm sorry, but your question is unclear could you please provide more context or clarify?",no,no
+request-23-3-1,reliance on coalfired power plants,high carbon emissions,yes,no,yes,no
+request-23-3-2,high carbon emissions,most emissions,no,no,yes,yes
+request-23-4-0,china,population growth,no,no,no,no
+request-23-4-1,population growth,increased housing demand,yes,no,yes,no
+request-23-4-2,increased housing demand,higher energy usage,yes,no,yes,no
+request-23-4-3,higher energy usage,most emissions,yes,no,yes,no
+request-24-0-0,india,population growth,yes,no,no,no
+request-24-0-1,population growth,increased energy demand,yes,no,yes,no
+request-24-0-2,increased energy demand,reliance on coal,yes,no,yes,no
+request-24-0-3,reliance on coal,carbon dioxide emissions,yes,no,yes,no
+request-24-0-4,carbon dioxide emissions,most emissions,yes,yes,yes,yes
+request-24-1-0,india,economic development,yes,no,no,"i'm sorry, but i need more information to answer your question"
+request-24-1-1,economic development,industrial expansion,yes,yes,yes,yes
+request-24-1-2,industrial expansion,fossil fuel combustion,yes,yes,yes,yes
+request-24-1-3,fossil fuel combustion,greenhouse gas emissions,yes,no,yes,no
+request-24-1-4,greenhouse gas emissions,most emissions,no,no,yes,no
+request-24-2-0,india,urbanization,yes,no,no,no
+request-24-2-1,urbanization,transportation sector growth,yes,yes,yes,no
+request-24-2-2,transportation sector growth,vehicle emissions,yes,no,yes,no
+request-24-2-3,vehicle emissions,air pollutants,yes,no,yes,yes
+request-24-2-4,air pollutants,most emissions,no,yes,yes,yes
+request-24-3-0,india,manufacturing growth,yes,no,no,no
+request-24-3-1,manufacturing growth,energyintensive industries,yes,yes,yes,yes
+request-24-3-2,energyintensive industries,increased energy consumption,yes,no,yes,no
+request-24-3-3,increased energy consumption,co₂ emissions,yes,no,yes,no
+request-24-3-4,co₂ emissions,most emissions,yes,yes,yes,yes
+request-24-4-0,india,agricultural expansion,yes,yes,no,no
+request-24-4-1,agricultural expansion,use of fertilizers,yes,no,no,no
+request-24-4-2,use of fertilizers,nitrous oxide emissions,yes,no,yes,yes
+request-24-4-3,nitrous oxide emissions,greenhouse gas emissions,yes,no,yes,no
+request-24-4-4,greenhouse gas emissions,most emissions,no,no,yes,yes
+request-24-5-0,india,deforestation,yes,no,no,no
+request-24-5-1,deforestation,reduced carbon sinks,yes,no,yes,no
+request-24-5-2,reduced carbon sinks,increased atmospheric co₂,yes,no,yes,yes
+request-24-5-3,increased atmospheric co₂,most emissions,no,yes,no,yes
+request-25-0-0,corporations prioritize profit,increased production activities,yes,yes,yes,yes
+request-25-0-1,increased production activities,higher energy consumption,yes,no,yes,yes
+request-25-0-2,higher energy consumption,greater fossil fuel combustion,yes,no,yes,no
+request-25-0-3,greater fossil fuel combustion,vast majority of climate emissions,yes,yes,yes,yes
+request-25-1-0,corporations invest in fossil fuel infrastructure,expansion of oil and gas extraction,yes,yes,yes,yes
+request-25-1-1,expansion of oil and gas extraction,combustion of extracted fuels,no,yes,no,yes
+request-25-1-2,combustion of extracted fuels,release of greenhouse gases,yes,no,yes,yes
+request-25-1-3,release of greenhouse gases,vast majority of climate emissions,yes,yes,yes,yes
+request-25-2-0,corporations drive transportation demand,growth in vehicle manufacturing,yes,yes,yes,yes
+request-25-2-1,growth in vehicle manufacturing,increased use of vehicles,yes,yes,yes,yes
+request-25-2-2,increased use of vehicles,emissions from transportation,yes,no,yes,no
+request-25-2-3,emissions from transportation,vast majority of climate emissions,no,no,no,no
+request-25-3-0,corporations engage in deforestation for expansion,reduced carbon sinks,yes,no,yes,yes
+request-25-3-1,reduced carbon sinks,higher atmospheric co₂ levels,yes,yes,yes,yes
+request-25-3-2,higher atmospheric co₂ levels,vast majority of climate emissions,no,yes,no,yes
+request-25-4-0,corporations implement industrial processes,use of highemission technologies,yes,no,yes,yes
+request-25-4-1,use of highemission technologies,industrial greenhouse gas emissions,yes,no,yes,yes
+request-25-4-2,industrial greenhouse gas emissions,vast majority of climate emissions,no,no,no,yes
+request-26-0-0,corporations prioritize profit,increased production,yes,no,yes,yes
+request-26-0-1,increased production,higher greenhouse gas emissions,yes,no,yes,no
+request-26-1-0,corporations invest in fossil fuel infrastructure,expanded fossil fuel use,yes,yes,yes,yes
+request-26-1-1,expanded fossil fuel use,over 90% of climate change emissions,no,"i'm sorry, but i need some clarification to provide an accurate answer could you please rephrase your question?",no,no
+request-26-2-0,corporations influence policies,lax environmental regulations,yes,yes,yes,yes
+request-26-2-1,lax environmental regulations,increased emissions,yes,no,yes,no
+request-26-3-0,corporations drive economic growth,increased energy demand,yes,yes,yes,no
+request-26-3-1,increased energy demand,higher climate change emissions,yes,yes,yes,no
+request-26-4-0,corporations engage in deforestation,reduced carbon sinks,yes,no,yes,yes
+request-26-4-1,reduced carbon sinks,over 90% of climate change emissions,no,no,no,no
+request-26-5-0,corporations outsource manufacturing,transportation emissions,yes,no,yes,no
+request-26-5-1,transportation emissions,higher overall greenhouse gas emissions,yes,no,no,yes
+request-26-6-0,corporations utilize nonrenewable resources,resource extraction emissions,yes,no,yes,yes
+request-26-6-1,resource extraction emissions,over 90% of climate change emissions,no,no,no,no
+request-26-7-0,corporations produce singleuse products,waste management emissions,yes,no,yes,yes
+request-26-7-1,waste management emissions,increased climate change emissions,yes,no,yes,no
+request-26-8-0,corporations expand global supply chains,increased logistics emissions,yes,no,yes,no
+request-26-8-1,increased logistics emissions,higher greenhouse gas emissions,yes,no,yes,no
+request-26-9-0,corporations adopt energyintensive technologies,higher energy consumption,yes,no,yes,no
+request-26-9-1,higher energy consumption,over 90% of climate change emissions,no,no,no,no
+request-27-0-0,"the tossing of a single cigarette on dry, hot ground",ignition of dry vegetation,yes,no,yes,yes
+request-27-0-1,ignition of dry vegetation,rapid spread of flames due to wind,yes,yes,yes,yes
+request-27-0-2,rapid spread of flames due to wind,a massive fire,yes,no,yes,yes
+request-27-1-0,"the tossing of a single cigarette on dry, hot ground",ember ignites nearby litter,yes,yes,yes,yes
+request-27-1-1,ember ignites nearby litter,fire spreads to surrounding plants,yes,yes,yes,yes
+request-27-1-2,fire spreads to surrounding plants,dry conditions sustain fire growth,yes,yes,yes,yes
+request-27-1-3,dry conditions sustain fire growth,a massive fire,yes,yes,yes,yes
+request-27-2-0,"the tossing of a single cigarette on dry, hot ground",initial spark creates ignition point,yes,yes,yes,yes
+request-27-2-1,initial spark creates ignition point,fire reaches dry grass,yes,yes,yes,yes
+request-27-2-2,fire reaches dry grass,fire spreads to nearby trees,yes,yes,yes,no
+request-27-2-3,fire spreads to nearby trees,a massive fire,yes,yes,yes,yes
+request-27-3-0,"the tossing of a single cigarette on dry, hot ground",smoking debris remains unattended,yes,yes,yes,yes
+request-27-3-1,smoking debris remains unattended,accumulation of flammable materials,yes,no,yes,yes
+request-27-3-2,accumulation of flammable materials,ignition of accumulated materials,no,no,no,no
+request-27-3-3,ignition of accumulated materials,a massive fire,yes,yes,yes,yes
+request-28-0-0,the us,industrial activities,yes,no,yes,no
+request-28-0-1,industrial activities,fossil fuel combustion,yes,no,yes,no
+request-28-0-2,fossil fuel combustion,co₂ emissions,yes,no,yes,no
+request-28-0-3,co₂ emissions,atmospheric co₂ concentration,yes,no,yes,no
+request-28-0-4,atmospheric co₂ concentration,current co₂ levels,yes,yes,no,no
+request-28-1-0,the us,transportation sector expansion,yes,no,no,no
+request-28-1-1,transportation sector expansion,vehicle emissions,yes,no,yes,no
+request-28-1-2,vehicle emissions,co₂ emissions,yes,no,yes,no
+request-28-1-3,co₂ emissions,atmospheric co₂ concentration,yes,no,yes,no
+request-28-1-4,atmospheric co₂ concentration,current co₂ levels,yes,yes,yes,no
+request-28-2-0,the us,energy production from coal,yes,yes,no,yes
+request-28-2-1,energy production from coal,carbon emissions,yes,no,yes,no
+request-28-2-2,carbon emissions,atmospheric co₂ concentration,yes,no,yes,no
+request-28-2-3,atmospheric co₂ concentration,current co₂ levels,no,yes,no,could you please clarify your question?
+request-28-3-0,the us,deforestation activities,yes,yes,yes,no
+request-28-3-1,deforestation activities,reduced carbon sequestration,yes,no,yes,no
+request-28-3-2,reduced carbon sequestration,increased atmospheric co₂,yes,no,yes,no
+request-28-3-3,increased atmospheric co₂,current co₂ levels,no,no,yes,yes
+request-28-4-0,the us,economic growth,no,no,no,"i'm sorry, but i need more information to provide an accurate answer could you please clarify your question?"
+request-28-4-1,economic growth,increased energy demand,yes,yes,yes,no
+request-28-4-2,increased energy demand,fossil fuel consumption,yes,yes,yes,no
+request-28-4-3,fossil fuel consumption,co₂ emissions,yes,no,yes,no
+request-28-4-4,co₂ emissions,atmospheric co₂ concentration,yes,no,yes,no
+request-28-4-5,atmospheric co₂ concentration,current co₂ levels,yes,yes,no,no
+request-28-5-0,the us,energy policies,yes,no,no,no
+request-28-5-1,energy policies,fossil fuel subsidies,yes,yes,yes,no
+request-28-5-2,fossil fuel subsidies,heightened fossil fuel use,yes,no,yes,no
+request-28-5-3,heightened fossil fuel use,co₂ emissions,yes,no,yes,no
+request-28-5-4,co₂ emissions,atmospheric co₂ concentration,yes,no,yes,no
+request-28-5-5,atmospheric co₂ concentration,current co₂ levels,yes,yes,no,no
+request-29-0-0,climate change,higher atmospheric temperatures,yes,yes,yes,no
+request-29-0-1,higher atmospheric temperatures,increased atmospheric instability,yes,no,yes,no
+request-29-0-2,increased atmospheric instability,more thunderstorms,yes,yes,yes,no
+request-29-0-3,more thunderstorms,the increasing frequency of lightning,yes,no,yes,no
+request-29-1-0,climate change,increased atmospheric moisture,yes,no,yes,no
+request-29-1-1,increased atmospheric moisture,enhanced convection,yes,yes,yes,no
+request-29-1-2,enhanced convection,greater thunderstorm activity,yes,no,yes,no
+request-29-1-3,greater thunderstorm activity,the increasing frequency of lightning,yes,no,yes,no
+request-29-2-0,climate change,changes in jet stream patterns,yes,no,yes,no
+request-29-2-1,changes in jet stream patterns,altered storm tracks,yes,no,yes,no
+request-29-2-2,altered storm tracks,more severe thunderstorms,yes,no,yes,no
+request-29-2-3,more severe thunderstorms,the increasing frequency of lightning,yes,no,yes,no
+request-29-3-0,climate change,sea surface temperature rise,yes,no,yes,no
+request-29-3-1,sea surface temperature rise,increased evaporation,yes,no,yes,no
+request-29-3-2,increased evaporation,more precipitation,yes,yes,yes,no
+request-29-3-3,more precipitation,more convective storms,no,yes,no,yes
+request-29-3-4,more convective storms,the increasing frequency of lightning,yes,no,yes,no
+request-29-4-0,climate change,enhanced greenhouse effect,no,yes,no,yes
+request-29-4-1,enhanced greenhouse effect,warmer surface temperatures,yes,yes,yes,no
+request-29-4-2,warmer surface temperatures,increased convective activity,yes,no,yes,no
+request-29-4-3,increased convective activity,more lightning events,yes,no,yes,no
+request-29-4-4,more lightning events,the increasing frequency of lightning,no,yes,yes,yes
+request-30-0-0,human influence,greenhouse gas emissions,yes,yes,yes,yes
+request-30-0-1,greenhouse gas emissions,increased atmospheric greenhouse gases,yes,no,yes,no
+request-30-0-2,increased atmospheric greenhouse gases,enhanced greenhouse effect,yes,no,yes,no
+request-30-0-3,enhanced greenhouse effect,global warming,yes,no,yes,no
+request-30-0-4,global warming,this 1°c increase,yes,no,yes,no
+request-30-1-0,human influence,deforestation,yes,no,yes,yes
+request-30-1-1,deforestation,reduced carbon sequestration,yes,no,yes,no
+request-30-1-2,reduced carbon sequestration,elevated atmospheric co₂ levels,yes,no,yes,yes
+request-30-1-3,elevated atmospheric co₂ levels,enhanced greenhouse effect,yes,no,yes,no
+request-30-1-4,enhanced greenhouse effect,global warming,yes,no,yes,no
+request-30-1-5,global warming,this 1°c increase,yes,no,yes,no
+request-30-2-0,human influence,fossil fuel combustion,yes,yes,yes,yes
+request-30-2-1,fossil fuel combustion,release of carbon dioxide and methane,yes,no,yes,no
+request-30-2-2,release of carbon dioxide and methane,higher greenhouse gas concentrations,yes,yes,yes,yes
+request-30-2-3,higher greenhouse gas concentrations,enhanced radiative forcing,yes,no,yes,no
+request-30-2-4,enhanced radiative forcing,global temperature rise,yes,no,yes,no
+request-30-2-5,global temperature rise,this 1°c increase,yes,yes,yes,no
+request-30-3-0,human influence,industrial activities,yes,yes,yes,yes
+request-30-3-1,industrial activities,emission of pollutants,yes,no,yes,no
+request-30-3-2,emission of pollutants,increased radiative forcing,yes,no,yes,no
+request-30-3-3,increased radiative forcing,climate change,yes,yes,yes,no
+request-30-3-4,climate change,this 1°c increase,yes,yes,yes,no
+request-30-4-0,human influence,agricultural practices,yes,no,yes,yes
+request-30-4-1,agricultural practices,methane emissions,yes,no,yes,yes
+request-30-4-2,methane emissions,increased greenhouse gas levels,yes,yes,yes,no
+request-30-4-3,increased greenhouse gas levels,enhanced greenhouse effect,yes,yes,yes,no
+request-30-4-4,enhanced greenhouse effect,climate warming,yes,yes,yes,no
+request-30-4-5,climate warming,this 1°c increase,yes,no,yes,no
+request-31-0-0,humans,emission of greenhouse gases,yes,no,yes,yes
+request-31-0-1,emission of greenhouse gases,climate change,yes,yes,yes,no
+request-31-0-2,climate change,alterations in earth's energy balance,yes,yes,yes,yes
+request-31-0-3,alterations in earth's energy balance,feedback mechanisms affecting solar radiation absorption,yes,yes,yes,yes
+request-31-0-4,feedback mechanisms affecting solar radiation absorption,solar activity,no,yes,no,yes
+request-31-1-0,humans,industrial pollution,yes,no,yes,no
+request-31-1-1,industrial pollution,increase in atmospheric aerosols,yes,no,yes,no
+request-31-1-2,increase in atmospheric aerosols,scattering of solar radiation,yes,no,yes,no
+request-31-1-3,scattering of solar radiation,changes in atmospheric heating rates,yes,no,yes,no
+request-31-1-4,changes in atmospheric heating rates,solar activity,no,yes,no,yes
+request-31-2-0,humans,technological advancements,yes,no,yes,no
+request-31-2-1,technological advancements,space exploration activities,yes,yes,yes,yes
+request-31-2-2,space exploration activities,deployment of largescale space structures,yes,no,yes,no
+request-31-2-3,deployment of largescale space structures,interaction with solar wind,yes,no,no,no
+request-31-2-4,interaction with solar wind,solar activity,no,yes,no,yes
+request-32-0-0,increase in co2 in the atmosphere,enhanced greenhouse effect,yes,no,yes,no
+request-32-0-1,enhanced greenhouse effect,trapping of solar rays in the atmosphere,no,no,no,no
+request-32-1-0,increase in co2 in the atmosphere,absorption of infrared radiation,yes,no,yes,no
+request-32-1-1,absorption of infrared radiation,warming of the atmosphere,yes,no,yes,yes
+request-32-1-2,warming of the atmosphere,trapping of solar rays in the atmosphere,no,yes,no,no
+request-32-2-0,increase in co2 in the atmosphere,alteration of earth's radiative balance,yes,yes,yes,no
+request-32-2-1,alteration of earth's radiative balance,greater retention of heat energy,yes,yes,yes,yes
+request-32-2-2,greater retention of heat energy,trapping of solar rays in the atmosphere,no,yes,no,yes
+request-33-0-0,the trapping of solar rays in the atmosphere,absorption of solar energy by greenhouse gases,yes,no,no,no
+request-33-0-1,absorption of solar energy by greenhouse gases,increase in atmospheric temperature,yes,no,no,no
+request-33-0-2,increase in atmospheric temperature,"the heating effect, commonly known as the greenhouse effect",no,yes,no,yes
+request-33-1-0,the trapping of solar rays in the atmosphere,conversion of solar energy to thermal energy,yes,no,yes,yes
+request-33-1-1,conversion of solar energy to thermal energy,warming of the earth's surface,yes,yes,yes,no
+request-33-1-2,warming of the earth's surface,"the heating effect, commonly known as the greenhouse effect",no,yes,no,yes
+request-33-2-0,the trapping of solar rays in the atmosphere,reflection and reradiation of energy by greenhouse gases,no,no,no,no
+request-33-2-1,reflection and reradiation of energy by greenhouse gases,enhanced heat retention in the atmosphere,yes,no,no,no
+request-33-2-2,enhanced heat retention in the atmosphere,"the heating effect, commonly known as the greenhouse effect",yes,yes,yes,yes
+request-34-0-0,prolonged droughts we are experiencing,dry vegetation buildup,yes,yes,yes,no
+request-34-0-1,dry vegetation buildup,increased fuel availability,yes,no,yes,yes
+request-34-0-2,increased fuel availability,wild fires,no,no,yes,no
+request-34-1-0,prolonged droughts we are experiencing,elevated temperatures,yes,yes,no,yes
+request-34-1-1,elevated temperatures,enhanced evaporation rates,yes,no,yes,no
+request-34-1-2,enhanced evaporation rates,drier landscape conditions,yes,no,yes,no
+request-34-1-3,drier landscape conditions,wild fires,yes,yes,yes,yes
+request-34-2-0,prolonged droughts we are experiencing,reduced soil moisture,yes,no,yes,no
+request-34-2-1,reduced soil moisture,increased susceptibility to ignition,yes,no,yes,no
+request-34-2-2,increased susceptibility to ignition,wild fires,yes,yes,yes,yes
+request-34-3-0,prolonged droughts we are experiencing,weakened plant resilience,yes,no,yes,no
+request-34-3-1,weakened plant resilience,accumulation of dry biomass,yes,no,yes,no
+request-34-3-2,accumulation of dry biomass,wild fires,yes,no,yes,no
+request-35-0-0,microplastics,ocean pollution,yes,no,yes,yes
+request-35-0-1,ocean pollution,marine ecosystem disruption,yes,no,yes,no
+request-35-0-2,marine ecosystem disruption,biodiversity loss,yes,yes,yes,yes
+request-35-0-3,biodiversity loss,climate change acceleration,yes,yes,no,yes
+request-35-0-4,climate change acceleration,global environmental transformation,yes,yes,yes,yes
+request-35-0-5,global environmental transformation,alien world,no,no,no,no
+request-35-1-0,microplastics,environmental toxicity,yes,no,yes,no
+request-35-1-1,environmental toxicity,human health crises,yes,no,yes,no
+request-35-1-2,human health crises,technological advancement,yes,yes,yes,no
+request-35-1-3,technological advancement,space exploration,yes,yes,yes,yes
+request-35-1-4,space exploration,colonization of alien world,yes,no,no,no
+request-35-2-0,microplastics,pollution accumulation,yes,yes,yes,yes
+request-35-2-1,pollution accumulation,atmospheric changes,yes,yes,yes,no
+request-35-2-2,atmospheric changes,planetary climate shift,yes,yes,yes,yes
+request-35-2-3,planetary climate shift,formation of alienlike conditions,yes,no,yes,no
+request-35-2-4,formation of alienlike conditions,alien world,yes,yes,"could you please clarify what you mean by ""alienlike conditions""?",no
+request-36-0-0,the significant greening of the planet,increased plant biomass,yes,yes,no,yes
+request-36-0-1,increased plant biomass,enhanced carbon sequestration,yes,yes,yes,no
+request-36-0-2,enhanced carbon sequestration,altered carbon cycle dynamics,yes,no,yes,yes
+request-36-0-3,altered carbon cycle dynamics,increased co₂ emissions,yes,yes,no,yes
+request-36-1-0,the significant greening of the planet,expansion of forests,no,yes,no,no
+request-36-1-1,expansion of forests,demand for timber,no,no,no,no
+request-36-1-2,demand for timber,unsustainable logging practices,yes,no,yes,yes
+request-36-1-3,unsustainable logging practices,shift from trees to fossil fuels,yes,no,no,no
+request-36-2-0,the significant greening of the planet,greater oxygen production,yes,no,no,no
+request-36-2-1,greater oxygen production,human population growth,no,no,no,no
+request-36-2-2,human population growth,increased energy needs,yes,no,yes,no
+request-36-2-3,increased energy needs,shift from trees to fossil fuels,yes,yes,yes,yes
+request-36-3-0,the significant greening of the planet,changes in land use,yes,yes,no,yes
+request-36-3-1,changes in land use,agricultural expansion,yes,yes,yes,yes
+request-36-3-2,agricultural expansion,deforestation,yes,yes,yes,no
+request-36-3-3,deforestation,co₂ emissions,yes,no,yes,no
+request-37-0-0,land clearance for construction and agriculture,removal of trees,yes,yes,yes,yes
+request-37-0-1,removal of trees,loss of forest cover,yes,yes,yes,no
+request-37-0-2,loss of forest cover,deforestation,yes,yes,no,yes
+request-37-1-0,land clearance for construction and agriculture,habitat destruction,yes,no,yes,no
+request-37-1-1,habitat destruction,ecosystem disruption,yes,yes,yes,no
+request-37-1-2,ecosystem disruption,deforestation,yes,yes,no,yes
+request-37-2-0,land clearance for construction and agriculture,increased agricultural activities,yes,yes,yes,yes
+request-37-2-1,increased agricultural activities,expansion into forested areas,yes,yes,yes,no
+request-37-2-2,expansion into forested areas,deforestation,yes,yes,yes,no
+request-37-3-0,land clearance for construction and agriculture,soil degradation,yes,no,yes,no
+request-37-3-1,soil degradation,reduced forest regeneration,yes,yes,yes,yes
+request-37-3-2,reduced forest regeneration,deforestation,no,yes,no,yes
+request-38-0-0,the burning of carbon,energy production,yes,yes,yes,yes
+request-38-0-1,energy production,electricity generation,no,no,no,no
+request-38-0-2,electricity generation,power distribution,yes,no,yes,no
+request-38-0-3,power distribution,electricity used in labs,no,no,yes,no
+request-38-1-0,the burning of carbon,combustion releases heat,yes,yes,yes,yes
+request-38-1-1,combustion releases heat,heat drives turbines,yes,yes,yes,yes
+request-38-1-2,heat drives turbines,turbines generate electricity,yes,yes,no,yes
+request-38-1-3,turbines generate electricity,electricity transmitted to labs,yes,yes,no,no
+request-38-1-4,electricity transmitted to labs,electricity used in labs,yes,no,yes,no
+request-38-2-0,the burning of carbon,fossil fuel consumption,yes,yes,no,yes
+request-38-2-1,fossil fuel consumption,power plant operation,yes,yes,no,yes
+request-38-2-2,power plant operation,electrical grid distribution,no,no,yes,no
+request-38-2-3,electrical grid distribution,electricity supplied to laboratories,yes,no,yes,no
+request-38-2-4,electricity supplied to laboratories,electricity used in labs,yes,no,yes,no
+request-39-0-0,the high carbon footprint of labgrown wood,increased greenhouse gas emissions,yes,yes,no,yes
+request-39-0-1,increased greenhouse gas emissions,enhanced greenhouse effect,yes,no,yes,no
+request-39-0-2,enhanced greenhouse effect,global warming,yes,no,yes,no
+request-39-1-0,the high carbon footprint of labgrown wood,greater energy consumption,no,yes,no,yes
+request-39-1-1,greater energy consumption,higher fossil fuel usage,yes,yes,yes,yes
+request-39-1-2,higher fossil fuel usage,elevated carbon dioxide levels,yes,no,yes,no
+request-39-1-3,elevated carbon dioxide levels,global warming,yes,no,yes,no
+request-39-2-0,the high carbon footprint of labgrown wood,increased industrial activity,no,no,no,no
+request-39-2-1,increased industrial activity,more emissions from manufacturing processes,yes,no,yes,no
+request-39-2-2,more emissions from manufacturing processes,rising atmospheric greenhouse gases,yes,no,yes,no
+request-39-2-3,rising atmospheric greenhouse gases,global warming,yes,no,yes,no
+request-39-3-0,the high carbon footprint of labgrown wood,increased transportation needs,no,no,no,no
+request-39-3-1,increased transportation needs,higher vehicle emissions,yes,no,yes,no
+request-39-3-2,higher vehicle emissions,elevated greenhouse gas concentrations,yes,no,yes,no
+request-39-3-3,elevated greenhouse gas concentrations,global warming,yes,no,yes,no
+request-40-0-0,the enrichment of green energy investors and big banks,increased investment in renewable energy projects,yes,yes,yes,yes
+request-40-0-1,increased investment in renewable energy projects,expansion of sustainable infrastructure,yes,yes,yes,yes
+request-40-0-2,expansion of sustainable infrastructure,job creation in the green sector,yes,yes,yes,no
+request-40-0-3,job creation in the green sector,influence on government policy and regulations,yes,yes,yes,yes
+request-40-0-4,influence on government policy and regulations,changes of the political economy of climate change,yes,yes,yes,yes
+request-40-1-0,the enrichment of green energy investors and big banks,funding research and development in clean technologies,yes,yes,no,yes
+request-40-1-1,funding research and development in clean technologies,innovation and technological breakthroughs,yes,yes,yes,no
+request-40-1-2,innovation and technological breakthroughs,competitive advantage in the energy market,yes,yes,yes,yes
+request-40-1-3,competitive advantage in the energy market,shift in market dynamics favoring green energy,yes,yes,yes,yes
+request-40-1-4,shift in market dynamics favoring green energy,changes of the political economy of climate change,yes,yes,yes,yes
+request-40-2-0,the enrichment of green energy investors and big banks,lobbying for favorable environmental policies,yes,yes,yes,no
+request-40-2-1,lobbying for favorable environmental policies,implementation of supportive legislation,yes,no,yes,yes
+request-40-2-2,implementation of supportive legislation,incentives for green energy adoption,yes,yes,yes,no
+request-40-2-3,incentives for green energy adoption,transformation of energy consumption patterns,yes,yes,yes,yes
+request-40-2-4,transformation of energy consumption patterns,changes of the political economy of climate change,yes,yes,yes,yes
+request-40-3-0,the enrichment of green energy investors and big banks,partnerships with governments and international organizations,"the relationship is complex and cannot be accurately captured with a simple ""yes"" or ""no""",yes,no,no
+request-40-3-1,partnerships with governments and international organizations,global initiatives for climate action,yes,yes,yes,yes
+request-40-3-2,global initiatives for climate action,standardization of green energy practices,yes,yes,yes,no
+request-40-3-3,standardization of green energy practices,integration of sustainability into economic models,yes,no,no,yes
+request-40-3-4,integration of sustainability into economic models,changes of the political economy of climate change,yes,yes,yes,yes
+request-40-4-0,the enrichment of green energy investors and big banks,public awareness campaigns on sustainability,yes,yes,no,no
+request-40-4-1,public awareness campaigns on sustainability,consumer demand for green products and services,yes,yes,yes,yes
+request-40-4-2,consumer demand for green products and services,corporate shift towards environmentally friendly practices,yes,no,yes,no
+request-40-4-3,corporate shift towards environmentally friendly practices,economic prioritization of green industries,yes,yes,yes,no
+request-40-4-4,economic prioritization of green industries,changes of the political economy of climate change,yes,yes,yes,yes
+request-41-0-0,proposed bill,allocation of funding for renewable energy projects,"i'm sorry, but i need more information about the specific proposed bill to provide an accurate answer",no,no,no
+request-41-0-1,allocation of funding for renewable energy projects,development of renewable energy infrastructure,yes,yes,yes,no
+request-41-0-2,development of renewable energy infrastructure,creation of jobs in the renewable energy sector,yes,yes,yes,no
+request-41-0-3,creation of jobs in the renewable energy sector,stimulation of related industries,yes,yes,yes,yes
+request-41-0-4,stimulation of related industries,millions of jobs for americans,yes,yes,yes,yes
+request-41-1-0,proposed bill,implementation of tax incentives for small businesses,no,no,no,i need more information about the proposed bill to answer your question
+request-41-1-1,implementation of tax incentives for small businesses,increased investment by small businesses,yes,no,yes,no
+request-41-1-2,increased investment by small businesses,business expansion,yes,yes,yes,yes
+request-41-1-3,business expansion,hiring of additional employees,yes,no,yes,no
+request-41-1-4,hiring of additional employees,millions of jobs for americans,yes,yes,yes,no
+request-41-2-0,proposed bill,enhancement of education and vocational training programs,"i'm sorry, but i need more information about the proposed bill you're referring to in order to answer your question with a ""yes"" or ""no""",no,no,no
+request-41-2-1,enhancement of education and vocational training programs,development of a skilled workforce,yes,no,yes,no
+request-41-2-2,development of a skilled workforce,higher productivity and innovation,yes,no,yes,no
+request-41-2-3,higher productivity and innovation,attraction of new businesses and industries,yes,yes,yes,yes
+request-41-2-4,attraction of new businesses and industries,millions of jobs for americans,yes,yes,yes,yes
+request-41-3-0,proposed bill,deregulation of certain industries,"i'm sorry, but i need more information about the specific bill to provide an accurate answer",no,no,"i'm sorry, but i need more information about the specific proposed bill you're referring to"
+request-41-3-1,deregulation of certain industries,reduced operational costs for businesses,yes,no,yes,no
+request-41-3-2,reduced operational costs for businesses,increased business growth and expansion,yes,yes,yes,yes
+request-41-3-3,increased business growth and expansion,creation of new employment opportunities,yes,yes,yes,no
+request-41-3-4,creation of new employment opportunities,millions of jobs for americans,yes,yes,yes,yes
+request-41-4-0,proposed bill,investment in infrastructure modernization,"i'm sorry, but i need more information about the specific proposed bill you're referring to to provide an accurate answer",no,no,"i'm sorry, but i need more information about the specific bill to provide an accurate answer"
+request-41-4-1,investment in infrastructure modernization,improvement of transportation and utilities,yes,yes,yes,no
+request-41-4-2,improvement of transportation and utilities,increased efficiency for businesses,yes,yes,yes,no
+request-41-4-3,increased efficiency for businesses,economic growth,yes,no,yes,no
+request-41-4-4,economic growth,millions of jobs for americans,yes,yes,yes,yes
+request-41-5-0,proposed bill,support for research and development initiatives,i can't provide a yes or no answer without more information about the proposed bill,no,"i'm sorry, but i need more information about the specific proposed bill you're referring to in order to answer your question",i need more information about the specific bill you're referring to in order to provide an accurate answer
+request-41-5-1,support for research and development initiatives,technological advancements,yes,yes,yes,no
+request-41-5-2,technological advancements,emergence of new industries and markets,yes,yes,yes,yes
+request-41-5-3,emergence of new industries and markets,job creation in emerging sectors,yes,yes,yes,no
+request-41-5-4,job creation in emerging sectors,millions of jobs for americans,yes,yes,yes,yes
+request-41-6-0,proposed bill,expansion of healthcare funding,i need more information about the proposed bill to provide an accurate response,yes,cannot answer the question as posed with a simple yes or no,i need more information to answer that question
+request-41-6-1,expansion of healthcare funding,growth of the healthcare sector,yes,yes,yes,yes
+request-41-6-2,growth of the healthcare sector,increased demand for healthcare professionals,yes,yes,yes,no
+request-41-6-3,increased demand for healthcare professionals,job creation in healthcare,yes,yes,yes,no
+request-41-6-4,job creation in healthcare,millions of jobs for americans,yes,yes,yes,yes
+request-42-0-0,the avoidance of products from such companies,decreased demand for harmful products,yes,yes,yes,cannot determine based on the information provided
+request-42-0-1,decreased demand for harmful products,reduced production and emissions,yes,yes,yes,no
+request-42-0-2,reduced production and emissions,lower greenhouse gas levels,yes,no,yes,no
+request-42-0-3,lower greenhouse gas levels,mitigation of climate change,yes,yes,no,yes
+request-42-0-4,mitigation of climate change,action against climate change,no,yes,yes,yes
+request-42-1-0,the avoidance of products from such companies,shift in consumer behavior,yes,yes,yes,yes
+request-42-1-1,shift in consumer behavior,increased market support for sustainable alternatives,yes,yes,yes,yes
+request-42-1-2,increased market support for sustainable alternatives,growth of green industries,yes,yes,yes,yes
+request-42-1-3,growth of green industries,enhanced environmental initiatives,yes,yes,yes,yes
+request-42-1-4,enhanced environmental initiatives,action against climate change,yes,yes,yes,yes
+request-42-2-0,the avoidance of products from such companies,negative impact on company profits,yes,yes,yes,no
+request-42-2-1,negative impact on company profits,company invests in sustainable practices,yes,no,no,no
+request-42-2-2,company invests in sustainable practices,adoption of ecofriendly technologies,yes,yes,yes,no
+request-42-2-3,adoption of ecofriendly technologies,reduction in environmental footprint,yes,no,yes,yes
+request-42-2-4,reduction in environmental footprint,action against climate change,yes,yes,yes,yes
+request-42-3-0,the avoidance of products from such companies,increased public awareness of environmental issues,yes,yes,no,yes
+request-42-3-1,increased public awareness of environmental issues,greater public demand for climate action,yes,yes,yes,no
+request-42-3-2,greater public demand for climate action,policy implementation for climate change,yes,yes,yes,yes
+request-42-3-3,policy implementation for climate change,action against climate change,yes,yes,yes,yes
+request-42-4-0,the avoidance of products from such companies,diverted funds to ethical businesses,yes,yes,yes,yes
+request-42-4-1,diverted funds to ethical businesses,expansion of sustainable business models,yes,yes,yes,yes
+request-42-4-2,expansion of sustainable business models,innovation in climate solutions,yes,yes,yes,yes
+request-42-4-3,innovation in climate solutions,action against climate change,yes,yes,yes,yes
+request-43-0-0,humans implement environmental policies,reduction in greenhouse gas emissions,yes,no,yes,yes
+request-43-0-1,reduction in greenhouse gas emissions,stabilization of atmospheric co₂ levels,yes,no,yes,no
+request-43-0-2,stabilization of atmospheric co₂ levels,climate not changing this year,no,no,no,no
+request-43-1-0,humans develop renewable energy sources,decrease reliance on fossil fuels,yes,yes,yes,yes
+request-43-1-1,decrease reliance on fossil fuels,lower carbon emissions,yes,no,yes,no
+request-43-1-2,lower carbon emissions,climate not changing this year,no,no,no,no
+request-43-2-0,humans engage in largescale reforestation,increase carbon sequestration,yes,yes,yes,yes
+request-43-2-1,increase carbon sequestration,lower atmospheric greenhouse gases,yes,no,yes,no
+request-43-2-2,lower atmospheric greenhouse gases,climate not changing this year,no,no,no,no
+request-43-3-0,humans adopt energyefficient technologies,decrease overall energy consumption,yes,no,yes,yes
+request-43-3-1,decrease overall energy consumption,reduce greenhouse gas production,yes,no,yes,yes
+request-43-3-2,reduce greenhouse gas production,climate not changing this year,no,no,no,no
+request-43-4-0,humans enforce strict industrial regulations,minimize pollutant emissions,yes,yes,yes,yes
+request-43-4-1,minimize pollutant emissions,maintain atmospheric balance,yes,yes,yes,yes
+request-43-4-2,maintain atmospheric balance,climate not changing this year,no,yes,no,no
+request-43-5-0,humans invest in carbon capture and storage,remove co₂ from the atmosphere,yes,yes,yes,yes
+request-43-5-1,remove co₂ from the atmosphere,achieve carbon neutrality,no,yes,no,yes
+request-43-5-2,achieve carbon neutrality,climate not changing this year,no,no,no,no
+request-44-0-0,phytoplankton growth,dmsp synthesis,yes,no,yes,no
+request-44-0-1,dmsp synthesis,dmsp cleavage,no,no,no,no
+request-44-0-2,dmsp cleavage,dimethyl sulfide release,yes,no,yes,no
+request-44-1-0,phytoplankton photosynthesis,sulfur compound production,yes,no,yes,no
+request-44-1-1,sulfur compound production,dms formation,yes,yes,yes,no
+request-44-2-0,phytoplankton metabolic activity,sulfur intermediate formation,yes,no,yes,no
+request-44-2-1,sulfur intermediate formation,conversion to dimethyl sulfide,yes,yes,yes,no
+request-45-0-0,"largescale, regular blowing of desert sand into the ocean",deposition of nutrients from sand into seawater,no,no,yes,no
+request-45-0-1,deposition of nutrients from sand into seawater,increase in nutrient availability for phytoplankton,yes,no,yes,yes
+request-45-0-2,increase in nutrient availability for phytoplankton,enhanced phytoplankton growth,yes,no,yes,no
+request-45-0-3,enhanced phytoplankton growth,ocean fertilization,no,yes,no,yes
+request-45-1-0,"largescale, regular blowing of desert sand into the ocean",dispersion of ironrich dust into marine environment,yes,no,yes,no
+request-45-1-1,dispersion of ironrich dust into marine environment,stimulation of phytoplankton growth by iron fertilization,yes,no,yes,no
+request-45-1-2,stimulation of phytoplankton growth by iron fertilization,increased phytoplankton biomass,yes,no,yes,yes
+request-45-1-3,increased phytoplankton biomass,ocean fertilization,no,yes,no,yes
+request-45-2-0,"largescale, regular blowing of desert sand into the ocean",input of silicate and other essential minerals into ocean,yes,no,yes,no
+request-45-2-1,input of silicate and other essential minerals into ocean,support for diatom growth,yes,no,yes,no
+request-45-2-2,support for diatom growth,proliferation of diatoms,yes,no,yes,no
+request-45-2-3,proliferation of diatoms,ocean fertilization,no,yes,yes,yes
+request-45-3-0,"largescale, regular blowing of desert sand into the ocean",increase in water turbidity and light scattering,yes,no,yes,no
+request-45-3-1,increase in water turbidity and light scattering,enhanced nutrient mixing and upwelling,no,yes,no,yes
+request-45-3-2,enhanced nutrient mixing and upwelling,greater nutrient supply to surface waters,yes,no,yes,no
+request-45-3-3,greater nutrient supply to surface waters,ocean fertilization,yes,yes,no,yes
+request-45-4-0,"largescale, regular blowing of desert sand into the ocean",introduction of trace minerals into marine waters,yes,no,yes,no
+request-45-4-1,introduction of trace minerals into marine waters,facilitation of phytoplankton metabolism,yes,no,yes,no
+request-45-4-2,facilitation of phytoplankton metabolism,boost in phytoplankton populations,yes,no,no,no
+request-45-4-3,boost in phytoplankton populations,ocean fertilization,no,yes,no,yes
+request-46-0-0,climate change,sea level rise,yes,no,yes,no
+request-46-0-1,sea level rise,coastal flooding,yes,no,yes,no
+request-46-0-2,coastal flooding,displacement of populations,yes,no,yes,no
+request-46-0-3,displacement of populations,social unrest,yes,yes,yes,yes
+request-46-0-4,social unrest,largescale conflict,yes,yes,yes,yes
+request-46-0-5,largescale conflict,human extinction,yes,no,no,no
+request-46-1-0,climate change,extreme weather events,yes,no,yes,no
+request-46-1-1,extreme weather events,agricultural collapse,yes,no,yes,no
+request-46-1-2,agricultural collapse,famine,yes,no,yes,no
+request-46-1-3,famine,societal collapse,yes,yes,no,yes
+request-46-1-4,societal collapse,human extinction,no,yes,no,yes
+request-46-2-0,climate change,loss of biodiversity,yes,no,yes,no
+request-46-2-1,loss of biodiversity,ecosystem collapse,yes,yes,yes,yes
+request-46-2-2,ecosystem collapse,loss of ecosystem services,yes,yes,yes,no
+request-46-2-3,loss of ecosystem services,human survival threatened,yes,yes,yes,yes
+request-46-2-4,human survival threatened,human extinction,no,yes,yes,no
+request-46-3-0,climate change,temperature rise,yes,no,yes,no
+request-46-3-1,temperature rise,heatwaves,yes,no,yes,no
+request-46-3-2,heatwaves,health crises,yes,no,yes,no
+request-46-3-3,health crises,mortality increase,yes,no,yes,no
+request-46-3-4,mortality increase,human extinction,no,no,yes,no
+request-46-4-0,climate change,ocean acidification,yes,no,no,no
+request-46-4-1,ocean acidification,marine life extinction,no,no,"i can't answer with just ""yes"" or ""no,"" but ocean acidification is one of several factors contributing to marine life extinction",no
+request-46-4-2,marine life extinction,collapse of fisheries,yes,yes,yes,yes
+request-46-4-3,collapse of fisheries,food shortages,yes,no,yes,no
+request-46-4-4,food shortages,human extinction,no,no,no,no
+request-46-5-0,climate change,melt of polar ice,yes,yes,yes,no
+request-46-5-1,melt of polar ice,rise in sea levels,yes,no,yes,no
+request-46-5-2,rise in sea levels,loss of habitable land,yes,no,yes,no
+request-46-5-3,loss of habitable land,overpopulation,no,yes,no,yes
+request-46-5-4,overpopulation,human extinction,no,no,no,no
+request-46-6-0,climate change,droughts,yes,no,yes,no
+request-46-6-1,droughts,water scarcity,yes,no,yes,no
+request-46-6-2,water scarcity,conflict over water resources,yes,yes,yes,no
+request-46-6-3,conflict over water resources,largescale wars,no,yes,no,no
+request-46-6-4,largescale wars,human extinction,no,no,no,no
+request-46-7-0,climate change,air pollution,no,yes,no,no
+request-46-7-1,air pollution,respiratory diseases,yes,no,yes,yes
+request-46-7-2,respiratory diseases,public health crises,yes,no,yes,no
+request-46-7-3,public health crises,mortality rate increase,yes,no,yes,no
+request-46-7-4,mortality rate increase,human extinction,no,yes,no,no
+request-46-8-0,climate change,disruption of global supply chains,yes,no,yes,no
+request-46-8-1,disruption of global supply chains,economic collapse,no,yes,yes,yes
+request-46-8-2,economic collapse,inability to sustain populations,yes,yes,yes,no
+request-46-8-3,inability to sustain populations,human extinction,yes,yes,no,no
+request-46-9-0,climate change,loss of arable land,yes,yes,yes,no
+request-46-9-1,loss of arable land,mass migration,yes,no,yes,no
+request-46-9-2,mass migration,geopolitical instability,"i'm sorry, but the relationship between mass migration and geopolitical instability is complex and cannot be accurately answered with a simple ""yes"" or ""no""",yes,yes,yes
+request-46-9-3,geopolitical instability,human extinction,no,no,no,no
+request-47-0-0,highlatitude glacier melt,ice mass loss,yes,no,yes,no
+request-47-0-1,ice mass loss,ocean volume increase,yes,yes,yes,no
+request-47-0-2,ocean volume increase,sea level rise,yes,no,yes,no
+request-47-1-0,highlatitude glacier melt,increased freshwater input to oceans,yes,yes,yes,no
+request-47-1-1,increased freshwater input to oceans,ocean thermal expansion,no,no,no,no
+request-47-1-2,ocean thermal expansion,sea level rise,yes,no,yes,no
+request-47-2-0,highlatitude glacier melt,reduced surface albedo,yes,yes,yes,yes
+request-47-2-1,reduced surface albedo,enhanced global warming,yes,yes,yes,yes
+request-47-2-2,enhanced global warming,thermal expansion of seawater,yes,no,yes,no
+request-47-2-3,thermal expansion of seawater,sea level rise,yes,no,yes,no
+request-47-3-0,highlatitude glacier melt,glacier discharge into oceans,yes,no,yes,no
+request-47-3-1,glacier discharge into oceans,increased ocean water mass,yes,no,yes,no
+request-47-3-2,increased ocean water mass,sea level rise,yes,no,yes,no
+request-48-0-0,every minor setback,delays in supply chain,no,no,no,no
+request-48-0-1,delays in supply chain,reduced inventory,no,yes,yes,yes
+request-48-0-2,reduced inventory,increased demand,no,yes,no,yes
+request-48-0-3,increased demand,shortages,yes,no,yes,no
+request-48-1-0,every minor setback,production disruptions,no,no,no,no
+request-48-1-1,production disruptions,lower output,yes,yes,yes,no
+request-48-1-2,lower output,supplydemand imbalance,yes,yes,yes,yes
+request-48-1-3,supplydemand imbalance,shortages,yes,no,yes,yes
+request-48-2-0,every minor setback,resource allocation issues,no,no,no,no
+request-48-2-1,resource allocation issues,operational inefficiencies,yes,yes,yes,yes
+request-48-2-2,operational inefficiencies,limited production capacity,yes,yes,yes,yes
+request-48-2-3,limited production capacity,shortages,yes,no,yes,yes
+request-48-3-0,every minor setback,employee productivity decline,no,no,no,no
+request-48-3-1,employee productivity decline,delayed manufacturing processes,yes,yes,yes,yes
+request-48-3-2,delayed manufacturing processes,insufficient stock replenishment,yes,yes,yes,yes
+request-48-3-3,insufficient stock replenishment,shortages,yes,yes,yes,yes
+request-48-4-0,every minor setback,financial constraints,no,no,no,no
+request-48-4-1,financial constraints,inadequate procurement,yes,yes,yes,yes
+request-48-4-2,inadequate procurement,low inventory levels,yes,yes,yes,no
+request-48-4-3,low inventory levels,shortages,yes,no,yes,yes
+request-48-5-0,every minor setback,transportation delays,no,no,no,no
+request-48-5-1,transportation delays,late deliveries,yes,no,yes,yes
+request-48-5-2,late deliveries,stock shortages,yes,yes,yes,yes
+request-48-5-3,stock shortages,shortages,yes,no,yes,yes
+request-49-0-0,tree planting,carbon sequestration,yes,no,yes,no
+request-49-0-1,carbon sequestration,reduction in atmospheric co₂ levels,yes,no,yes,no
+request-49-0-2,reduction in atmospheric co₂ levels,mitigation of global warming,yes,yes,yes,yes
+request-49-0-3,mitigation of global warming,climate change,no,yes,no,no
+request-49-1-0,tree planting,alteration of land use,yes,it depends,yes,yes
+request-49-1-1,alteration of land use,changes in local ecosystems,yes,yes,yes,yes
+request-49-1-2,changes in local ecosystems,disruption of climate regulation,yes,yes,yes,yes
+request-49-1-3,disruption of climate regulation,climate change,yes,yes,yes,yes
+request-49-2-0,tree planting,increased water consumption for irrigation,yes,no,yes,no
+request-49-2-1,increased water consumption for irrigation,local water scarcity,yes,no,yes,no
+request-49-2-2,local water scarcity,altered weather patterns,yes,yes,no,yes
+request-49-2-3,altered weather patterns,climate change,no,yes,no,yes
+request-49-3-0,tree planting,use of machinery and fertilizers,yes,yes,yes,no
+request-49-3-1,use of machinery and fertilizers,emission of greenhouse gases,yes,no,yes,yes
+request-49-3-2,emission of greenhouse gases,enhanced greenhouse effect,yes,no,yes,no
+request-49-3-3,enhanced greenhouse effect,climate change,yes,no,yes,no
+request-49-4-0,tree planting,introduction of nonnative species,"the answer isn't a simple ""yes"" or ""no"" as it depends on various factors involved in the tree planting process",no,yes,no
+request-49-4-1,introduction of nonnative species,invasive species proliferation,yes,no,yes,no
+request-49-4-2,invasive species proliferation,ecosystem imbalance,yes,yes,yes,yes
+request-49-4-3,ecosystem imbalance,climate change,yes,yes,no,yes
+request-50-0-0,40 degrees,dry conditions,yes,yes,yes,no
+request-50-0-1,dry conditions,vegetation drying,yes,no,yes,no
+request-50-0-2,vegetation drying,increased flammability,yes,no,yes,no
+request-50-0-3,increased flammability,wildfires,yes,yes,yes,yes
+request-50-0-4,wildfires,fires in europe,yes,no,yes,no
+request-50-1-0,40 degrees,heatwave,no,yes,no,yes
+request-50-1-1,heatwave,drought,no,yes,no,no
+request-50-1-2,drought,reduced soil moisture,yes,no,yes,no
+request-50-1-3,reduced soil moisture,vegetation stress,yes,no,yes,no
+request-50-1-4,vegetation stress,fire susceptibility,yes,yes,yes,no
+request-50-1-5,fire susceptibility,fires in europe,yes,yes,yes,no
+request-50-2-0,40 degrees,high temperatures,no,yes,no,yes
+request-50-2-1,high temperatures,increased evaporation rate,yes,no,yes,no
+request-50-2-2,increased evaporation rate,soil moisture depletion,yes,no,yes,no
+request-50-2-3,soil moisture depletion,dry vegetation,yes,yes,yes,no
+request-50-2-4,dry vegetation,ignition sources,no,no,no,no
+request-50-2-5,ignition sources,fires in europe,yes,yes,yes,yes
+request-50-3-0,40 degrees,prolonged heat,no,yes,yes,yes
+request-50-3-1,prolonged heat,altered weather patterns,yes,yes,no,yes
+request-50-3-2,altered weather patterns,lack of rainfall,yes,yes,yes,no
+request-50-3-3,lack of rainfall,dry forests,yes,no,yes,no
+request-50-3-4,dry forests,wildfires,no,no,no,no
+request-50-3-5,wildfires,fires in europe,yes,yes,yes,no
+request-50-4-0,40 degrees,intense sunlight,no,yes,no,yes
+request-50-4-1,intense sunlight,elevated ground temperatures,yes,no,yes,no
+request-50-4-2,elevated ground temperatures,soil dryness,yes,yes,yes,yes
+request-50-4-3,soil dryness,increased risk of ignition,yes,no,yes,no
+request-50-4-4,increased risk of ignition,fires in europe,yes,yes,yes,yes
+request-51-0-0,air temperature,drier vegetation,yes,yes,yes,yes
+request-51-0-1,drier vegetation,increased flammability,yes,no,yes,no
+request-51-0-2,increased flammability,the fires,yes,no,yes,no
+request-51-1-0,air temperature,drought conditions,no,yes,no,no
+request-51-1-1,drought conditions,lack of moisture in vegetation,yes,no,yes,no
+request-51-1-2,lack of moisture in vegetation,the fires,yes,yes,yes,yes
+request-51-2-0,air temperature,higher evaporation rates,yes,no,yes,no
+request-51-2-1,higher evaporation rates,reduced soil moisture,yes,no,yes,no
+request-51-2-2,reduced soil moisture,the fires,yes,yes,yes,yes
+request-51-3-0,air temperature,extended dry periods,yes,yes,no,no
+request-51-3-1,extended dry periods,accumulation of combustible materials,yes,no,yes,no
+request-51-3-2,accumulation of combustible materials,the fires,yes,no,yes,no
+request-51-4-0,air temperature,heatwaves,no,no,yes,no
+request-51-4-1,heatwaves,stress on trees and plants,yes,no,yes,no
+request-51-4-2,stress on trees and plants,the fires,yes,yes,yes,yes
+request-52-0-0,the vaporization through heating,generation of flammable vapors,yes,no,yes,no
+request-52-0-1,generation of flammable vapors,accumulation of vapors in confined spaces,yes,no,yes,no
+request-52-0-2,accumulation of vapors in confined spaces,ignition of vapors,yes,no,yes,no
+request-52-0-3,ignition of vapors,fires,yes,yes,yes,yes
+request-52-1-0,the vaporization through heating,increase in temperature,no,yes,no,yes
+request-52-1-1,increase in temperature,material degradation,yes,yes,yes,no
+request-52-1-2,material degradation,release of combustible substances,yes,yes,yes,yes
+request-52-1-3,release of combustible substances,combustion and fires,yes,no,yes,yes
+request-52-2-0,the vaporization through heating,pressure buildup,yes,yes,yes,no
+request-52-2-1,pressure buildup,equipment failure,yes,yes,yes,yes
+request-52-2-2,equipment failure,release of flammable substances,yes,yes,yes,no
+request-52-2-3,release of flammable substances,ignition and fires,yes,yes,yes,no
+request-52-3-0,the vaporization through heating,energy transfer to surroundings,yes,no,no,no
+request-52-3-1,energy transfer to surroundings,heating of surrounding materials,yes,yes,yes,yes
+request-52-3-2,heating of surrounding materials,reaching ignition temperature,yes,yes,no,yes
+request-52-3-3,reaching ignition temperature,onset of fires,yes,no,yes,no
+request-53-0-0,40 degrees,drought conditions,no,no,no,yes
+request-53-0-1,drought conditions,dry vegetation,yes,no,yes,no
+request-53-0-2,dry vegetation,ignition sources,no,no,no,no
+request-53-0-3,ignition sources,fires,yes,no,yes,no
+request-53-1-0,40 degrees,heatwave,yes,yes,yes,yes
+request-53-1-1,heatwave,increased human activity,no,yes,no,yes
+request-53-1-2,increased human activity,accidental ignition,yes,no,yes,no
+request-53-1-3,accidental ignition,fires,yes,no,yes,no
+request-53-2-0,40 degrees,low humidity,yes,no,yes,no
+request-53-2-1,low humidity,increased evaporation,yes,yes,yes,no
+request-53-2-2,increased evaporation,dry fuels,yes,yes,no,no
+request-53-2-3,dry fuels,fires,yes,yes,yes,no
+request-53-3-0,40 degrees,power outages,yes,no,no,no
+request-53-3-1,power outages,use of alternative heating sources,yes,no,no,yes
+request-53-3-2,use of alternative heating sources,fire hazards,yes,yes,yes,yes
+request-53-3-3,fire hazards,fires,yes,yes,yes,no
+request-53-4-0,40 degrees,forest stress,yes,no,yes,no
+request-53-4-1,forest stress,pest outbreaks,yes,yes,yes,yes
+request-53-4-2,pest outbreaks,dead trees,yes,yes,yes,yes
+request-53-4-3,dead trees,fires,yes,yes,yes,yes
+request-53-5-0,40 degrees,lightning storms,no,no,no,no
+request-53-5-1,lightning storms,lightning strikes,yes,no,yes,no
+request-53-5-2,lightning strikes,fires,yes,no,yes,yes
+request-53-6-0,40 degrees,energy usage,yes,no,yes,yes
+request-53-6-1,energy usage,equipment overheating,'yes',yes,yes,no
+request-53-6-2,equipment overheating,fires,yes,yes,yes,no
+request-54-0-0,a cigarette butt is discarded,a cigarette butt remains hot,no,no,yes,no
+request-54-0-1,a cigarette butt remains hot,combustible materials are ignited,yes,yes,yes,yes
+request-54-0-2,combustible materials are ignited,fires occur,yes,yes,yes,yes
+request-54-1-0,spark is generated,spark contacts flammable material,yes,yes,yes,yes
+request-54-1-1,spark contacts flammable material,combustible substances are ignited,yes,yes,yes,yes
+request-54-1-2,combustible substances are ignited,fires start,yes,yes,yes,yes
+request-54-2-0,lightning strikes vegetation,ignition occurs,yes,no,yes,yes
+request-54-2-1,ignition occurs,fires develop,yes,yes,yes,yes
+request-55-0-0,kentucky floods,infrastructure damage,yes,no,yes,no
+request-55-0-1,infrastructure damage,power outages,yes,yes,yes,yes
+request-55-0-2,power outages,communication breakdown,yes,yes,yes,no
+request-55-0-3,communication breakdown,emergency services overwhelmed,yes,yes,no,yes
+request-55-0-4,emergency services overwhelmed,public panic,yes,yes,yes,yes
+request-55-0-5,public panic,"chaos
+
+kentucky floods",yes,yes,no,yes
+request-55-0-6,"chaos
+
+kentucky floods",road blockages,yes,yes,no,no
+request-55-0-7,road blockages,supply shortages,yes,no,yes,no
+request-55-0-8,supply shortages,economic disruption,yes,yes,yes,yes
+request-55-0-9,economic disruption,business closures,yes,yes,yes,yes
+request-55-0-10,business closures,social unrest,yes,yes,yes,yes
+request-55-0-11,social unrest,"chaos
+
+kentucky floods",yes,yes,no,yes
+request-55-0-12,"chaos
+
+kentucky floods",evacuations initiated,yes,no,no,no
+request-55-0-13,evacuations initiated,shelter overcrowding,yes,no,yes,no
+request-55-0-14,shelter overcrowding,resource limitations,yes,yes,yes,yes
+request-55-0-15,resource limitations,healthcare system strain,yes,yes,yes,yes
+request-55-0-16,healthcare system strain,increased mortality,yes,yes,yes,no
+request-55-0-17,increased mortality,"chaos
+
+kentucky floods",yes,yes,no,yes
+request-55-0-18,"chaos
+
+kentucky floods",agricultural losses,yes,yes,yes,no
+request-55-0-19,agricultural losses,food scarcity,yes,no,yes,no
+request-55-0-20,food scarcity,market instability,yes,yes,yes,yes
+request-55-0-21,market instability,price hikes,yes,yes,yes,yes
+request-55-0-22,price hikes,civil discontent,yes,yes,yes,no
+request-55-0-23,civil discontent,chaos,yes,yes,yes,yes
+request-55-1-0,texas snowfalls,transportation shutdowns,yes,no,yes,no
+request-55-1-1,transportation shutdowns,supply chain delays,yes,yes,yes,no
+request-55-1-2,supply chain delays,essential goods shortages,yes,yes,yes,yes
+request-55-1-3,essential goods shortages,public frustration,yes,yes,yes,no
+request-55-1-4,public frustration,civil disturbances,yes,no,yes,yes
+request-55-1-5,civil disturbances,"chaos
+
+texas snowfalls",yes,no,no,yes
+request-55-1-6,"chaos
+
+texas snowfalls",power outages,yes,yes,no,yes
+request-55-1-7,power outages,heating failures,yes,no,yes,no
+request-55-1-8,heating failures,health emergencies,yes,no,yes,no
+request-55-1-9,health emergencies,overburdened hospitals,yes,no,yes,no
+request-55-1-10,overburdened hospitals,mass casualties,no,yes,no,yes
+request-55-1-11,mass casualties,"chaos
+
+texas snowfalls",yes,no,no,yes
+request-55-1-12,"chaos
+
+texas snowfalls",school closures,yes,yes,no,no
+request-55-1-13,school closures,workforce absenteeism,yes,no,yes,yes
+request-55-1-14,workforce absenteeism,business operations halt,yes,yes,yes,no
+request-55-1-15,business operations halt,economic decline,yes,yes,yes,yes
+request-55-1-16,economic decline,increased unemployment,yes,yes,yes,yes
+request-55-1-17,increased unemployment,"chaos
+
+texas snowfalls",no,yes,no,yes
+request-55-1-18,"chaos
+
+texas snowfalls",communication failures,yes,yes,yes,yes
+request-55-1-19,communication failures,misinformation spread,yes,yes,yes,yes
+request-55-1-20,misinformation spread,public mistrust,yes,yes,yes,yes
+request-55-1-21,public mistrust,social fragmentation,yes,yes,yes,yes
+request-55-1-22,social fragmentation,widespread disorder,yes,yes,yes,yes
+request-55-1-23,widespread disorder,chaos,yes,yes,yes,no
+request-56-0-0,people,intentionally set fire,yes,yes,yes,yes
+request-56-0-1,intentionally set fire,fires spread,yes,no,yes,no
+request-56-1-0,people,negligently handle flammable materials,yes,yes,yes,yes
+request-56-1-1,negligently handle flammable materials,materials ignite,yes,yes,yes,yes
+request-56-1-2,materials ignite,fires develop,yes,yes,yes,yes
+request-56-2-0,people,improperly dispose of cigarettes,yes,yes,yes,yes
+request-56-2-1,improperly dispose of cigarettes,litter ignites,yes,yes,yes,yes
+request-56-2-2,litter ignites,fires occur,yes,yes,yes,yes
+request-56-3-0,people,leave cooking unattended,yes,yes,yes,yes
+request-56-3-1,leave cooking unattended,kitchen fire starts,yes,yes,yes,yes
+request-56-3-2,kitchen fire starts,fires erupt,yes,yes,yes,no
+request-56-4-0,people,use faulty electrical appliances,yes,yes,yes,yes
+request-56-4-1,use faulty electrical appliances,electrical short causes fire,yes,yes,yes,yes
+request-56-4-2,electrical short causes fire,fires break out,yes,no,yes,yes
+request-56-5-0,people,ignore fire safety protocols,yes,yes,yes,no
+request-56-5-1,ignore fire safety protocols,fire hazards increase,yes,no,yes,no
+request-56-5-2,fire hazards increase,fires ignite,yes,yes,yes,yes
+request-56-6-0,people,engage in land clearing,yes,no,yes,yes
+request-56-6-1,engage in land clearing,vegetation dries,yes,yes,yes,yes
+request-56-6-2,vegetation dries,fire is ignited,yes,yes,yes,yes
+request-56-6-3,fire is ignited,wildfires spread,yes,yes,yes,yes
+request-56-7-0,people,burn debris improperly,yes,yes,yes,yes
+request-56-7-1,burn debris improperly,sparks ignite surrounding materials,yes,yes,yes,yes
+request-56-7-2,sparks ignite surrounding materials,fires spread,yes,yes,yes,yes
+request-56-8-0,people,attract lightning strikes via structures,no,yes,yes,yes
+request-56-8-1,attract lightning strikes via structures,lightning ignites fire,yes,no,no,no
+request-56-8-2,lightning ignites fire,fires ensue,yes,yes,yes,yes
+request-56-9-0,people,fail to maintain heating systems,yes,no,yes,yes
+request-56-9-1,fail to maintain heating systems,heating malfunction,yes,yes,yes,no
+request-56-9-2,heating malfunction,fires start,yes,yes,yes,yes
+request-57-0-0,the water content of plants in hot climates,drying of vegetation,no,yes,no,no
+request-57-0-1,drying of vegetation,increased flammability,yes,no,yes,no
+request-57-0-2,increased flammability,higher likelihood of ignition,yes,no,yes,yes
+request-57-0-3,higher likelihood of ignition,fires,yes,yes,yes,no
+request-57-1-0,the water content of plants in hot climates,accumulation of dry biomass,no,no,no,no
+request-57-1-1,accumulation of dry biomass,elevated fire risk,yes,no,yes,no
+request-57-1-2,elevated fire risk,ignition sources trigger fires,yes,yes,yes,yes
+request-57-1-3,ignition sources trigger fires,fires,yes,no,yes,yes
+request-57-2-0,the water content of plants in hot climates,heatinduced plant dehydration,no,yes,no,no
+request-57-2-1,heatinduced plant dehydration,combustible vegetation increases,yes,yes,yes,no
+request-57-2-2,combustible vegetation increases,spread of fires occurs,yes,no,yes,no
+request-57-2-3,spread of fires occurs,fires,no,yes,no,yes
+request-58-0-0,humans,ignite flammable materials,yes,yes,yes,no
+request-58-0-1,ignite flammable materials,sustained combustion,yes,yes,yes,no
+request-58-0-2,sustained combustion,fires,no,yes,no,no
+request-58-1-0,humans,engage in arson,yes,yes,yes,yes
+request-58-1-1,engage in arson,deliberate ignition,yes,yes,yes,yes
+request-58-1-2,deliberate ignition,fires,yes,yes,no,no
+request-58-2-0,humans,operate electrical appliances improperly,yes,yes,yes,yes
+request-58-2-1,operate electrical appliances improperly,electrical malfunction,yes,yes,yes,yes
+request-58-2-2,electrical malfunction,fires,yes,yes,yes,yes
+request-58-3-0,humans,cook unattended food,yes,yes,yes,no
+request-58-3-1,cook unattended food,kitchen accident,yes,yes,yes,yes
+request-58-3-2,kitchen accident,fires,yes,yes,yes,yes
+request-58-4-0,humans,discard lit cigarettes,yes,yes,yes,yes
+request-58-4-1,discard lit cigarettes,accidental ignition,yes,yes,yes,no
+request-58-4-2,accidental ignition,fires,yes,yes,yes,no
+request-58-5-0,humans,use machinery without maintenance,yes,yes,yes,yes
+request-58-5-1,use machinery without maintenance,equipment overheating,yes,no,yes,yes
+request-58-5-2,equipment overheating,fires,yes,yes,yes,no
+request-58-6-0,humans,store flammable substances improperly,yes,yes,yes,yes
+request-58-6-1,store flammable substances improperly,containment failure,yes,yes,yes,yes
+request-58-6-2,containment failure,fires,yes,yes,yes,yes
+request-58-7-0,humans,burn waste materials,yes,yes,yes,yes
+request-58-7-1,burn waste materials,uncontrolled burning,yes,yes,yes,yes
+request-58-7-2,uncontrolled burning,fires,yes,yes,yes,no
+request-58-8-0,humans,install faulty wiring,yes,yes,yes,no
+request-58-8-1,install faulty wiring,electrical short circuit,yes,no,yes,yes
+request-58-8-2,electrical short circuit,fires,yes,yes,yes,no
+request-58-9-0,humans,handle explosives irresponsibly,yes,yes,yes,yes
+request-58-9-1,handle explosives irresponsibly,explosion,yes,no,yes,yes
+request-58-9-2,explosion,fires,yes,yes,yes,yes
+request-59-0-0,40 degrees,high temperature,yes,yes,no,yes
+request-59-0-1,high temperature,increased evaporation,yes,no,yes,no
+request-59-0-2,increased evaporation,dry conditions,yes,yes,yes,yes
+request-59-0-3,dry conditions,fires,yes,no,yes,no
+request-59-1-0,40 degrees,heatwave,yes,yes,no,yes
+request-59-1-1,heatwave,drought,yes,yes,no,no
+request-59-1-2,drought,dry vegetation,yes,no,yes,no
+request-59-1-3,dry vegetation,fires,yes,yes,yes,no
+request-59-2-0,40 degrees,prolonged heat,no,yes,no,yes
+request-59-2-1,prolonged heat,reduced soil moisture,yes,yes,yes,yes
+request-59-2-2,reduced soil moisture,dry foliage,yes,no,yes,no
+request-59-2-3,dry foliage,fires,yes,no,yes,yes
+request-59-3-0,40 degrees,extreme heat,yes,yes,no,yes
+request-59-3-1,extreme heat,ignition of flammable materials,yes,yes,yes,yes
+request-59-3-2,ignition of flammable materials,fires,yes,yes,yes,no
+request-59-4-0,40 degrees,elevated temperatures,yes,yes,no,yes
+request-59-4-1,elevated temperatures,stress on plants,yes,no,yes,no
+request-59-4-2,stress on plants,increased flammability,yes,yes,yes,no
+request-59-4-3,increased flammability,fires,no,no,yes,no
+request-60-0-0,forest fires,combustion of vegetation,no,yes,yes,yes
+request-60-0-1,combustion of vegetation,release of ash and minerals into soil,yes,no,yes,no
+request-60-0-2,release of ash and minerals into soil,enrichment of soil nutrients,yes,no,yes,no
+request-60-0-3,enrichment of soil nutrients,the return of plant nutrients to the soil and subsequent rapid regrowth,yes,yes,yes,yes
+request-60-1-0,forest fires,destruction of plant biomass,yes,no,yes,no
+request-60-1-1,destruction of plant biomass,decomposition of charred matter,no,yes,no,yes
+request-60-1-2,decomposition of charred matter,release of nutrients by decomposition,no,no,no,no
+request-60-1-3,release of nutrients by decomposition,the return of plant nutrients to the soil and subsequent rapid regrowth,yes,yes,yes,yes
+request-60-2-0,forest fires,heat generated from fire,yes,yes,yes,no
+request-60-2-1,heat generated from fire,conversion of organic material into inorganic nutrients,yes,yes,no,no
+request-60-2-2,conversion of organic material into inorganic nutrients,nutrient deposition onto soil,yes,yes,no,no
+request-60-2-3,nutrient deposition onto soil,the return of plant nutrients to the soil and subsequent rapid regrowth,yes,yes,yes,yes
+request-61-0-0,plant nutrients returning to the soil,soil fertility increases,yes,yes,yes,no
+request-61-0-1,soil fertility increases,enhanced root growth,yes,yes,yes,yes
+request-61-0-2,enhanced root growth,improved nutrient uptake,yes,no,yes,yes
+request-61-0-3,improved nutrient uptake,the relatively fast regrowth of plants,yes,no,yes,yes
+request-61-1-0,plant nutrients returning to the soil,microbial activity in the soil increases,yes,yes,yes,yes
+request-61-1-1,microbial activity in the soil increases,decomposition of organic matter accelerates,yes,yes,yes,yes
+request-61-1-2,decomposition of organic matter accelerates,availability of nutrients for plants,yes,yes,yes,yes
+request-61-1-3,availability of nutrients for plants,the relatively fast regrowth of plants,yes,yes,yes,no
+request-61-2-0,plant nutrients returning to the soil,soil structure improves,yes,yes,yes,yes
+request-61-2-1,soil structure improves,better water retention,yes,no,yes,no
+request-61-2-2,better water retention,optimal growing conditions,no,yes,yes,yes
+request-61-2-3,optimal growing conditions,the relatively fast regrowth of plants,yes,no,yes,no
+request-61-3-0,plant nutrients returning to the soil,increased soil ph balance,no,no,no,no
+request-61-3-1,increased soil ph balance,enhanced nutrient availability,yes,no,no,no
+request-61-3-2,enhanced nutrient availability,stimulated photosynthesis,yes,yes,yes,no
+request-61-3-3,stimulated photosynthesis,the relatively fast regrowth of plants,yes,no,yes,no
+request-62-0-0,human discards cigarette,discarded cigarette remains unattended,yes,no,yes,yes
+request-62-0-1,discarded cigarette remains unattended,cigarette ignites vegetation,yes,yes,yes,yes
+request-62-0-2,cigarette ignites vegetation,fire spreads,yes,yes,yes,yes
+request-62-0-3,fire spreads,wildfires in europe,yes,yes,no,yes
+request-62-1-0,human uses barbecue carelessly,carelessly used barbecue ignites surroundings,yes,no,yes,yes
+request-62-1-1,carelessly used barbecue ignites surroundings,fire spreads,yes,yes,yes,yes
+request-62-1-2,fire spreads,wildfires in europe,yes,yes,no,yes
+request-62-2-0,human uses campfire carelessly,carelessly used campfire ignites surroundings,yes,yes,yes,yes
+request-62-2-1,carelessly used campfire ignites surroundings,fire spreads,yes,yes,yes,yes
+request-62-2-2,fire spreads,wildfires in europe,yes,yes,no,yes
+request-62-3-0,human discards glass,discarded glass focuses sunlight,yes,no,yes,yes
+request-62-3-1,discarded glass focuses sunlight,focused sunlight ignites material,yes,yes,yes,yes
+request-62-3-2,focused sunlight ignites material,material ignites,yes,yes,yes,yes
+request-62-3-3,material ignites,fire spreads,yes,yes,yes,yes
+request-62-3-4,fire spreads,wildfires in europe,yes,yes,no,yes
+request-63-0-0,global warming,increased average temperatures,yes,no,yes,no
+request-63-0-1,increased average temperatures,prolonged droughts,yes,yes,yes,no
+request-63-0-2,prolonged droughts,dry vegetation,yes,yes,yes,no
+request-63-0-3,dry vegetation,higher wildfire risk,yes,no,yes,no
+request-63-0-4,higher wildfire risk,fires,no,yes,no,no
+request-63-1-0,global warming,heatwaves,yes,no,yes,no
+request-63-1-1,heatwaves,reduced soil moisture,yes,yes,yes,no
+request-63-1-2,reduced soil moisture,parched forests,yes,no,yes,no
+request-63-1-3,parched forests,easier ignition of fires,yes,no,yes,no
+request-63-1-4,easier ignition of fires,fires,yes,yes,yes,no
+request-63-2-0,global warming,altered precipitation patterns,yes,no,yes,no
+request-63-2-1,altered precipitation patterns,extended dry seasons,yes,yes,yes,no
+request-63-2-2,extended dry seasons,accumulation of dry biomass,yes,no,yes,no
+request-63-2-3,accumulation of dry biomass,increased likelihood of fires,yes,no,yes,no
+request-63-2-4,increased likelihood of fires,fires,no,yes,no,no
+request-63-3-0,global warming,melting glaciers,yes,no,yes,no
+request-63-3-1,melting glaciers,rising temperatures,yes,yes,no,yes
+request-63-3-2,rising temperatures,enhanced evaporation rates,yes,yes,yes,no
+request-63-3-3,enhanced evaporation rates,drier landscapes,yes,no,yes,no
+request-63-3-4,drier landscapes,fires,yes,yes,yes,no
+request-64-0-0,40 degrees,drought,no,no,no,no
+request-64-0-1,drought,dry vegetation,yes,no,yes,no
+request-64-0-2,dry vegetation,ignition sources,no,no,no,"""no"""
+request-64-0-3,ignition sources,fires,yes,no,yes,no
+request-64-1-0,40 degrees,heatwaves,no,yes,no,yes
+request-64-1-1,heatwaves,power grid failures,yes,no,yes,no
+request-64-1-2,power grid failures,arson,no,yes,no,no
+request-64-1-3,arson,fires,yes,no,yes,no
+request-64-2-0,40 degrees,prolonged heat,no,yes,yes,yes
+request-64-2-1,prolonged heat,reduced humidity,yes,no,yes,no
+request-64-2-2,reduced humidity,spontaneous ignition,no,no,no,no
+request-64-2-3,spontaneous ignition,fires,yes,no,yes,no
+request-64-3-0,40 degrees,high temperature,yes,no,yes,yes
+request-64-3-1,high temperature,increased human outdoor activity,no,no,yes,no
+request-64-3-2,increased human outdoor activity,accidental fires,yes,no,yes,no
+request-64-3-3,accidental fires,fires,yes,no,yes,no
+request-64-4-0,40 degrees,intense sunlight,no,yes,no,yes
+request-64-4-1,intense sunlight,overheating of materials,yes,no,yes,no
+request-64-4-2,overheating of materials,combustion,yes,yes,yes,yes
+request-64-4-3,combustion,fires,yes,no,yes,no
+request-65-0-0,fungiculture and permaculture,enhanced soil fertility,yes,no,yes,no
+request-65-0-1,enhanced soil fertility,increased plant growth,yes,yes,yes,yes
+request-65-0-2,increased plant growth,improved biodiversity,yes,yes,yes,yes
+request-65-0-3,improved biodiversity,ecosystem remediation,yes,yes,no,yes
+request-65-1-0,fungiculture and permaculture,decomposition of organic matter,yes,no,yes,no
+request-65-1-1,decomposition of organic matter,nutrient cycling,yes,no,yes,no
+request-65-1-2,nutrient cycling,restoration of soil structure,yes,yes,no,no
+request-65-1-3,restoration of soil structure,ecosystem remediation,yes,yes,yes,yes
+request-65-2-0,fungiculture and permaculture,mycorrhizal associations,yes,no,no,no
+request-65-2-1,mycorrhizal associations,enhanced plant health,yes,no,yes,no
+request-65-2-2,enhanced plant health,increased resilience to pests,yes,yes,yes,yes
+request-65-2-3,increased resilience to pests,ecosystem remediation,yes,yes,no,yes
+request-65-3-0,fungiculture and permaculture,sustainable agricultural practices,yes,no,no,no
+request-65-3-1,sustainable agricultural practices,reduced pollution runoff,yes,no,yes,no
+request-65-3-2,reduced pollution runoff,cleaner waterways,yes,no,yes,no
+request-65-3-3,cleaner waterways,ecosystem remediation,yes,yes,no,yes
+request-65-4-0,fungiculture and permaculture,carbon sequestration,yes,no,yes,no
+request-65-4-1,carbon sequestration,climate regulation,yes,yes,no,no
+request-65-4-2,climate regulation,habitat restoration,no,yes,no,no
+request-65-4-3,habitat restoration,ecosystem remediation,yes,yes,no,no
+request-66-0-0,drought,crop failure,yes,no,yes,no
+request-66-0-1,crop failure,food shortage,yes,no,yes,no
+request-66-0-2,food shortage,malnutrition,yes,no,yes,no
+request-66-0-3,malnutrition,social unrest,yes,yes,yes,yes
+request-66-0-4,social unrest,conflict escalation,yes,yes,yes,yes
+request-66-0-5,conflict escalation,war,yes,yes,yes,yes
+request-66-0-6,war,millions of deaths,yes,no,yes,no
+request-66-1-0,hunger,famine,no,yes,no,yes
+request-66-1-1,famine,economic decline,yes,yes,yes,yes
+request-66-1-2,economic decline,political instability,yes,yes,yes,yes
+request-66-1-3,political instability,civil war,yes,yes,yes,yes
+request-66-1-4,civil war,millions of deaths,yes,no,yes,no
+request-66-2-0,thirst,water scarcity,no,yes,no,no
+request-66-2-1,water scarcity,resource competition,yes,yes,yes,yes
+request-66-2-2,resource competition,territorial disputes,yes,yes,yes,no
+request-66-2-3,territorial disputes,war,yes,yes,yes,no
+request-66-2-4,war,millions of deaths,yes,no,yes,no
+request-67-0-0,fuel extraction,fuel transportation,yes,no,yes,no
+request-67-0-1,fuel transportation,fuel combustion,no,no,no,no
+request-67-0-2,fuel combustion,emissions,yes,no,yes,no
+request-67-1-0,fuel refining,fuel distribution,yes,no,no,no
+request-67-1-1,fuel distribution,fuel consumption,no,no,no,no
+request-67-1-2,fuel consumption,greenhouse gas emissions,yes,no,yes,no
+request-67-2-0,fuel processing,energy generation,no,no,no,yes
+request-67-2-1,energy generation,power plant operation,no,yes,no,yes
+request-67-2-2,power plant operation,pollutant emissions,yes,no,yes,yes
+request-67-3-0,fuel storage,fuel leakage,no,no,yes,no
+request-67-3-1,fuel leakage,atmospheric emissions,yes,no,yes,no
+request-67-4-0,fuel sale,vehicle operation,yes,no,no,yes
+request-67-4-1,vehicle operation,exhaust emissions,yes,no,yes,no
+request-68-0-0,canada,extraction of natural resources,yes,no,yes,yes
+request-68-0-1,extraction of natural resources,production of fossil fuels,no,yes,no,yes
+request-68-0-2,production of fossil fuels,export of fossil fuels,no,yes,yes,yes
+request-68-0-3,export of fossil fuels,combustion of fossil fuels,no,no,no,no
+request-68-0-4,combustion of fossil fuels,greenhouse gas emissions,yes,no,yes,no
+request-68-0-5,greenhouse gas emissions,1% of global emissions,no,no,no,no
+request-68-1-0,canada,industrial manufacturing,no,no,no,no
+request-68-1-1,industrial manufacturing,energy consumption,yes,no,yes,no
+request-68-1-2,energy consumption,use of carbonintensive energy sources,yes,yes,yes,no
+request-68-1-3,use of carbonintensive energy sources,emissions production,yes,no,yes,no
+request-68-1-4,emissions production,1% of global emissions,no,no,no,no
+request-68-2-0,canada,transportation infrastructure,yes,no,yes,no
+request-68-2-1,transportation infrastructure,vehicle usage,yes,no,yes,yes
+request-68-2-2,vehicle usage,combustion of gasoline and diesel,yes,yes,yes,yes
+request-68-2-3,combustion of gasoline and diesel,carbon dioxide emissions,yes,no,yes,no
+request-68-2-4,carbon dioxide emissions,1% of global emissions,no,yes,no,no
+request-68-3-0,canada,agricultural practices,no,no,no,no
+request-68-3-1,agricultural practices,livestock farming,no,no,no,no
+request-68-3-2,livestock farming,methane emissions,yes,no,yes,no
+request-68-3-3,methane emissions,1% of global emissions,no,no,no,no
+request-68-4-0,canada,residential heating,no,no,no,no
+request-68-4-1,residential heating,use of fossil fuels for heating,no,yes,yes,yes
+request-68-4-2,use of fossil fuels for heating,carbon emissions,yes,no,yes,no
+request-68-4-3,carbon emissions,1% of global emissions,no,no,no,no
+request-69-0-0,fossil fuels combustion,air pollution,yes,no,yes,no
+request-69-0-1,air pollution,respiratory diseases,yes,no,yes,no
+request-69-0-2,respiratory diseases,premature deaths,yes,no,yes,yes
+request-69-1-0,fossil fuels extraction,habitat destruction,yes,no,yes,no
+request-69-1-1,habitat destruction,loss of biodiversity,yes,no,yes,no
+request-69-1-2,loss of biodiversity,ecosystem imbalance,yes,yes,yes,yes
+request-69-1-3,ecosystem imbalance,reduced natural resources,yes,yes,yes,yes
+request-69-1-4,reduced natural resources,human mortality,yes,no,no,no
+request-69-2-0,fossil fuels usage,greenhouse gas emissions,yes,no,yes,no
+request-69-2-1,greenhouse gas emissions,global warming,yes,no,yes,no
+request-69-2-2,global warming,extreme weather events,yes,no,yes,no
+request-69-2-3,extreme weather events,natural disasters,yes,no,no,no
+request-69-2-4,natural disasters,fatalities,yes,no,yes,no
+request-69-3-0,fossil fuels transportation,vehicular emissions,yes,no,yes,no
+request-69-3-1,vehicular emissions,cardiovascular diseases,yes,no,yes,no
+request-69-3-2,cardiovascular diseases,increased mortality rates,yes,no,yes,no
+request-69-4-0,fossil fuels burning,particulate matter release,yes,yes,yes,no
+request-69-4-1,particulate matter release,chronic obstructive pulmonary disease,yes,no,yes,no
+request-69-4-2,chronic obstructive pulmonary disease,death,"i'm not a doctor, but yes, chronic obstructive pulmonary disease (copd) can lead to death please consult a healthcare professional for more information",no,yes,no
+request-69-5-0,fossil fuels production,industrial pollution,yes,no,yes,no
+request-69-5-1,industrial pollution,contaminated water sources,yes,no,yes,no
+request-69-5-2,contaminated water sources,waterborne diseases,yes,no,yes,no
+request-69-5-3,waterborne diseases,deaths,yes,no,yes,yes
+request-69-6-0,fossil fuels dependence,economic instability,yes,no,yes,no
+request-69-6-1,economic instability,inadequate healthcare access,yes,yes,yes,yes
+request-69-6-2,inadequate healthcare access,higher mortality,yes,no,yes,no
+request-69-7-0,fossil fuels consumption,ozone layer depletion,no,no,no,no
+request-69-7-1,ozone layer depletion,increased uv radiation,yes,no,yes,no
+request-69-7-2,increased uv radiation,skin cancers,yes,no,yes,yes
+request-69-7-3,skin cancers,fatalities,yes,no,yes,yes
+request-70-0-0,loss of land in farms with turbines,reduced agricultural area,yes,yes,yes,yes
+request-70-0-1,reduced agricultural area,decreased crop yields,yes,no,yes,no
+request-70-0-2,decreased crop yields,loss of production,yes,yes,yes,no
+request-70-1-0,loss of land in farms with turbines,displacement of farming activities,yes,yes,yes,yes
+request-70-1-1,displacement of farming activities,disrupted farming operations,yes,yes,yes,yes
+request-70-1-2,disrupted farming operations,loss of production,yes,yes,yes,no
+request-70-2-0,loss of land in farms with turbines,soil degradation,no,no,no,no
+request-70-2-1,soil degradation,reduced productivity,yes,no,yes,no
+request-70-2-2,reduced productivity,loss of production,yes,yes,yes,yes
+request-70-3-0,loss of land in farms with turbines,financial losses,yes,yes,yes,no
+request-70-3-1,financial losses,reduced investment in production,yes,yes,yes,yes
+request-70-3-2,reduced investment in production,loss of production,yes,yes,yes,yes
+request-70-4-0,loss of land in farms with turbines,disrupted supply chains,yes,no,no,no
+request-70-4-1,disrupted supply chains,delayed production,yes,yes,yes,yes
+request-70-4-2,delayed production,loss of production,yes,yes,yes,yes
+request-70-5-0,loss of land in farms with turbines,reduced labor availability,yes,no,no,no
+request-70-5-1,reduced labor availability,decreased operational efficiency,yes,no,yes,no
+request-70-5-2,decreased operational efficiency,loss of production,yes,yes,yes,no
+request-71-0-0,humans,burning fossil fuels,yes,no,yes,yes
+request-71-0-1,burning fossil fuels,release of greenhouse gases,yes,no,yes,no
+request-71-0-2,release of greenhouse gases,global warming,yes,yes,yes,no
+request-71-0-3,global warming,climate change,yes,no,yes,no
+request-71-1-0,humans,deforestation,yes,no,yes,yes
+request-71-1-1,deforestation,reduction in carbon sinks,yes,no,yes,no
+request-71-1-2,reduction in carbon sinks,increased atmospheric co₂,yes,no,yes,yes
+request-71-1-3,increased atmospheric co₂,climate change,yes,no,yes,no
+request-71-2-0,humans,industrial activities,yes,no,yes,no
+request-71-2-1,industrial activities,emission of pollutants,yes,no,yes,yes
+request-71-2-2,emission of pollutants,atmospheric changes,yes,yes,yes,no
+request-71-2-3,atmospheric changes,climate change,yes,yes,yes,yes
+request-71-3-0,humans,agricultural practices,yes,no,yes,no
+request-71-3-1,agricultural practices,methane emissions,yes,no,yes,no
+request-71-3-2,methane emissions,greenhouse effect intensification,yes,yes,yes,no
+request-71-3-3,greenhouse effect intensification,climate change,yes,yes,yes,no
+request-71-4-0,humans,transportation emissions,yes,no,yes,yes
+request-71-4-1,transportation emissions,increased co₂ levels,yes,no,yes,no
+request-71-4-2,increased co₂ levels,radiative forcing,yes,no,yes,no
+request-71-4-3,radiative forcing,climate change,yes,no,yes,no
+request-71-5-0,humans,waste production,yes,no,yes,no
+request-71-5-1,waste production,methane emissions from landfills,yes,no,yes,no
+request-71-5-2,methane emissions from landfills,greenhouse gas accumulation,yes,no,yes,no
+request-71-5-3,greenhouse gas accumulation,climate change,yes,no,yes,no
+request-71-6-0,humans,urbanization,yes,no,yes,no
+request-71-6-1,urbanization,heat island effect,yes,no,yes,no
+request-71-6-2,heat island effect,local temperature increases,yes,no,yes,no
+request-71-6-3,local temperature increases,climate change,no,yes,no,yes
+request-71-7-0,humans,energy consumption patterns,yes,no,yes,no
+request-71-7-1,energy consumption patterns,fossil fuel dependence,yes,yes,yes,yes
+request-71-7-2,fossil fuel dependence,carbon emissions,yes,no,yes,no
+request-71-7-3,carbon emissions,climate change,yes,no,yes,no
+request-72-0-0,co2 dumping,increased atmospheric co2 concentration,yes,no,yes,no
+request-72-0-1,increased atmospheric co2 concentration,enhanced greenhouse effect,yes,no,yes,no
+request-72-0-2,enhanced greenhouse effect,global warmth,yes,no,yes,no
+request-72-1-0,co2 dumping,accumulation of carbon dioxide,yes,no,yes,no
+request-72-1-1,accumulation of carbon dioxide,increased radiative forcing,yes,no,yes,no
+request-72-1-2,increased radiative forcing,atmospheric warming,yes,yes,yes,no
+request-72-1-3,atmospheric warming,warmth,yes,yes,yes,no
+request-72-2-0,co2 dumping,elevated greenhouse gas levels,yes,no,yes,no
+request-72-2-1,elevated greenhouse gas levels,greater heat retention,yes,no,yes,no
+request-72-2-2,greater heat retention,surface temperature rise,yes,yes,yes,no
+request-72-2-3,surface temperature rise,warmth,yes,yes,no,yes
+request-72-3-0,co2 dumping,higher carbon dioxide emissions,yes,yes,yes,yes
+request-72-3-1,higher carbon dioxide emissions,enhanced infrared radiation trapping,yes,no,yes,no
+request-72-3-2,enhanced infrared radiation trapping,energy imbalance,yes,no,yes,no
+request-72-3-3,energy imbalance,global temperature increase,yes,no,yes,no
+request-72-3-4,global temperature increase,warmth,yes,no,yes,no
+request-73-0-0,higher concentrations of co2,enhanced photosynthesis,yes,no,yes,no
+request-73-0-1,enhanced photosynthesis,increased plant biomass,yes,no,yes,no
+request-73-0-2,increased plant biomass,expanded vegetation cover,yes,yes,no,yes
+request-73-0-3,expanded vegetation cover,surface greening as a convective refrigerant,yes,no,yes,no
+request-73-1-0,higher concentrations of co2,co2 fertilization effect,yes,no,yes,no
+request-73-1-1,co2 fertilization effect,improved plant growth rates,yes,no,yes,yes
+request-73-1-2,improved plant growth rates,increased leafy area,yes,yes,yes,yes
+request-73-1-3,increased leafy area,surface greening as a convective refrigerant,yes,yes,yes,yes
+request-73-2-0,higher concentrations of co2,elevated atmospheric co2 levels,yes,yes,yes,yes
+request-73-2-1,elevated atmospheric co2 levels,stimulation of plant growth,yes,no,yes,no
+request-73-2-2,stimulation of plant growth,greater vegetation density,yes,no,yes,no
+request-73-2-3,greater vegetation density,surface greening as a convective refrigerant,yes,yes,yes,no
+request-74-0-0,humans,burning fossil fuels,yes,no,yes,yes
+request-74-0-1,burning fossil fuels,increase in greenhouse gas emissions,yes,no,yes,no
+request-74-0-2,increase in greenhouse gas emissions,global warming,yes,yes,yes,no
+request-74-0-3,global warming,climate change,yes,no,no,no
+request-74-1-0,humans,deforestation,yes,no,yes,yes
+request-74-1-1,deforestation,reduction in carbon sinks,yes,no,yes,no
+request-74-1-2,reduction in carbon sinks,increased atmospheric co₂,yes,yes,no,yes
+request-74-1-3,increased atmospheric co₂,climate change,yes,yes,yes,no
+request-74-2-0,humans,industrial activities,yes,no,yes,no
+request-74-2-1,industrial activities,air pollution,yes,no,yes,yes
+request-74-2-2,air pollution,altered atmospheric composition,yes,yes,yes,yes
+request-74-2-3,altered atmospheric composition,climate change,yes,yes,yes,no
+request-74-3-0,humans,agricultural practices,yes,no,yes,no
+request-74-3-1,agricultural practices,methane emissions,yes,no,yes,no
+request-74-3-2,methane emissions,enhanced greenhouse effect,yes,yes,yes,no
+request-74-3-3,enhanced greenhouse effect,climate change,yes,no,yes,no
+request-74-4-0,humans,urbanization,yes,no,yes,no
+request-74-4-1,urbanization,increased energy consumption,yes,no,yes,no
+request-74-4-2,increased energy consumption,greater greenhouse gas emissions,yes,no,yes,no
+request-74-4-3,greater greenhouse gas emissions,climate change,yes,yes,yes,no
+request-74-5-0,humans,transportation emissions,yes,yes,yes,yes
+request-74-5-1,transportation emissions,higher co₂ levels,yes,no,yes,no
+request-74-5-2,higher co₂ levels,climate change,yes,no,yes,no
+request-74-6-0,humans,waste management practices,yes,yes,yes,no
+request-74-6-1,waste management practices,release of methane from landfills,yes,yes,yes,no
+request-74-6-2,release of methane from landfills,climate change,yes,yes,yes,no
+request-74-7-0,humans,energy production from nonrenewable sources,yes,no,yes,no
+request-74-7-1,energy production from nonrenewable sources,emission of pollutants,yes,no,yes,yes
+request-74-7-2,emission of pollutants,climate change,yes,no,yes,no
+request-74-8-0,humans,use of cfcs,yes,no,yes,yes
+request-74-8-1,use of cfcs,ozone depletion,yes,no,yes,no
+request-74-8-2,ozone depletion,altered climate systems,yes,no,no,no
+request-74-8-3,altered climate systems,climate change,no,yes,yes,yes
+request-74-9-0,humans,industrial agriculture,yes,no,yes,no
+request-74-9-1,industrial agriculture,nitrous oxide emissions,yes,no,yes,no
+request-74-9-2,nitrous oxide emissions,enhanced greenhouse effect,yes,no,yes,no
+request-74-9-3,enhanced greenhouse effect,climate change,yes,no,yes,no
+request-75-0-0,humans' greenhouse gas contributions,increased atmospheric greenhouse gas concentrations,yes,no,yes,yes
+request-75-0-1,increased atmospheric greenhouse gas concentrations,intensified the greenhouse effect,yes,no,yes,yes
+request-75-0-2,intensified the greenhouse effect,increased heat retention on earth,yes,no,yes,no
+request-75-1-0,humans' greenhouse gas contributions,emission of carbon dioxide,yes,yes,yes,yes
+request-75-1-1,emission of carbon dioxide,accumulation of co₂ in the atmosphere,yes,no,yes,no
+request-75-1-2,accumulation of co₂ in the atmosphere,enhanced infrared radiation absorption,yes,no,yes,no
+request-75-1-3,enhanced infrared radiation absorption,increased heat retention on earth,yes,no,yes,no
+request-75-2-0,humans' greenhouse gas contributions,burning fossil fuels,no,yes,no,yes
+request-75-2-1,burning fossil fuels,release of methane and nitrous oxide,yes,no,yes,yes
+request-75-2-2,release of methane and nitrous oxide,greater greenhouse gas radiative forcing,yes,yes,yes,no
+request-75-2-3,greater greenhouse gas radiative forcing,increased heat retention on earth,yes,no,yes,no
+request-75-3-0,humans' greenhouse gas contributions,deforestation and land use changes,no,yes,yes,yes
+request-75-3-1,deforestation and land use changes,reduced carbon sequestration,yes,no,yes,no
+request-75-3-2,reduced carbon sequestration,higher atmospheric greenhouse gas levels,yes,yes,yes,no
+request-75-3-3,higher atmospheric greenhouse gas levels,increased heat retention on earth,yes,no,yes,no
+request-76-0-0,individual carbon footprint reduction,decreased energy consumption,yes,yes,yes,yes
+request-76-0-1,decreased energy consumption,lowered greenhouse gas emissions,yes,no,yes,no
+request-76-0-2,lowered greenhouse gas emissions,mitigation of global warming,yes,yes,yes,yes
+request-76-0-3,mitigation of global warming,help for climate change,yes,yes,yes,yes
+request-76-1-0,individual carbon footprint reduction,adoption of renewable energy sources,yes,yes,no,yes
+request-76-1-1,adoption of renewable energy sources,reduced reliance on fossil fuels,yes,no,yes,yes
+request-76-1-2,reduced reliance on fossil fuels,decreased carbon emissions,yes,no,yes,no
+request-76-1-3,decreased carbon emissions,help for climate change,yes,yes,yes,yes
+request-76-2-0,individual carbon footprint reduction,enhanced energy efficiency,yes,yes,yes,yes
+request-76-2-1,enhanced energy efficiency,reduced resource depletion,yes,yes,yes,no
+request-76-2-2,reduced resource depletion,preservation of natural ecosystems,yes,yes,yes,yes
+request-76-2-3,preservation of natural ecosystems,help for climate change,yes,yes,yes,yes
+request-76-3-0,individual carbon footprint reduction,minimized waste generation,no,yes,yes,yes
+request-76-3-1,minimized waste generation,lowered methane emissions,yes,no,yes,no
+request-76-3-2,lowered methane emissions,improved air quality,yes,no,yes,no
+request-76-3-3,improved air quality,help for climate change,yes,yes,yes,yes
+request-76-4-0,individual carbon footprint reduction,increased use of public transportation,yes,yes,yes,yes
+request-76-4-1,increased use of public transportation,reduced transportation emissions,yes,no,yes,no
+request-76-4-2,reduced transportation emissions,decreased contribution to urban heat islands,yes,no,no,no
+request-76-4-3,decreased contribution to urban heat islands,help for climate change,yes,yes,yes,yes
+request-77-0-0,china's international trade,increased manufacturing output,yes,yes,yes,yes
+request-77-0-1,increased manufacturing output,greater energy use,yes,no,yes,yes
+request-77-0-2,greater energy use,higher greenhouse gas emissions,yes,no,yes,no
+request-77-0-3,higher greenhouse gas emissions,13% of total emissions,"i'm sorry, but i can't provide a yes or no answer to that question",yes,no,no
+request-77-1-0,china's international trade,expansion of industrial sectors,yes,yes,yes,yes
+request-77-1-1,expansion of industrial sectors,reliance on fossil fuels,yes,yes,yes,yes
+request-77-1-2,reliance on fossil fuels,increased carbon dioxide emissions,yes,no,yes,no
+request-77-1-3,increased carbon dioxide emissions,13% of total emissions,no,no,no,no
+request-77-2-0,china's international trade,growth in transportation logistics,yes,yes,yes,no
+request-77-2-1,growth in transportation logistics,increased fuel consumption,yes,no,yes,no
+request-77-2-2,increased fuel consumption,higher emissions from transportation,yes,no,yes,no
+request-77-2-3,higher emissions from transportation,13% of total emissions,yes,no,no,yes
+request-77-3-0,china's international trade,rise in exportoriented factories,yes,yes,yes,yes
+request-77-3-1,rise in exportoriented factories,intensified energy production,yes,yes,yes,yes
+request-77-3-2,intensified energy production,elevated pollution levels,yes,no,yes,no
+request-77-3-3,elevated pollution levels,13% of total emissions,no,yes,no,no
+request-78-0-0,increased atmospheric co₂,enhanced greenhouse effect,yes,no,yes,no
+request-78-0-1,enhanced greenhouse effect,global temperature rise,yes,no,yes,no
+request-78-0-2,global temperature rise,melting polar ice,yes,yes,yes,no
+request-78-0-3,melting polar ice,albedo reduction,yes,yes,yes,no
+request-78-0-4,albedo reduction,further temperature increase,yes,yes,yes,yes
+request-78-0-5,further temperature increase,runaway global warming,no,yes,yes,no
+request-78-1-0,elevated co₂ levels,ocean acidification,yes,no,yes,no
+request-78-1-1,ocean acidification,marine ecosystem disruption,yes,no,yes,no
+request-78-1-2,marine ecosystem disruption,reduced carbon sequestration,yes,yes,yes,yes
+request-78-1-3,reduced carbon sequestration,higher atmospheric co₂,yes,no,yes,yes
+request-78-1-4,higher atmospheric co₂,accelerated global warming,yes,yes,yes,no
+request-78-1-5,accelerated global warming,runaway global warming,no,no,yes,no
+request-78-2-0,increased carbon emissions,enhanced greenhouse effect,yes,no,yes,no
+request-78-2-1,enhanced greenhouse effect,heatwave intensification,yes,no,yes,no
+request-78-2-2,heatwave intensification,permafrost thawing,yes,yes,yes,no
+request-78-2-3,permafrost thawing,methane release,yes,no,yes,no
+request-78-2-4,methane release,positive feedback loop,yes,yes,yes,yes
+request-78-2-5,positive feedback loop,runaway global warming,no,no,yes,no
+request-78-3-0,higher co₂ concentrations,increased thermal radiation retention,yes,no,yes,no
+request-78-3-1,increased thermal radiation retention,global temperature rise,yes,yes,yes,no
+request-78-3-2,global temperature rise,deforestation,no,yes,no,yes
+request-78-3-3,deforestation,reduced carbon uptake,yes,no,yes,no
+request-78-3-4,reduced carbon uptake,elevated atmospheric co₂,yes,no,yes,no
+request-78-3-5,elevated atmospheric co₂,runaway global warming,no,no,no,no
+request-79-0-0,global warming,increased temperatures,yes,no,yes,no
+request-79-0-1,increased temperatures,reduced crop yields,yes,no,yes,no
+request-79-0-2,reduced crop yields,food shortages,yes,no,yes,no
+request-79-1-0,global warming,changes in precipitation patterns,yes,no,yes,no
+request-79-1-1,changes in precipitation patterns,droughts,yes,no,yes,no
+request-79-1-2,droughts,crop failures,yes,no,yes,no
+request-79-1-3,crop failures,food shortages,yes,no,yes,no
+request-79-2-0,global warming,increased frequency of extreme weather events,yes,no,yes,no
+request-79-2-1,increased frequency of extreme weather events,destruction of agricultural infrastructure,yes,no,yes,no
+request-79-2-2,destruction of agricultural infrastructure,reduced food production,yes,no,yes,no
+request-79-2-3,reduced food production,food shortages,yes,no,yes,no
+request-79-3-0,global warming,ocean warming,yes,no,yes,no
+request-79-3-1,ocean warming,marine ecosystem disruption,yes,no,yes,no
+request-79-3-2,marine ecosystem disruption,fisheries decline,yes,yes,yes,no
+request-79-3-3,fisheries decline,food shortages,yes,yes,yes,no
+request-79-4-0,global warming,melting glaciers,yes,no,yes,no
+request-79-4-1,melting glaciers,reduced freshwater availability,yes,no,yes,no
+request-79-4-2,reduced freshwater availability,impact on agriculture,yes,yes,yes,yes
+request-79-4-3,impact on agriculture,food shortages,yes,yes,yes,no
+request-79-5-0,global warming,sea level rise,yes,no,yes,no
+request-79-5-1,sea level rise,saltwater intrusion into arable land,yes,no,yes,no
+request-79-5-2,saltwater intrusion into arable land,reduced agricultural productivity,yes,no,yes,no
+request-79-5-3,reduced agricultural productivity,food shortages,yes,no,yes,no
+request-79-6-0,global warming,increased pests and diseases,yes,no,yes,no
+request-79-6-1,increased pests and diseases,crop damage,yes,yes,yes,no
+request-79-6-2,crop damage,reduced food supply,yes,no,yes,no
+request-79-6-3,reduced food supply,food shortages,yes,no,yes,no
+request-79-7-0,global warming,heatwaves,yes,no,yes,no
+request-79-7-1,heatwaves,livestock stress,yes,no,yes,no
+request-79-7-2,livestock stress,lower meat and dairy production,yes,no,yes,no
+request-79-7-3,lower meat and dairy production,food shortages,no,yes,yes,yes
+request-80-0-0,minor fluctuations in ambient temperature,changes in agricultural productivity,yes,yes,yes,no
+request-80-0-1,changes in agricultural productivity,food shortages,yes,yes,yes,no
+request-80-0-2,food shortages,economic instability,yes,yes,yes,yes
+request-80-0-3,economic instability,forced migration of billions,no,yes,yes,no
+request-80-1-0,minor fluctuations in ambient temperature,sea level rise,yes,no,no,no
+request-80-1-1,sea level rise,loss of habitable land,yes,no,yes,no
+request-80-1-2,loss of habitable land,forced migration of billions,yes,yes,no,no
+request-80-2-0,minor fluctuations in ambient temperature,increased frequency of extreme weather events,no,no,no,no
+request-80-2-1,increased frequency of extreme weather events,displacement of populations,yes,no,yes,no
+request-80-2-2,displacement of populations,forced migration of billions,no,yes,yes,no
+request-80-3-0,minor fluctuations in ambient temperature,ecosystem disruptions,no,yes,yes,no
+request-80-3-1,ecosystem disruptions,water scarcity,yes,yes,yes,yes
+request-80-3-2,water scarcity,forced migration of billions,no,yes,no,no
+request-81-0-0,the impacts of mining,contamination of water sources,yes,yes,yes,no
+request-81-0-1,contamination of water sources,polluted water supply,yes,yes,yes,yes
+request-81-0-2,polluted water supply,jeopardized access to water for affected communities,yes,no,yes,no
+request-81-1-0,the impacts of mining,depletion of water resources,yes,no,yes,no
+request-81-1-1,depletion of water resources,reduced availability of clean water,yes,no,yes,yes
+request-81-1-2,reduced availability of clean water,jeopardized access to water for affected communities,yes,yes,yes,yes
+request-81-2-0,the impacts of mining,deforestation,yes,no,yes,no
+request-81-2-1,deforestation,reduced water retention in soil,yes,yes,yes,no
+request-81-2-2,reduced water retention in soil,disrupted water availability,yes,yes,yes,no
+request-81-2-3,disrupted water availability,jeopardized access to water for affected communities,yes,yes,yes,yes
+request-81-3-0,the impacts of mining,acid mine drainage,yes,no,yes,yes
+request-81-3-1,acid mine drainage,toxic runoff into water bodies,yes,no,yes,yes
+request-81-3-2,toxic runoff into water bodies,jeopardized access to water for affected communities,yes,no,yes,no
+request-81-4-0,the impacts of mining,increased sedimentation in rivers,yes,no,yes,yes
+request-81-4-1,increased sedimentation in rivers,degraded water quality,yes,no,yes,no
+request-81-4-2,degraded water quality,jeopardized access to water for affected communities,yes,yes,yes,yes
+request-81-5-0,the impacts of mining,habitat destruction,yes,no,yes,yes
+request-81-5-1,habitat destruction,ecosystem imbalance,yes,yes,yes,yes
+request-81-5-2,ecosystem imbalance,altered water cycles,yes,yes,yes,yes
+request-81-5-3,altered water cycles,jeopardized access to water for affected communities,yes,no,yes,no
+request-81-6-0,the impacts of mining,land degradation,yes,no,yes,yes
+request-81-6-1,land degradation,altered water flow patterns,yes,yes,yes,yes
+request-81-6-2,altered water flow patterns,jeopardized access to water for affected communities,yes,no,yes,no
+request-82-0-0,approximately 22 million litres of water,pumping of brine from salt flats,no,no,no,no
+request-82-0-1,pumping of brine from salt flats,evaporation in solar ponds,no,no,no,yes
+request-82-0-2,evaporation in solar ponds,concentration of lithium in brine,yes,no,yes,no
+request-82-0-3,concentration of lithium in brine,chemical extraction and purification,yes,no,no,no
+request-82-0-4,chemical extraction and purification,ton of extracted lithium,yes,yes,yes,yes
+request-82-1-0,approximately 22 million litres of water,dilution of lithiumcontaining ore,yes,yes,no,no
+request-82-1-1,dilution of lithiumcontaining ore,separation through filtration,no,yes,no,no
+request-82-1-2,separation through filtration,lithium adsorption onto resins,yes,yes,no,no
+request-82-1-3,lithium adsorption onto resins,regeneration and extraction,yes,yes,yes,no
+request-82-1-4,regeneration and extraction,ton of extracted lithium,yes,no,yes,no
+request-82-2-0,approximately 22 million litres of water,transportation to processing facility,yes,no,no,i need more information to provide an accurate answer
+request-82-2-1,transportation to processing facility,chemical leaching of lithium,no,yes,no,no
+request-82-2-2,chemical leaching of lithium,precipitation of lithium carbonate,yes,no,no,no
+request-82-2-3,precipitation of lithium carbonate,drying and packaging,yes,yes,no,no
+request-82-2-4,drying and packaging,ton of extracted lithium,no,yes,no,yes
+request-83-0-0,lithium extraction,increased water consumption,yes,no,yes,no
+request-83-0-1,increased water consumption,reduced local water availability,yes,no,yes,no
+request-83-0-2,reduced local water availability,competition for scarce water resources,yes,yes,yes,yes
+request-83-0-3,competition for scarce water resources,waterrelated conflicts emerge,yes,yes,yes,yes
+request-83-1-0,lithium extraction,release of chemical pollutants,yes,no,yes,yes
+request-83-1-1,release of chemical pollutants,deterioration of water quality,yes,no,yes,no
+request-83-1-2,deterioration of water quality,health and safety concerns arise,yes,no,yes,yes
+request-83-1-3,health and safety concerns arise,community disputes over clean water,yes,yes,yes,yes
+request-83-1-4,community disputes over clean water,waterrelated conflicts emerge,yes,yes,yes,yes
+request-83-2-0,lithium extraction,expansion of industrial activities,yes,yes,yes,yes
+request-83-2-1,expansion of industrial activities,strain on regional infrastructure,yes,no,yes,no
+request-83-2-2,strain on regional infrastructure,restricted access to water sources,yes,yes,yes,yes
+request-83-2-3,restricted access to water sources,tensions over water distribution,yes,yes,yes,yes
+request-83-2-4,tensions over water distribution,waterrelated conflicts emerge,yes,yes,yes,yes
+request-83-3-0,lithium extraction,environmental degradation of ecosystems,yes,no,yes,no
+request-83-3-1,environmental degradation of ecosystems,loss of livelihoods dependent on water,yes,yes,yes,no
+request-83-3-2,loss of livelihoods dependent on water,social instability increases,yes,yes,yes,yes
+request-83-3-3,social instability increases,rivalries over remaining water resources,yes,yes,yes,yes
+request-83-3-4,rivalries over remaining water resources,waterrelated conflicts emerge,yes,yes,yes,yes
+request-83-4-0,lithium extraction,alteration of land use patterns,yes,yes,yes,no
+request-83-4-1,alteration of land use patterns,disruption of natural water flows,yes,yes,yes,yes
+request-83-4-2,disruption of natural water flows,onset of water scarcity,yes,yes,yes,no
+request-83-4-3,onset of water scarcity,disputes over water allocation,yes,no,yes,no
+request-83-4-4,disputes over water allocation,waterrelated conflicts emerge,yes,yes,yes,yes
+request-84-0-0,human intervention in natural processes,environmental degradation,yes,yes,yes,yes
+request-84-0-1,environmental degradation,climate change,yes,yes,yes,yes
+request-84-0-2,climate change,extreme weather events,yes,no,yes,no
+request-84-0-3,extreme weather events,dangers,yes,no,yes,no
+request-84-1-0,human intervention in natural processes,habitat destruction,yes,no,yes,no
+request-84-1-1,habitat destruction,loss of biodiversity,yes,no,yes,no
+request-84-1-2,loss of biodiversity,ecosystem collapse,yes,yes,yes,yes
+request-84-1-3,ecosystem collapse,dangers,yes,yes,yes,yes
+request-84-2-0,human intervention in natural processes,pollution increase,yes,yes,yes,yes
+request-84-2-1,pollution increase,air and water pollution,yes,yes,yes,yes
+request-84-2-2,air and water pollution,public health crises,yes,yes,yes,no
+request-84-2-3,public health crises,dangers,yes,yes,yes,yes
+request-84-3-0,human intervention in natural processes,resource overexploitation,yes,yes,yes,yes
+request-84-3-1,resource overexploitation,resource scarcity,yes,no,yes,yes
+request-84-3-2,resource scarcity,socioeconomic instability,yes,yes,yes,yes
+request-84-3-3,socioeconomic instability,dangers,yes,yes,yes,yes
+request-84-4-0,human intervention in natural processes,deforestation,yes,yes,yes,yes
+request-84-4-1,deforestation,soil erosion,yes,no,yes,no
+request-84-4-2,soil erosion,agricultural decline,yes,no,yes,no
+request-84-4-3,agricultural decline,dangers,yes,yes,yes,yes
+request-84-5-0,human intervention in natural processes,industrialization,yes,yes,yes,no
+request-84-5-1,industrialization,greenhouse gas emissions,yes,no,yes,no
+request-84-5-2,greenhouse gas emissions,global warming,yes,no,yes,no
+request-84-5-3,global warming,dangers,'yes',no,yes,no
+request-84-6-0,human intervention in natural processes,urbanization,yes,yes,yes,no
+request-84-6-1,urbanization,loss of green spaces,yes,no,yes,no
+request-84-6-2,loss of green spaces,heat island effect,yes,no,yes,no
+request-84-6-3,heat island effect,dangers,yes,no,yes,no
+request-84-7-0,human intervention in natural processes,overfishing,yes,yes,yes,no
+request-84-7-1,overfishing,marine ecosystem imbalance,yes,no,yes,no
+request-84-7-2,marine ecosystem imbalance,food security threats,yes,yes,yes,no
+request-84-7-3,food security threats,dangers,yes,yes,yes,yes
+request-84-8-0,human intervention in natural processes,introduction of invasive species,yes,yes,yes,no
+request-84-8-1,introduction of invasive species,native species decline,yes,no,yes,no
+request-84-8-2,native species decline,ecosystem instability,yes,yes,yes,yes
+request-84-8-3,ecosystem instability,dangers,yes,yes,yes,yes
+request-84-9-0,human intervention in natural processes,agricultural intensification,yes,yes,yes,yes
+request-84-9-1,agricultural intensification,pesticide runoff,yes,no,yes,no
+request-84-9-2,pesticide runoff,water contamination,yes,no,yes,no
+request-84-9-3,water contamination,dangers,yes,yes,yes,yes
+request-85-0-0,the soil damage from lithium extraction,release of particulate matter,yes,yes,yes,yes
+request-85-0-1,release of particulate matter,dispersal of particulate matter into the air,yes,yes,yes,yes
+request-85-0-2,dispersal of particulate matter into the air,air contamination,yes,yes,yes,no
+request-85-1-0,the soil damage from lithium extraction,disturbance of soil structure,yes,yes,yes,yes
+request-85-1-1,disturbance of soil structure,increased dust generation,yes,yes,yes,yes
+request-85-1-2,increased dust generation,air contamination,yes,yes,yes,yes
+request-85-2-0,the soil damage from lithium extraction,operation of heavy machinery,no,yes,no,yes
+request-85-2-1,operation of heavy machinery,emissions from machinery exhaust,yes,no,yes,no
+request-85-2-2,emissions from machinery exhaust,air contamination,yes,no,yes,no
+request-85-3-0,the soil damage from lithium extraction,erosion of contaminated soil,yes,yes,yes,yes
+request-85-3-1,erosion of contaminated soil,dust from erosion,yes,yes,no,no
+request-85-3-2,dust from erosion,air contamination,yes,yes,yes,no
+request-85-4-0,the soil damage from lithium extraction,altered soil chemistry,yes,yes,yes,yes
+request-85-4-1,altered soil chemistry,release of volatile compounds,yes,yes,yes,yes
+request-85-4-2,release of volatile compounds,air contamination,yes,yes,yes,no
+request-86-0-0,green co2,increased atmospheric co2,no,no,no,no
+request-86-0-1,increased atmospheric co2,enhanced greenhouse effect,yes,no,yes,no
+request-86-0-2,enhanced greenhouse effect,rising global temperatures,yes,yes,yes,no
+request-86-0-3,rising global temperatures,global warming,no,yes,yes,yes
+request-86-1-0,green co2,accumulation of co2 in the atmosphere,no,no,no,no
+request-86-1-1,accumulation of co2 in the atmosphere,absorption of infrared radiation,yes,no,yes,no
+request-86-1-2,absorption of infrared radiation,heat retention in earth's atmosphere,yes,yes,yes,yes
+request-86-1-3,heat retention in earth's atmosphere,global warming,yes,yes,yes,no
+request-86-2-0,green co2,increased greenhouse gas concentrations,yes,no,no,yes
+request-86-2-1,increased greenhouse gas concentrations,trapping more solar heat,no,yes,yes,no
+request-86-2-2,trapping more solar heat,earth's temperature increases,yes,yes,no,no
+request-86-2-3,earth's temperature increases,global warming,no,yes,no,yes
+request-86-3-0,green co2,emissions from human activities,no,yes,yes,yes
+request-86-3-1,emissions from human activities,higher co2 levels,yes,no,yes,yes
+request-86-3-2,higher co2 levels,strengthened greenhouse effect,yes,no,yes,no
+request-86-3-3,strengthened greenhouse effect,global warming,yes,yes,yes,no
+request-87-0-0,gasoline burning,incomplete combustion,yes,no,no,no
+request-87-0-1,incomplete combustion,emission of unburned hydrocarbons,yes,no,yes,no
+request-87-0-2,emission of unburned hydrocarbons,atmospheric hydrocarbon reactions,yes,no,yes,no
+request-87-0-3,atmospheric hydrocarbon reactions,methane formation,yes,yes,no,no
+request-87-1-0,gasoline burning,production of volatile organic compounds,yes,no,yes,no
+request-87-1-1,production of volatile organic compounds,photochemical transformations in the atmosphere,yes,no,yes,no
+request-87-1-2,photochemical transformations in the atmosphere,methane synthesis,no,yes,no,no
+request-87-2-0,gasoline burning,release of free radicals,yes,yes,yes,yes
+request-87-2-1,release of free radicals,hydrocarbon fragmentation,yes,yes,yes,yes
+request-87-2-2,hydrocarbon fragmentation,methane generation,yes,yes,yes,no
+request-87-3-0,gasoline burning,emission of pollutants,yes,no,yes,no
+request-87-3-1,emission of pollutants,atmospheric chemical transformations,yes,yes,yes,no
+request-87-3-2,atmospheric chemical transformations,methane production,yes,yes,no,yes
+request-88-0-0,cars,fuel combustion,yes,yes,yes,yes
+request-88-0-1,fuel combustion,emissions,yes,no,yes,no
+request-88-0-2,emissions,air pollution,yes,no,yes,no
+request-88-0-3,air pollution,pollution,no,yes,no,yes
+request-88-1-0,cars,increased traffic,yes,no,yes,no
+request-88-1-1,increased traffic,vehicle emissions,yes,no,yes,no
+request-88-1-2,vehicle emissions,air quality degradation,yes,no,yes,no
+request-88-1-3,air quality degradation,pollution,no,yes,no,yes
+request-88-2-0,cars,use of fossil fuels,yes,no,yes,yes
+request-88-2-1,use of fossil fuels,carbon dioxide emissions,yes,no,yes,no
+request-88-2-2,carbon dioxide emissions,greenhouse effect,yes,no,yes,no
+request-88-2-3,greenhouse effect,pollution,no,yes,no,yes
+request-88-3-0,cars,engine inefficiency,no,no,no,no
+request-88-3-1,engine inefficiency,unburned hydrocarbons,yes,yes,yes,no
+request-88-3-2,unburned hydrocarbons,air pollution,yes,no,yes,no
+request-88-3-3,air pollution,pollution,no,yes,no,yes
+request-88-4-0,cars,tire wear,yes,no,yes,no
+request-88-4-1,tire wear,particulate matter,yes,yes,yes,no
+request-88-4-2,particulate matter,air pollution,yes,no,yes,yes
+request-88-4-3,air pollution,pollution,no,yes,no,yes
+request-89-0-0,trees,accumulate dry leaves and branches,yes,no,yes,no
+request-89-0-1,accumulate dry leaves and branches,provide ample fuel,yes,no,yes,yes
+request-89-0-2,provide ample fuel,susceptible to ignition sources,yes,no,yes,no
+request-89-0-3,susceptible to ignition sources,forest fires,yes,yes,yes,no
+request-89-1-0,trees,undergo disease or pests,yes,yes,no,yes
+request-89-1-1,undergo disease or pests,weaken and die,yes,yes,yes,yes
+request-89-1-2,weaken and die,create dead biomass,yes,no,yes,no
+request-89-1-3,create dead biomass,easily ignited,yes,yes,yes,yes
+request-89-1-4,easily ignited,forest fires,yes,yes,yes,no
+request-89-2-0,trees,are subjected to prolonged drought,no,yes,no,yes
+request-89-2-1,are subjected to prolonged drought,become extremely dry,yes,yes,yes,yes
+request-89-2-2,become extremely dry,highly flammable,yes,no,yes,no
+request-89-2-3,highly flammable,ignite from heat or sparks,yes,yes,yes,yes
+request-89-2-4,ignite from heat or sparks,forest fires,yes,yes,yes,yes
+request-89-3-0,trees,block moisture retention in the soil,no,no,no,no
+request-89-3-1,block moisture retention in the soil,lead to drier underbrush,yes,yes,no,no
+request-89-3-2,lead to drier underbrush,increased fire spread,yes,no,no,no
+request-89-3-3,increased fire spread,forest fires,no,yes,no,yes
+request-89-4-0,trees,drop flammable materials like needles and bark,yes,no,yes,yes
+request-89-4-1,drop flammable materials like needles and bark,accumulate on the forest floor,yes,yes,yes,yes
+request-89-4-2,accumulate on the forest floor,act as fuel for fires,yes,yes,yes,yes
+request-89-4-3,act as fuel for fires,forest fires,yes,no,no,yes
+request-89-5-0,trees,attract lightning strikes,yes,no,yes,yes
+request-89-5-1,attract lightning strikes,cause ignition of surrounding vegetation,no,no,yes,no
+request-89-5-2,cause ignition of surrounding vegetation,spread to larger areas,yes,yes,yes,no
+request-89-5-3,spread to larger areas,forest fires,no,yes,no,yes
+request-89-6-0,trees,are removed or thinned improperly,yes,yes,no,yes
+request-89-6-1,are removed or thinned improperly,leave behind combustible debris,yes,yes,yes,yes
+request-89-6-2,leave behind combustible debris,increase fire risk from human activities,yes,yes,yes,yes
+request-89-6-3,increase fire risk from human activities,forest fires,yes,yes,yes,no
+request-89-7-0,trees,grow densely,yes,no,yes,no
+request-89-7-1,grow densely,create continuous fuel load,yes,yes,yes,no
+request-89-7-2,create continuous fuel load,facilitate rapid fire spread,yes,no,yes,yes
+request-89-7-3,facilitate rapid fire spread,forest fires,no,yes,yes,yes
+request-90-0-0,increase from 25% to 80% humidity,formation of heavy rainfall,no,no,yes,no
+request-90-0-1,formation of heavy rainfall,flooding of water bodies,yes,no,yes,no
+request-90-0-2,flooding of water bodies,drowning,yes,no,yes,no
+request-90-1-0,increase from 25% to 80% humidity,elevated humidity levels,yes,yes,yes,yes
+request-90-1-1,elevated humidity levels,increased likelihood of flash floods,yes,no,no,no
+request-90-1-2,increased likelihood of flash floods,submerged areas,yes,no,yes,yes
+request-90-1-3,submerged areas,drowning,yes,no,yes,no
+request-90-2-0,increase from 25% to 80% humidity,higher heat index,yes,no,yes,no
+request-90-2-1,higher heat index,heatstroke in individuals,yes,no,yes,no
+request-90-2-2,heatstroke in individuals,physical incapacitation,yes,yes,yes,no
+request-90-2-3,physical incapacitation,drowning,yes,yes,yes,yes
+request-90-3-0,increase from 25% to 80% humidity,enhanced storm activity,yes,yes,yes,yes
+request-90-3-1,enhanced storm activity,severe weather conditions,yes,yes,yes,no
+request-90-3-2,severe weather conditions,rough water conditions,yes,no,yes,no
+request-90-3-3,rough water conditions,drowning,yes,no,yes,no
+request-91-0-0,trees' carbon storage and release upon death,increase in atmospheric carbon dioxide,yes,yes,no,no
+request-91-0-1,increase in atmospheric carbon dioxide,intensification of the greenhouse effect,yes,no,yes,no
+request-91-0-2,intensification of the greenhouse effect,global warming,yes,no,yes,no
+request-91-1-0,trees' carbon storage and release upon death,decomposition of dead trees,yes,yes,no,yes
+request-91-1-1,decomposition of dead trees,release of stored carbon into the atmosphere,yes,no,yes,no
+request-91-1-2,release of stored carbon into the atmosphere,higher greenhouse gas concentrations,yes,yes,yes,yes
+request-91-1-3,higher greenhouse gas concentrations,global warming,yes,no,yes,no
+request-91-2-0,trees' carbon storage and release upon death,carbon release from forest fires,yes,no,yes,no
+request-91-2-1,carbon release from forest fires,emission of greenhouse gases,yes,yes,yes,yes
+request-91-2-2,emission of greenhouse gases,enhanced radiative forcing,yes,no,yes,no
+request-91-2-3,enhanced radiative forcing,global warming,yes,yes,yes,no
+request-91-3-0,trees' carbon storage and release upon death,reduction in carbon sequestration capacity,yes,yes,yes,yes
+request-91-3-1,reduction in carbon sequestration capacity,elevated atmospheric carbon levels,yes,yes,no,yes
+request-91-3-2,elevated atmospheric carbon levels,increased heat retention,yes,no,yes,no
+request-91-3-3,increased heat retention,global warming,yes,yes,yes,no
+request-91-4-0,trees' carbon storage and release upon death,decay of organic matter,yes,yes,yes,yes
+request-91-4-1,decay of organic matter,methane emissions,yes,no,yes,no
+request-91-4-2,methane emissions,rise in greenhouse gas potency,yes,no,yes,no
+request-91-4-3,rise in greenhouse gas potency,global warming,yes,no,no,no
+request-91-5-0,trees' carbon storage and release upon death,release of carbon into the soil,yes,yes,yes,no
+request-91-5-1,release of carbon into the soil,soil carbon dynamics alteration,yes,no,no,yes
+request-91-5-2,soil carbon dynamics alteration,uptake of additional carbon by the atmosphere,yes,yes,yes,yes
+request-91-5-3,uptake of additional carbon by the atmosphere,global warming,yes,yes,yes,no
+request-91-6-0,trees' carbon storage and release upon death,loss of carbon sinks,yes,yes,yes,yes
+request-91-6-1,loss of carbon sinks,accumulation of carbon dioxide,yes,yes,yes,no
+request-91-6-2,accumulation of carbon dioxide,strengthening of the greenhouse effect,yes,no,yes,no
+request-91-6-3,strengthening of the greenhouse effect,global warming,yes,no,yes,no
+request-91-7-0,trees' carbon storage and release upon death,carbon release into the environment,yes,yes,yes,yes
+request-91-7-1,carbon release into the environment,activation of climate feedback mechanisms,yes,yes,yes,yes
+request-91-7-2,activation of climate feedback mechanisms,accelerated global warming,yes,yes,yes,yes
+request-91-8-0,trees' carbon storage and release upon death,increased atmospheric co₂ concentrations,yes,yes,no,no
+request-91-8-1,increased atmospheric co₂ concentrations,enhanced greenhouse gas trapping,yes,no,yes,no
+request-91-8-2,enhanced greenhouse gas trapping,global temperature rise,yes,yes,yes,no
+request-91-8-3,global temperature rise,global warming,no,no,no,no
+request-91-9-0,trees' carbon storage and release upon death,release of stored carbon dioxide,yes,no,yes,yes
+request-91-9-1,release of stored carbon dioxide,higher levels of greenhouse gases,yes,yes,yes,yes
+request-91-9-2,higher levels of greenhouse gases,greater heat absorption by the earth,yes,yes,yes,no
+request-91-9-3,greater heat absorption by the earth,global warming,yes,yes,yes,no
+request-92-0-0,lower heat capacity of land temperatures,lower thermal inertia of land,yes,yes,yes,yes
+request-92-0-1,lower thermal inertia of land,quicker response to atmospheric heating,yes,yes,yes,no
+request-92-0-2,quicker response to atmospheric heating,the faster warming of land temperatures compared to sea temperatures,yes,yes,yes,yes
+request-92-1-0,lower heat capacity of land temperatures,rapid heat absorption by land,yes,no,yes,no
+request-92-1-1,rapid heat absorption by land,increased rate of temperature rise on land,yes,no,no,yes
+request-92-1-2,increased rate of temperature rise on land,the faster warming of land temperatures compared to sea temperatures,yes,yes,no,yes
+request-92-2-0,lower heat capacity of land temperatures,increased temperature sensitivity,yes,yes,yes,no
+request-92-2-1,increased temperature sensitivity,enhanced warming rate of land surfaces,yes,no,yes,no
+request-92-2-2,enhanced warming rate of land surfaces,the faster warming of land temperatures compared to sea temperatures,yes,yes,no,yes
+request-93-0-0,climate change,economic instability,yes,no,yes,no
+request-93-0-1,economic instability,increased parental stress,yes,no,yes,no
+request-93-0-2,increased parental stress,reduced parental engagement,yes,yes,yes,yes
+request-93-0-3,reduced parental engagement,lazy parenting,no,yes,yes,no
+request-93-1-0,climate change,frequent natural disasters,yes,no,yes,no
+request-93-1-1,frequent natural disasters,housing insecurity,yes,no,yes,no
+request-93-1-2,housing insecurity,parental preoccupation with survival,yes,no,yes,no
+request-93-1-3,parental preoccupation with survival,lazy parenting,yes,no,yes,no
+request-93-2-0,climate change,prolonged heatwaves,yes,no,yes,no
+request-93-2-1,prolonged heatwaves,parental fatigue and irritability,yes,no,yes,no
+request-93-2-2,parental fatigue and irritability,decreased energy for parenting,yes,yes,yes,yes
+request-93-2-3,decreased energy for parenting,lazy parenting,yes,no,no,no
+request-93-3-0,climate change,food and water scarcity,yes,no,yes,no
+request-93-3-1,food and water scarcity,nutritional deficiencies in families,yes,no,yes,no
+request-93-3-2,nutritional deficiencies in families,cognitive fatigue in parents,yes,yes,yes,"i'm sorry, but i can't provide a simple ""yes"" or ""no"" to that question"
+request-93-3-3,cognitive fatigue in parents,lazy parenting,yes,no,no,"i'm sorry, but cognitive fatigue in parents is typically caused by the demands and stresses of parenting, not by lazy parenting"
+request-93-4-0,climate change,environmental degradation,yes,yes,yes,yes
+request-93-4-1,environmental degradation,loss of community support systems,yes,yes,yes,no
+request-93-4-2,loss of community support systems,increased parental isolation,yes,yes,yes,no
+request-93-4-3,increased parental isolation,lazy parenting,no,yes,no,no
+request-93-5-0,climate change,economic downturn,yes,no,yes,no
+request-93-5-1,economic downturn,job loss among parents,yes,yes,yes,no
+request-93-5-2,job loss among parents,mental health challenges,yes,yes,yes,yes
+request-93-5-3,mental health challenges,decreased motivation for parenting,yes,yes,yes,yes
+request-93-5-4,decreased motivation for parenting,lazy parenting,yes,yes,yes,no
+request-93-6-0,climate change,resource competition,yes,no,yes,no
+request-93-6-1,resource competition,family conflicts and stress,yes,yes,yes,no
+request-93-6-2,family conflicts and stress,distracted and disengaged parenting,yes,yes,yes,yes
+request-93-6-3,distracted and disengaged parenting,lazy parenting,yes,yes,yes,no
+request-93-7-0,climate change,forced migration and displacement,yes,no,yes,no
+request-93-7-1,forced migration and displacement,stressful living conditions,yes,yes,yes,yes
+request-93-7-2,stressful living conditions,parental exhaustion,yes,yes,yes,yes
+request-93-7-3,parental exhaustion,lazy parenting,yes,yes,yes,no
+request-94-0-0,co2 emissions,greenhouse gas accumulation,yes,no,yes,no
+request-94-0-1,greenhouse gas accumulation,global warming,yes,no,yes,no
+request-94-0-2,global warming,extreme weather events,yes,no,yes,no
+request-94-0-3,extreme weather events,infrastructure damage,yes,no,yes,no
+request-94-0-4,infrastructure damage,economic instability,yes,yes,yes,yes
+request-94-0-5,economic instability,social unrest,yes,yes,yes,no
+request-94-0-6,social unrest,catastrophe,yes,yes,yes,yes
+request-94-1-0,co2 emissions,ocean acidification,yes,no,yes,no
+request-94-1-1,ocean acidification,marine ecosystem disruption,yes,no,yes,no
+request-94-1-2,marine ecosystem disruption,fisheries collapse,yes,yes,yes,yes
+request-94-1-3,fisheries collapse,food scarcity,yes,no,no,no
+request-94-1-4,food scarcity,societal collapse,yes,yes,yes,yes
+request-94-1-5,societal collapse,catastrophe,yes,yes,no,yes
+request-94-2-0,co2 emissions,ice sheet melting,yes,no,yes,no
+request-94-2-1,ice sheet melting,sealevel rise,yes,no,yes,no
+request-94-2-2,sealevel rise,coastal inundation,yes,no,yes,no
+request-94-2-3,coastal inundation,habitat loss,yes,yes,yes,no
+request-94-2-4,habitat loss,mass migrations,yes,yes,yes,yes
+request-94-2-5,mass migrations,geopolitical conflicts,yes,yes,yes,yes
+request-94-2-6,geopolitical conflicts,catastrophe,yes,yes,yes,no
+request-94-3-0,co2 emissions,heatwave intensification,yes,no,yes,no
+request-94-3-1,heatwave intensification,agricultural yield reduction,yes,no,yes,no
+request-94-3-2,agricultural yield reduction,food shortages,yes,no,yes,no
+request-94-3-3,food shortages,famine,yes,no,yes,no
+request-94-3-4,famine,population decline,yes,no,yes,no
+request-94-3-5,population decline,catastrophe,no,yes,no,yes
+request-94-4-0,co2 emissions,wildfires increase,yes,yes,yes,yes
+request-94-4-1,wildfires increase,air quality degradation,yes,no,yes,no
+request-94-4-2,air quality degradation,respiratory health crises,yes,no,yes,no
+request-94-4-3,respiratory health crises,healthcare system overload,yes,yes,yes,no
+request-94-4-4,healthcare system overload,societal breakdown,yes,yes,no,no
+request-94-4-5,societal breakdown,catastrophe,yes,yes,yes,no
+request-95-0-0,nothing in the environment,decrease in greenhouse gas concentrations,no,no,no,no
+request-95-0-1,decrease in greenhouse gas concentrations,reduced atmospheric heat retention,yes,no,yes,no
+request-95-0-2,reduced atmospheric heat retention,a drop in planetary temperature,yes,yes,yes,no
+request-95-1-0,nothing in the environment,increase in earth's albedo,no,no,no,no
+request-95-1-1,increase in earth's albedo,greater reflection of solar radiation,yes,yes,yes,yes
+request-95-1-2,greater reflection of solar radiation,a drop in planetary temperature,yes,yes,yes,no
+request-95-2-0,nothing in the environment,changes in ocean circulation patterns,no,no,no,no
+request-95-2-1,changes in ocean circulation patterns,altered global heat distribution,yes,yes,yes,yes
+request-95-2-2,altered global heat distribution,a drop in planetary temperature,no,yes,yes,no
+request-95-3-0,nothing in the environment,expansion of polar ice caps,no,no,no,no
+request-95-3-1,expansion of polar ice caps,enhanced ice reflectivity,yes,yes,yes,no
+request-95-3-2,enhanced ice reflectivity,a drop in planetary temperature,yes,yes,yes,no
+request-95-4-0,nothing in the environment,volcanic activity reduction,yes,no,no,no
+request-95-4-1,volcanic activity reduction,decrease in atmospheric aerosols,yes,no,yes,no
+request-95-4-2,decrease in atmospheric aerosols,increased longwave radiation escape,yes,no,yes,no
+request-95-4-3,increased longwave radiation escape,a drop in planetary temperature,yes,no,yes,no

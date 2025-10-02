@@ -1,0 +1,1955 @@
+cause,effect,custom_id
+companies and corporations emit greenhouse gases through their operations and products,"greenhouse gases trap heat in the atmosphere, contributing to global warming",request-1-0-0
+"greenhouse gases trap heat in the atmosphere, contributing to global warming",global warming,request-1-0-1
+companies and corporations engage in deforestation for resources like timber and palm oil,deforestation reduces the number of trees available to absorb carbon dioxide from the atmosphere,request-1-1-0
+deforestation reduces the number of trees available to absorb carbon dioxide from the atmosphere,increased carbon dioxide levels contribute to global warming and climate change,request-1-1-1
+companies and corporations use energy from fossil fuels for their operations,burning fossil fuels releases carbon dioxide and other greenhouse gases into the atmosphere,request-1-2-0
+burning fossil fuels releases carbon dioxide and other greenhouse gases into the atmosphere,increased greenhouse gas emissions contribute to global warming and climate change,request-1-2-1
+"companies and corporations produce and consume resources at a high rate, contributing to resource depletion",resource depletion can lead to conflicts and instability in regions where resources are extracted,request-1-3-0
+resource depletion can lead to conflicts and instability in regions where resources are extracted,instability can disrupt local ecosystems and contribute to climate change through activities like deforestation and agriculture,request-1-3-1
+"companies and corporations invest in infrastructure projects, often prioritizing economic growth over environmental concerns","infrastructure projects can lead to habitat destruction and fragmentation, disrupting local ecosystems",request-1-4-0
+"infrastructure projects can lead to habitat destruction and fragmentation, disrupting local ecosystems",ecosystem disruption can alter local climate patterns and contribute to broader climate change,request-1-4-1
+companies and corporations engage in lobbying and political influence to maintain favorable regulations,favorable regulations can hinder the implementation of policies that would reduce greenhouse gas emissions,request-1-5-0
+favorable regulations can hinder the implementation of policies that would reduce greenhouse gas emissions,"without effective policies, greenhouse gas emissions continue to rise, contributing to climate change",request-1-5-1
+buying from companies that mess the climate,contributes to the economic success of these companies,request-2-0-0
+contributes to the economic success of these companies,encourages these companies to continue their harmful practices,request-2-0-1
+encourages these companies to continue their harmful practices,leads to increased greenhouse gas emissions,request-2-0-2
+leads to increased greenhouse gas emissions,accelerates climate change,request-2-0-3
+accelerates climate change,results in the need for companies to adopt more sustainable practices,request-2-0-4
+results in the need for companies to adopt more sustainable practices,keeps climatedamaging companies in business,request-2-0-5
+buying from companies that mess the climate,supports the continuation of their business model,request-2-1-0
+supports the continuation of their business model,enables these companies to lobby against climate regulations,request-2-1-1
+enables these companies to lobby against climate regulations,weakens climate policies,request-2-1-2
+weakens climate policies,reduces the pressure on companies to change their practices,request-2-1-3
+reduces the pressure on companies to change their practices,keeps climatedamaging companies in business,request-2-1-4
+buying from companies that mess the climate,provides financial resources for these companies,request-2-2-0
+provides financial resources for these companies,allows these companies to invest in new projects or technologies,request-2-2-1
+allows these companies to invest in new projects or technologies,some projects may be aimed at improving sustainability,request-2-2-2
+some projects may be aimed at improving sustainability,"however, others may be focused on further exploiting resources",request-2-2-3
+"however, others may be focused on further exploiting resources",keeps climatedamaging companies in business,request-2-2-4
+systemic change,increased awareness and education on climate change,request-3-0-0
+increased awareness and education on climate change,growing public demand for climate action,request-3-0-1
+growing public demand for climate action,governments implementing stricter climate policies,request-3-0-2
+governments implementing stricter climate policies,increased investment in renewable energy and green technologies,request-3-0-3
+increased investment in renewable energy and green technologies,reduction in greenhouse gas emissions,request-3-0-4
+reduction in greenhouse gas emissions,slowing down of global warming,request-3-0-5
+slowing down of global warming,progress in climate change,request-3-0-6
+systemic change,shift in economic priorities towards sustainability,request-3-1-0
+shift in economic priorities towards sustainability,incentives for businesses to adopt greener practices,request-3-1-1
+incentives for businesses to adopt greener practices,increased adoption of sustainable business models,request-3-1-2
+increased adoption of sustainable business models,reduction in industrial emissions,request-3-1-3
+reduction in industrial emissions,slowing down of global warming,request-3-1-4
+slowing down of global warming,progress in climate change,request-3-1-5
+systemic change,innovation in climate solutions,request-3-2-0
+innovation in climate solutions,development of carbon capture and storage technologies,request-3-2-1
+development of carbon capture and storage technologies,implementation of carbon capture projects,request-3-2-2
+implementation of carbon capture projects,reduction in emissions from heavy industries,request-3-2-3
+reduction in emissions from heavy industries,slowing down of global warming,request-3-2-4
+slowing down of global warming,progress in climate change,request-3-2-5
+systemic change,changes in dietary habits and agriculture practices,request-3-3-0
+changes in dietary habits and agriculture practices,reduction in emissions from the agricultural sector,request-3-3-1
+reduction in emissions from the agricultural sector,increased reforestation and afforestation efforts,request-3-3-2
+increased reforestation and afforestation efforts,increased carbon sequestration,request-3-3-3
+increased carbon sequestration,slowing down of global warming,request-3-3-4
+slowing down of global warming,progress in climate change,request-3-3-5
+systemic change,international cooperation on climate action,request-3-4-0
+international cooperation on climate action,stronger global climate agreements,request-3-4-1
+stronger global climate agreements,increased global commitment to climate goals,request-3-4-2
+increased global commitment to climate goals,collective reduction in global greenhouse gas emissions,request-3-4-3
+collective reduction in global greenhouse gas emissions,slowing down of global warming,request-3-4-4
+slowing down of global warming,progress in climate change,request-3-4-5
+ultra wealthy people,consume more resources,request-4-0-0
+consume more resources,increased demand for goods and services,request-4-0-1
+increased demand for goods and services,higher production and consumption,request-4-0-2
+higher production and consumption,more carbon emissions,request-4-0-3
+more carbon emissions,larger carbon footprint,request-4-0-4
+ultra wealthy people,purchase luxury goods,request-4-1-0
+purchase luxury goods,increased production of luxury goods,request-4-1-1
+increased production of luxury goods,higher energy consumption in production,request-4-1-2
+higher energy consumption in production,more carbon emissions,request-4-1-3
+more carbon emissions,larger carbon footprint,request-4-1-4
+ultra wealthy people,travel frequently,request-4-2-0
+travel frequently,increased demand for transportation,request-4-2-1
+increased demand for transportation,higher fuel consumption,request-4-2-2
+higher fuel consumption,more carbon emissions,request-4-2-3
+more carbon emissions,larger carbon footprint,request-4-2-4
+ultra wealthy people,invest in fossil fuel industries,request-4-3-0
+invest in fossil fuel industries,increased extraction and burning of fossil fuels,request-4-3-1
+increased extraction and burning of fossil fuels,more carbon emissions,request-4-3-2
+more carbon emissions,larger carbon footprint,request-4-3-3
+ultra wealthy people,influence political decisions,request-4-4-0
+influence political decisions,policies favoring high carbon industries,request-4-4-1
+policies favoring high carbon industries,increased support for high carbon activities,request-4-4-2
+increased support for high carbon activities,more carbon emissions,request-4-4-3
+more carbon emissions,larger carbon footprint,request-4-4-4
+pigs escape from their pens,pigs trample vegetation,request-5-0-0
+pigs trample vegetation,soil erosion increases,request-5-0-1
+soil erosion increases,water runoff accelerates,request-5-0-2
+water runoff accelerates,stream banks erode,request-5-0-3
+stream banks erode,streams flood nearby areas,request-5-0-4
+streams flood nearby areas,floodwaters destroy crops,request-5-0-5
+floodwaters destroy crops,topsoil is washed away,request-5-0-6
+topsoil is washed away,soil fertility decreases,request-5-0-7
+soil fertility decreases,agricultural productivity drops,request-5-0-8
+agricultural productivity drops,food scarcity increases,request-5-0-9
+food scarcity increases,wildlife habitats are destroyed,request-5-0-10
+wildlife habitats are destroyed,biodiversity loss accelerates,request-5-0-11
+biodiversity loss accelerates,ecosystem services decline,request-5-0-12
+ecosystem services decline,massive environmental damage occurs,request-5-0-13
+pigs escape from their pens,pigs contaminate water sources,request-5-1-0
+pigs contaminate water sources,water quality deteriorates,request-5-1-1
+water quality deteriorates,fish and other aquatic life die,request-5-1-2
+fish and other aquatic life die,food chain disruption begins,request-5-1-3
+food chain disruption begins,predators starve,request-5-1-4
+predators starve,populations decline,request-5-1-5
+populations decline,ecosystem imbalance occurs,request-5-1-6
+ecosystem imbalance occurs,invasive species take over,request-5-1-7
+invasive species take over,further environmental damage ensues,request-5-1-8
+further environmental damage ensues,massive environmental damage occurs,request-5-1-9
+pigs escape from their pens,pigs spread disease to other animals,request-5-2-0
+pigs spread disease to other animals,disease outbreak occurs,request-5-2-1
+disease outbreak occurs,animal populations decline,request-5-2-2
+animal populations decline,predatorprey balance disrupted,request-5-2-3
+predatorprey balance disrupted,ecosystem functions degrade,request-5-2-4
+ecosystem functions degrade,environmental damage intensifies,request-5-2-5
+environmental damage intensifies,massive environmental damage occurs,request-5-2-6
+having fewer children,reduces family size,request-6-0-0
+reduces family size,decreases consumption of resources per family,request-6-0-1
+decreases consumption of resources per family,leads to lower energy usage,request-6-0-2
+leads to lower energy usage,results in reduced greenhouse gas emissions,request-6-0-3
+results in reduced greenhouse gas emissions,contributes to a smaller carbon footprint,request-6-0-4
+having fewer children,reduces family size,request-6-1-0
+reduces family size,decreases demand for goods and services,request-6-1-1
+decreases demand for goods and services,lowers production and consumption of goods,request-6-1-2
+lowers production and consumption of goods,reduces waste generation,request-6-1-3
+reduces waste generation,decreases need for waste management and disposal,request-6-1-4
+decreases need for waste management and disposal,leads to lower energy usage,request-6-1-5
+leads to lower energy usage,results in reduced greenhouse gas emissions,request-6-1-6
+results in reduced greenhouse gas emissions,contributes to a smaller carbon footprint,request-6-1-7
+having fewer children,reduces family size,request-6-2-0
+reduces family size,decreases demand for housing,request-6-2-1
+decreases demand for housing,lowers the need for new construction,request-6-2-2
+lowers the need for new construction,reduces the use of construction materials,request-6-2-3
+reduces the use of construction materials,decreases the energy required for extraction and processing of materials,request-6-2-4
+decreases the energy required for extraction and processing of materials,leads to reduced greenhouse gas emissions,request-6-2-5
+leads to reduced greenhouse gas emissions,contributes to a smaller carbon footprint,request-6-2-6
+climate change causes an increase in global temperatures,this temperature increase,request-7-0-0
+this temperature increase,sea level rise increases the risk of coastal flooding,request-7-0-1
+sea level rise increases the risk of coastal flooding,"a hurricane, like harvey, forms in the gulf of mexico",request-7-0-2
+"a hurricane, like harvey, forms in the gulf of mexico",the hurricane's strong winds and heavy rainfall cause storm surges,request-7-0-3
+the hurricane's strong winds and heavy rainfall cause storm surges,"storm surges combine with high sea levels, leading to extensive flooding in coastal cities like houston",request-7-0-4
+"storm surges combine with high sea levels, leading to extensive flooding in coastal cities like houston",the frequency and intensity of hurricanes increase due to warmer ocean temperatures caused by climate change,request-7-0-5
+the frequency and intensity of hurricanes increase due to warmer ocean temperatures caused by climate change,"as a result, the number of flooded homes in houston doubles during hurricane harvey",request-7-0-6
+climate change alters weather patterns,these altered patterns increase the likelihood of heavy rainfall events,request-7-1-0
+these altered patterns increase the likelihood of heavy rainfall events,"a hurricane, like harvey, forms in the gulf of mexico",request-7-1-1
+"a hurricane, like harvey, forms in the gulf of mexico",the hurricane's heavy rainfall causes flash flooding in urban areas like houston,request-7-1-2
+the hurricane's heavy rainfall causes flash flooding in urban areas like houston,flash flooding,request-7-1-3
+flash flooding,"given the existing vulnerability of houston's urban infrastructure to flooding, the number of flooded homes doubles during hurricane harvey",request-7-1-4
+climate change contributes to the intensification of hurricanes,"an intense hurricane, like harvey, forms in the gulf of mexico",request-7-2-0
+"an intense hurricane, like harvey, forms in the gulf of mexico","the hurricane's strong winds cause significant damage to infrastructure, including homes",request-7-2-1
+"the hurricane's strong winds cause significant damage to infrastructure, including homes",the damaged homes are more susceptible to flooding from subsequent rainfall,request-7-2-2
+the damaged homes are more susceptible to flooding from subsequent rainfall,"as a result, the number of flooded homes in houston doubles during hurricane harvey",request-7-2-3
+methane is released into the atmosphere,methane contributes to global warming,request-8-0-0
+methane contributes to global warming,global warming melts polar ice caps,request-8-0-1
+global warming melts polar ice caps,melting ice caps raise sea levels,request-8-0-2
+melting ice caps raise sea levels,rising sea levels flood coastal cities,request-8-0-3
+rising sea levels flood coastal cities,flooding damages infrastructure and causes pollution,request-8-0-4
+flooding damages infrastructure and causes pollution,pollution harms human health and ecosystems,request-8-0-5
+methane is released into the atmosphere,methane contributes to global warming,request-8-1-0
+methane contributes to global warming,global warming changes weather patterns,request-8-1-1
+global warming changes weather patterns,altered weather patterns cause more frequent and intense storms,request-8-1-2
+altered weather patterns cause more frequent and intense storms,storms damage industrial facilities and cause chemical leaks,request-8-1-3
+storms damage industrial facilities and cause chemical leaks,chemical leaks pollute the environment,request-8-1-4
+chemical leaks pollute the environment,pollution harms human health and ecosystems,request-8-1-5
+methane is released into the atmosphere,methane is a potent greenhouse gas,request-8-2-0
+methane is a potent greenhouse gas,greenhouse gases trap heat in the atmosphere,request-8-2-1
+greenhouse gases trap heat in the atmosphere,heat trapped in the atmosphere creates smog,request-8-2-2
+heat trapped in the atmosphere creates smog,smog is a form of air pollution,request-8-2-3
+smog is a form of air pollution,air pollution harms human health and ecosystems,request-8-2-4
+methane is released into the atmosphere,methane is a potent greenhouse gas,request-8-3-0
+methane is a potent greenhouse gas,greenhouse gases contribute to the depletion of the ozone layer,request-8-3-1
+greenhouse gases contribute to the depletion of the ozone layer,ozone layer depletion allows more uv radiation to reach earth's surface,request-8-3-2
+ozone layer depletion allows more uv radiation to reach earth's surface,increased uv radiation damages plants and aquatic life,request-8-3-3
+increased uv radiation damages plants and aquatic life,damaged ecosystems release less oxygen and absorb less carbon dioxide,request-8-3-4
+damaged ecosystems release less oxygen and absorb less carbon dioxide,reduced oxygen production and increased carbon dioxide contribute to pollution,request-8-3-5
+reduced oxygen production and increased carbon dioxide contribute to pollution,pollution harms human health and ecosystems,request-8-3-6
+melting of antarctic ice,exposure of permafrost,request-9-0-0
+exposure of permafrost,release of methane from thawed permafrost,request-9-0-1
+release of methane from thawed permafrost,methane pockets unabsorbed by microorganisms,request-9-0-2
+methane pockets unabsorbed by microorganisms,release of methane into the atmosphere,request-9-0-3
+melting of antarctic ice,increased water pressure in the ice,request-9-1-0
+increased water pressure in the ice,hydrofracturing of the ice,request-9-1-1
+hydrofracturing of the ice,exposure of methane hydrates,request-9-1-2
+exposure of methane hydrates,dissociation of methane hydrates,request-9-1-3
+dissociation of methane hydrates,release of methane into the water column,request-9-1-4
+release of methane into the water column,methane pockets unabsorbed by microorganisms,request-9-1-5
+methane pockets unabsorbed by microorganisms,release of methane into the atmosphere,request-9-1-6
+melting of antarctic ice,increased water temperature in the ice,request-9-2-0
+increased water temperature in the ice,enhanced microbial activity,request-9-2-1
+enhanced microbial activity,reduced capacity of microorganisms to absorb methane,request-9-2-2
+reduced capacity of microorganisms to absorb methane,methane pockets unabsorbed by microorganisms,request-9-2-3
+methane pockets unabsorbed by microorganisms,release of methane into the atmosphere,request-9-2-4
+lunar wobble,increased tidal range,request-10-0-0
+increased tidal range,higher high tides,request-10-0-1
+higher high tides,coastal flooding in the 2030s,request-10-0-2
+coastal flooding in the 2030s,erosion of coastal areas,request-10-0-3
+erosion of coastal areas,changes in the coastline,request-10-0-4
+lunar wobble,increased tidal range,request-10-1-0
+increased tidal range,accelerated sealevel rise,request-10-1-1
+accelerated sealevel rise,coastal flooding in the 2030s,request-10-1-2
+coastal flooding in the 2030s,saltwater intrusion into groundwater,request-10-1-3
+saltwater intrusion into groundwater,groundwater salinization,request-10-1-4
+groundwater salinization,changes in the coastline,request-10-1-5
+lunar wobble,increased tidal range,request-10-2-0
+increased tidal range,coastal flooding in the 2030s,request-10-2-1
+coastal flooding in the 2030s,damage to coastal infrastructure,request-10-2-2
+damage to coastal infrastructure,economic losses,request-10-2-3
+economic losses,reduced maintenance and adaptation efforts,request-10-2-4
+reduced maintenance and adaptation efforts,accelerated coastal erosion,request-10-2-5
+accelerated coastal erosion,changes in the coastline,request-10-2-6
+lunar wobble,increased tidal range,request-10-3-0
+increased tidal range,coastal flooding in the 2030s,request-10-3-1
+coastal flooding in the 2030s,displacement of coastal communities,request-10-3-2
+displacement of coastal communities,loss of traditional knowledge and practices,request-10-3-3
+loss of traditional knowledge and practices,reduced coastal management and conservation efforts,request-10-3-4
+reduced coastal management and conservation efforts,accelerated coastal erosion and habitat loss,request-10-3-5
+accelerated coastal erosion and habitat loss,changes in the coastline,request-10-3-6
+drought reduces water availability,reduced water availability,request-11-0-0
+reduced water availability,crop failure causes food scarcity,request-11-0-1
+crop failure causes food scarcity,food scarcity triggers mass migration,request-11-0-2
+food scarcity triggers mass migration,mass migration changes population distribution,request-11-0-3
+mass migration changes population distribution,changed population distribution alters land use patterns,request-11-0-4
+changed population distribution alters land use patterns,altered land use patterns cause deforestation and habitat loss,request-11-0-5
+altered land use patterns cause deforestation and habitat loss,deforestation and habitat loss modify the landscape,request-11-0-6
+deforestation and habitat loss modify the landscape,modified landscape changes river flows and water tables,request-11-0-7
+modified landscape changes river flows and water tables,changed river flows and water tables alter coastlines and shorelines,request-11-0-8
+changed river flows and water tables alter coastlines and shorelines,altered coastlines and shorelines update geography maps,request-11-0-9
+drought causes soil erosion,soil erosion degrades farmland,request-11-1-0
+soil erosion degrades farmland,degraded farmland reduces agricultural productivity,request-11-1-1
+degraded farmland reduces agricultural productivity,reduced agricultural productivity,request-11-1-2
+reduced agricultural productivity,food shortages cause economic strain,request-11-1-3
+food shortages cause economic strain,economic strain forces government intervention,request-11-1-4
+economic strain forces government intervention,government intervention implements land management policies,request-11-1-5
+government intervention implements land management policies,land management policies change land cover and vegetation,request-11-1-6
+land management policies change land cover and vegetation,changed land cover and vegetation modify terrain features,request-11-1-7
+changed land cover and vegetation modify terrain features,modified terrain features update geography maps,request-11-1-8
+drought causes wildfires,wildfires burn forests and grasslands,request-11-2-0
+wildfires burn forests and grasslands,burned forests and grasslands change land cover,request-11-2-1
+burned forests and grasslands change land cover,changed land cover alters runoff patterns,request-11-2-2
+changed land cover alters runoff patterns,altered runoff patterns modify river courses,request-11-2-3
+altered runoff patterns modify river courses,modified river courses change geography,request-11-2-4
+modified river courses change geography,changed geography updates geography maps,request-11-2-5
+changes in geographical maps,lead to the discovery of new resources,request-12-0-0
+lead to the discovery of new resources,the discovery of new resources attracts settlers,request-12-0-1
+the discovery of new resources attracts settlers,settlers migrate to the newly discovered areas,request-12-0-2
+settlers migrate to the newly discovered areas,migration,request-12-0-3
+migration,increased population density results in competition for resources,request-12-0-4
+increased population density results in competition for resources,competition for resources causes migration issues,request-12-0-5
+changes in geographical maps,reveal new trade routes,request-12-1-0
+reveal new trade routes,new trade routes stimulate economic growth,request-12-1-1
+new trade routes stimulate economic growth,economic growth attracts immigrants seeking work,request-12-1-2
+economic growth attracts immigrants seeking work,immigration,request-12-1-3
+immigration,an increased population puts pressure on resources,request-12-1-4
+an increased population puts pressure on resources,resource pressure causes migration issues,request-12-1-5
+changes in geographical maps,exacerbate existing environmental problems,request-12-2-0
+exacerbate existing environmental problems,environmental problems displace local populations,request-12-2-1
+environmental problems displace local populations,displaced populations are forced to migrate,request-12-2-2
+displaced populations are forced to migrate,migration to new areas increases competition for resources,request-12-2-3
+migration to new areas increases competition for resources,resource competition causes migration issues,request-12-2-4
+changes in geographical maps,create new geopolitical boundaries,request-12-3-0
+create new geopolitical boundaries,new boundaries divide ethnic groups,request-12-3-1
+new boundaries divide ethnic groups,divided ethnic groups experience conflict,request-12-3-2
+divided ethnic groups experience conflict,conflict forces members of ethnic groups to migrate,request-12-3-3
+conflict forces members of ethnic groups to migrate,migration to new areas causes tension with established populations,request-12-3-4
+migration to new areas causes tension with established populations,tension,request-12-3-5
+changes in geographical maps,indicate changes in climate patterns,request-12-4-0
+indicate changes in climate patterns,changes in climate patterns affect agriculture,request-12-4-1
+changes in climate patterns affect agriculture,agricultural failures lead to food scarcity,request-12-4-2
+agricultural failures lead to food scarcity,food scarcity forces populations to migrate,request-12-4-3
+food scarcity forces populations to migrate,migration to new areas competes for resources,request-12-4-4
+migration to new areas competes for resources,resource competition causes migration issues,request-12-4-5
+methane is released into the atmosphere,methane contributes to global warming,request-13-0-0
+methane contributes to global warming,global warming melts polar ice caps,request-13-0-1
+global warming melts polar ice caps,melting ice caps raise sea levels,request-13-0-2
+melting ice caps raise sea levels,rising sea levels flood coastal cities,request-13-0-3
+rising sea levels flood coastal cities,flooding damages infrastructure and causes pollution,request-13-0-4
+flooding damages infrastructure and causes pollution,pollution harms human health and ecosystems,request-13-0-5
+methane is released into the atmosphere,methane contributes to global warming,request-13-1-0
+methane contributes to global warming,global warming changes weather patterns,request-13-1-1
+global warming changes weather patterns,altered weather patterns cause more frequent and intense storms,request-13-1-2
+altered weather patterns cause more frequent and intense storms,storms damage industrial facilities and cause chemical leaks,request-13-1-3
+storms damage industrial facilities and cause chemical leaks,chemical leaks pollute the environment,request-13-1-4
+chemical leaks pollute the environment,pollution harms human health and ecosystems,request-13-1-5
+methane is released into the atmosphere,methane is a potent greenhouse gas,request-13-2-0
+methane is a potent greenhouse gas,greenhouse gases trap heat in the atmosphere,request-13-2-1
+greenhouse gases trap heat in the atmosphere,heat trapped in the atmosphere creates smog,request-13-2-2
+heat trapped in the atmosphere creates smog,smog is a form of air pollution,request-13-2-3
+smog is a form of air pollution,air pollution harms human health and ecosystems,request-13-2-4
+methane is released into the atmosphere,methane is a potent greenhouse gas,request-13-3-0
+methane is a potent greenhouse gas,greenhouse gases contribute to the depletion of the ozone layer,request-13-3-1
+greenhouse gases contribute to the depletion of the ozone layer,ozone layer depletion allows more uv radiation to reach earth's surface,request-13-3-2
+ozone layer depletion allows more uv radiation to reach earth's surface,increased uv radiation damages plants and aquatic life,request-13-3-3
+increased uv radiation damages plants and aquatic life,damaged ecosystems release less oxygen and absorb less carbon dioxide,request-13-3-4
+damaged ecosystems release less oxygen and absorb less carbon dioxide,reduced oxygen production and increased carbon dioxide contribute to pollution,request-13-3-5
+reduced oxygen production and increased carbon dioxide contribute to pollution,pollution harms human health and ecosystems,request-13-3-6
+methane release into arctic ocean sediments and waters,rising temperatures in the arctic ocean,request-14-0-0
+rising temperatures in the arctic ocean,increased solubility of methane in warmer water,request-14-0-1
+increased solubility of methane in warmer water,decrease in the amount of methane stored in hydrates,request-14-0-2
+decrease in the amount of methane stored in hydrates,the thawing of subsea permafrost,request-14-0-3
+the thawing of subsea permafrost,exposure of methane hydrates to warmer water,request-14-0-4
+exposure of methane hydrates to warmer water,decomposition of methane hydrates,request-14-0-5
+methane release into arctic ocean sediments and waters,increased pressure in the sediments,request-14-1-0
+increased pressure in the sediments,destabilization of methane hydrates,request-14-1-1
+destabilization of methane hydrates,the thawing of subsea permafrost,request-14-1-2
+the thawing of subsea permafrost,exposure of more methane hydrates to warmer water,request-14-1-3
+exposure of more methane hydrates to warmer water,accelerated decomposition of methane hydrates,request-14-1-4
+methane release into arctic ocean sediments and waters,reduction in the stability of methane hydrates,request-14-2-0
+reduction in the stability of methane hydrates,dissociation of methane hydrates,request-14-2-1
+dissociation of methane hydrates,the thawing of subsea permafrost,request-14-2-2
+the thawing of subsea permafrost,release of more methane into the water column,request-14-2-3
+release of more methane into the water column,further warming of the arctic ocean,request-14-2-4
+methane,is produced by methanogens,request-15-0-0
+is produced by methanogens,in the digestive system of ruminants,request-15-0-1
+in the digestive system of ruminants,which are released into the atmosphere through belching and flatulence,request-15-0-2
+which are released into the atmosphere through belching and flatulence,contributing to global warming,request-15-0-3
+contributing to global warming,which melts permafrost,request-15-0-4
+which melts permafrost,releasing ancient carbon,request-15-0-5
+releasing ancient carbon,that was previously stored in sediments,request-15-0-6
+that was previously stored in sediments,into the atmosphere,request-15-0-7
+methane,is a byproduct of the decomposition of organic matter,request-15-1-0
+is a byproduct of the decomposition of organic matter,in landfills,request-15-1-1
+in landfills,which increases the production of methane,request-15-1-2
+which increases the production of methane,contributing to the enhancement of the greenhouse effect,request-15-1-3
+contributing to the enhancement of the greenhouse effect,leading to the melting of permafrost,request-15-1-4
+leading to the melting of permafrost,and the release of ancient carbon,request-15-1-5
+and the release of ancient carbon,that was trapped in sediments,request-15-1-6
+that was trapped in sediments,into the atmosphere,request-15-1-7
+methane,is produced by the decomposition of organic matter,request-15-2-0
+is produced by the decomposition of organic matter,in wetlands,request-15-2-1
+in wetlands,which increases the production of methane,request-15-2-2
+which increases the production of methane,enhancing the greenhouse effect,request-15-2-3
+enhancing the greenhouse effect,causing global temperatures to rise,request-15-2-4
+causing global temperatures to rise,leading to the melting of permafrost,request-15-2-5
+leading to the melting of permafrost,and the release of ancient carbon,request-15-2-6
+and the release of ancient carbon,that was stored in sediments,request-15-2-7
+that was stored in sediments,into the atmosphere,request-15-2-8
+methane,is produced by the decomposition of organic matter,request-15-3-0
+is produced by the decomposition of organic matter,in rice paddies,request-15-3-1
+in rice paddies,which increases the production of methane,request-15-3-2
+which increases the production of methane,contributing to global warming,request-15-3-3
+contributing to global warming,leading to the melting of permafrost,request-15-3-4
+leading to the melting of permafrost,and the release of ancient carbon,request-15-3-5
+and the release of ancient carbon,that was previously stored in sediments,request-15-3-6
+that was previously stored in sediments,into the atmosphere,request-15-3-7
+ancient sources dominating deep waters,increased pressure and temperature,request-16-0-0
+increased pressure and temperature,promoted chemical reactions,request-16-0-1
+promoted chemical reactions,enhanced production of methane,request-16-0-2
+enhanced production of methane,methanerich fluids rising,request-16-0-3
+methanerich fluids rising,methane reaching the surface,request-16-0-4
+methane reaching the surface,the 10 ± 3% contribution of surface water methane,request-16-0-5
+ancient sources dominating deep waters,increased pressure and temperature,request-16-1-0
+increased pressure and temperature,promoted microbial activity,request-16-1-1
+promoted microbial activity,enhanced production of methane,request-16-1-2
+enhanced production of methane,methanerich fluids rising,request-16-1-3
+methanerich fluids rising,methane reaching the surface,request-16-1-4
+methane reaching the surface,the 10 ± 3% contribution of surface water methane,request-16-1-5
+ancient sources dominating deep waters,increased pressure and temperature,request-16-2-0
+increased pressure and temperature,enhanced geological processes,request-16-2-1
+enhanced geological processes,release of methane from hydrates,request-16-2-2
+release of methane from hydrates,methanerich fluids rising,request-16-2-3
+methanerich fluids rising,methane reaching the surface,request-16-2-4
+methane reaching the surface,the 10 ± 3% contribution of surface water methane,request-16-2-5
+sourced methane,increased oceanic oxidation due to climate change,request-17-0-0
+increased oceanic oxidation due to climate change,reduced oceanic methane sink capacity,request-17-0-1
+reduced oceanic methane sink capacity,increased methane concentration in the atmosphere,request-17-0-2
+increased methane concentration in the atmosphere,enhanced greenhouse effect,request-17-0-3
+enhanced greenhouse effect,the emission of ancient carbon into the atmosphere,request-17-0-4
+sourced methane,permafrost thaw due to climate change,request-17-1-0
+permafrost thaw due to climate change,release of ancient carbon from permafrost,request-17-1-1
+release of ancient carbon from permafrost,the emission of ancient carbon into the atmosphere,request-17-1-2
+sourced methane,increased oceanic oxidation due to climate change,request-17-2-0
+increased oceanic oxidation due to climate change,reduced oceanic methane sink capacity,request-17-2-1
+reduced oceanic methane sink capacity,increased methane concentration in the atmosphere,request-17-2-2
+increased methane concentration in the atmosphere,enhanced greenhouse effect,request-17-2-3
+enhanced greenhouse effect,accelerated global warming,request-17-2-4
+accelerated global warming,increased melting of polar ice,request-17-2-5
+increased melting of polar ice,release of ancient carbon from sediments,request-17-2-6
+release of ancient carbon from sediments,the emission of ancient carbon into the atmosphere,request-17-2-7
+co2 mitigation,reduced global warming,request-18-0-0
+reduced global warming,less melting of the greenland ice sheet results in reduced freshwater input to the north atlantic ocean,request-18-0-1
+less melting of the greenland ice sheet results in reduced freshwater input to the north atlantic ocean,reduced freshwater input,request-18-0-2
+reduced freshwater input,weakening of the amoc,request-18-0-3
+co2 mitigation,reduced global warming,request-18-1-0
+reduced global warming,"less melting of arctic sea ice results in increased reflection of solar radiation back into space, leading to further cooling",request-18-1-1
+"less melting of arctic sea ice results in increased reflection of solar radiation back into space, leading to further cooling",this cooling,request-18-1-2
+this cooling,weakening of the amoc,request-18-1-3
+co2 mitigation,reduced global warming,request-18-2-0
+reduced global warming,less melting of antarctic ice shelves results in reduced freshwater input to the southern ocean,request-18-2-1
+less melting of antarctic ice shelves results in reduced freshwater input to the southern ocean,"this reduces the density of the water in the southern ocean, affecting the global thermohaline circulation",request-18-2-2
+"this reduces the density of the water in the southern ocean, affecting the global thermohaline circulation",changes in the global thermohaline circulation can lead to a weakening of the amoc,request-18-2-3
+changes in the global thermohaline circulation can lead to a weakening of the amoc,weakening of the amoc,request-18-2-4
+stronger atlantic meridional overturning circulation  in rcp85 framework,increased heat transport towards the north atlantic,request-19-0-0
+increased heat transport towards the north atlantic,enhanced ocean heat content in the north atlantic,request-19-0-1
+enhanced ocean heat content in the north atlantic,increased sea surface temperatures  in the north atlantic,request-19-0-2
+increased sea surface temperatures  in the north atlantic,enhanced atmospheric heating due to warmer ssts,request-19-0-3
+enhanced atmospheric heating due to warmer ssts,elevated air temperatures in the north atlantic relative to rcp85ctrl,request-19-0-4
+stronger atlantic meridional overturning circulation  in rcp85 framework,reduced deep water formation in the labrador and nordic seas,request-19-1-0
+reduced deep water formation in the labrador and nordic seas,decreased oceanic heat loss to the atmosphere in these regions,request-19-1-1
+decreased oceanic heat loss to the atmosphere in these regions,increased sea surface temperatures  in the north atlantic,request-19-1-2
+increased sea surface temperatures  in the north atlantic,enhanced atmospheric heating due to warmer ssts,request-19-1-3
+enhanced atmospheric heating due to warmer ssts,elevated air temperatures in the north atlantic relative to rcp85ctrl,request-19-1-4
+stronger atlantic meridional overturning circulation  in rcp85 framework,"increased upwelling of warm, salty water from the tropics",request-19-2-0
+"increased upwelling of warm, salty water from the tropics",enhanced ocean heat content in the north atlantic,request-19-2-1
+enhanced ocean heat content in the north atlantic,increased sea surface temperatures  in the north atlantic,request-19-2-2
+increased sea surface temperatures  in the north atlantic,enhanced atmospheric heating due to warmer ssts,request-19-2-3
+enhanced atmospheric heating due to warmer ssts,elevated air temperatures in the north atlantic relative to rcp85ctrl,request-19-2-4
+the hottest pathway resulting in 45+ degrees of warming by the end of the century,"increased frequency and intensity of heatwaves, droughts, and storms",request-20-0-0
+"increased frequency and intensity of heatwaves, droughts, and storms",decreased crop yields and livestock productivity,request-20-0-1
+decreased crop yields and livestock productivity,food price inflation and reduced food security,request-20-0-2
+food price inflation and reduced food security,economic slowdown due to increased food and energy costs,request-20-0-3
+economic slowdown due to increased food and energy costs,decreased investment in other sectors due to economic uncertainty,request-20-0-4
+decreased investment in other sectors due to economic uncertainty,absolute highest economic growth,request-20-0-5
+the hottest pathway resulting in 45+ degrees of warming by the end of the century,increased sea levels and coastal flooding,request-20-1-0
+increased sea levels and coastal flooding,displacement of coastal populations,request-20-1-1
+displacement of coastal populations,increased pressure on inland resources,request-20-1-2
+increased pressure on inland resources,social unrest and political instability,request-20-1-3
+social unrest and political instability,decreased foreign direct investment,request-20-1-4
+decreased foreign direct investment,absolute highest economic growth,request-20-1-5
+the hottest pathway resulting in 45+ degrees of warming by the end of the century,increased ocean acidification,request-20-2-0
+increased ocean acidification,decreased fish populations,request-20-2-1
+decreased fish populations,collapse of fishing industries,request-20-2-2
+collapse of fishing industries,job losses and decreased economic activity in coastal regions,request-20-2-3
+job losses and decreased economic activity in coastal regions,decreased consumer spending due to economic hardship,request-20-2-4
+decreased consumer spending due to economic hardship,absolute highest economic growth,request-20-2-5
+people's anxiety,causes,request-21-0-0
+causes,increased heart rate,request-21-0-1
+increased heart rate,which,request-21-0-2
+which,triggers,request-21-0-3
+triggers,hyperventilation,request-21-0-4
+hyperventilation,leading to,request-21-0-5
+leading to,increased oxygen intake and co₂ release,request-21-0-6
+people's anxiety,leads to,request-21-1-0
+leads to,increased muscle tension,request-21-1-1
+increased muscle tension,which,request-21-1-2
+which,results in,request-21-1-3
+results in,shallow breathing,request-21-1-4
+shallow breathing,causing,request-21-1-5
+causing,increased oxygen intake and co₂ release,request-21-1-6
+people's anxiety,induces,request-21-2-0
+induces,racing thoughts,request-21-2-1
+racing thoughts,which,request-21-2-2
+which,leads to,request-21-2-3
+leads to,rapid breathing,request-21-2-4
+rapid breathing,resulting in,request-21-2-5
+resulting in,increased oxygen intake and co₂ release,request-21-2-6
+people's anxiety,causes,request-21-3-0
+causes,increased adrenaline production,request-21-3-1
+increased adrenaline production,which,request-21-3-2
+which,leads to,request-21-3-3
+leads to,faster and deeper breathing,request-21-3-4
+faster and deeper breathing,resulting in,request-21-3-5
+resulting in,increased oxygen intake and co₂ release,request-21-3-6
+people's anxiety,triggers,request-21-4-0
+triggers,panic attacks,request-21-4-1
+panic attacks,which,request-21-4-2
+which,involve,request-21-4-3
+involve,heavy breathing,request-21-4-4
+heavy breathing,leading to,request-21-4-5
+leading to,increased oxygen intake and co₂ release,request-21-4-6
+genuine population decline beyond expected levels,increased awareness and concern about environmental issues,request-22-0-0
+increased awareness and concern about environmental issues,growing support for family planning and contraception initiatives,request-22-0-1
+growing support for family planning and contraception initiatives,increased access to education for women,request-22-0-2
+increased access to education for women,delayed marriage and childbearing ages,request-22-0-3
+delayed marriage and childbearing ages,decline in birth rates this century,request-22-0-4
+genuine population decline beyond expected levels,economic instability and uncertainty,request-22-1-0
+economic instability and uncertainty,reduced job security and income,request-22-1-1
+reduced job security and income,increased cost of living,request-22-1-2
+increased cost of living,delayed marriage and childbearing due to economic reasons,request-22-1-3
+delayed marriage and childbearing due to economic reasons,decline in birth rates this century,request-22-1-4
+genuine population decline beyond expected levels,urbanization and migration to cities,request-22-2-0
+urbanization and migration to cities,limited housing and resources in urban areas,request-22-2-1
+limited housing and resources in urban areas,increased cost of raising children in urban areas,request-22-2-2
+increased cost of raising children in urban areas,deliberate decision to have fewer children,request-22-2-3
+deliberate decision to have fewer children,decline in birth rates this century,request-22-2-4
+genuine population decline beyond expected levels,changes in societal norms and values,request-22-3-0
+changes in societal norms and values,increased acceptance of diverse family structures,request-22-3-1
+increased acceptance of diverse family structures,increased acceptance of childfree lifestyles,request-22-3-2
+increased acceptance of childfree lifestyles,decline in birth rates this century,request-22-3-3
+genuine population decline beyond expected levels,government policies and incentives,request-22-4-0
+government policies and incentives,incentives for having fewer children,request-22-4-1
+incentives for having fewer children,disincentives for having more children,request-22-4-2
+disincentives for having more children,decline in birth rates this century,request-22-4-3
+china's rapid industrialization and urbanization lead to increased energy demand,this increased demand results in the burning of more fossil fuels for energy,request-23-0-0
+this increased demand results in the burning of more fossil fuels for energy,the burning of fossil fuels releases large amounts of carbon dioxide into the atmosphere,request-23-0-1
+the burning of fossil fuels releases large amounts of carbon dioxide into the atmosphere,this increased carbon dioxide contributes to global warming and climate change,request-23-0-2
+this increased carbon dioxide contributes to global warming and climate change,global warming,request-23-0-3
+global warming,"these emissions further exacerbate global warming, creating a feedback loop that",request-23-0-4
+china's large population and growing middle class lead to increased consumption of goods and services,"this increased consumption requires more resources and energy, leading to more mining and drilling activities",request-23-1-0
+"this increased consumption requires more resources and energy, leading to more mining and drilling activities",these activities release methane and other greenhouse gases into the atmosphere,request-23-1-1
+these activities release methane and other greenhouse gases into the atmosphere,these emissions contribute to global warming and climate change,request-23-1-2
+these emissions contribute to global warming and climate change,global warming,request-23-1-3
+global warming,"these emissions further exacerbate global warming, creating a feedback loop that",request-23-1-4
+"china's one child policy, implemented from 1979 to 2015, led to a decrease in the birth rate",this decrease in birth rate led to a decrease in the overall population growth rate,request-23-2-0
+this decrease in birth rate led to a decrease in the overall population growth rate,"however, the policy also led to a gender imbalance, with more males than females born",request-23-2-1
+"however, the policy also led to a gender imbalance, with more males than females born","this gender imbalance led to an increase in demand for brides from other countries, often resulting in human trafficking",request-23-2-2
+"this gender imbalance led to an increase in demand for brides from other countries, often resulting in human trafficking","human trafficking requires extensive and often illegal networks, which can involve drug smuggling and other criminal activities",request-23-2-3
+"human trafficking requires extensive and often illegal networks, which can involve drug smuggling and other criminal activities",these criminal activities often involve the use of vehicles and equipment that contribute to emissions,request-23-2-4
+india's rapid industrialization and urbanization,leads to increased energy demand,request-24-0-0
+leads to increased energy demand,which is primarily met by burning fossil fuels,request-24-0-1
+which is primarily met by burning fossil fuels,resulting in higher greenhouse gas emissions,request-24-0-2
+resulting in higher greenhouse gas emissions,contributing to global warming and climate change,request-24-0-3
+contributing to global warming and climate change,which,request-24-0-4
+which,including more frequent and severe heatwaves,request-24-0-5
+including more frequent and severe heatwaves,leading to increased use of air conditioning,request-24-0-6
+leading to increased use of air conditioning,further driving up energy demand and emissions,request-24-0-7
+india's large population,leads to increased consumption of goods and services,request-24-1-0
+leads to increased consumption of goods and services,which requires more resources and energy for production,request-24-1-1
+which requires more resources and energy for production,resulting in higher emissions from the production processes,request-24-1-2
+resulting in higher emissions from the production processes,"additionally, the transportation of these goods also emits greenhouse gases",request-24-1-3
+"additionally, the transportation of these goods also emits greenhouse gases",contributing to india's overall emissions,request-24-1-4
+india's agricultural sector,is one of the largest in the world,request-24-2-0
+is one of the largest in the world,leading to significant use of fertilizers,request-24-2-1
+leading to significant use of fertilizers,"which emit nitrous oxide, a potent greenhouse gas",request-24-2-2
+"which emit nitrous oxide, a potent greenhouse gas","moreover, livestock farming also contributes to emissions",request-24-2-3
+"moreover, livestock farming also contributes to emissions",through enteric fermentation and manure management,request-24-2-4
+through enteric fermentation and manure management,adding to india's total emissions,request-24-2-5
+india's reliance on coal for electricity generation,is one of the highest in the world,request-24-3-0
+is one of the highest in the world,leading to significant emissions from power plants,request-24-3-1
+leading to significant emissions from power plants,which are a major source of india's total emissions,request-24-3-2
+which are a major source of india's total emissions,"additionally, coal mining also contributes to emissions",request-24-3-3
+"additionally, coal mining also contributes to emissions",through fugitive emissions and the use of heavy machinery,request-24-3-4
+through fugitive emissions and the use of heavy machinery,further adding to india's emissions,request-24-3-5
+corporations prioritize shortterm profits over sustainability,this,request-25-0-0
+this,"as a result, corporations continue to rely heavily on fossil fuels for energy",request-25-0-1
+"as a result, corporations continue to rely heavily on fossil fuels for energy","this reliance increases greenhouse gas emissions, contributing to climate change",request-25-0-2
+corporations lobby against climate policies and regulations,this weakens environmental laws and slows down the transition to clean energy,request-25-1-0
+this weakens environmental laws and slows down the transition to clean energy,"without strong policies, corporations continue to use highemission practices",request-25-1-1
+"without strong policies, corporations continue to use highemission practices",this contributes to the vast majority of climate emissions,request-25-1-2
+corporations engage in deforestation for resource extraction and agriculture,deforestation reduces the earth's carbonabsorbing capacity,request-25-2-0
+deforestation reduces the earth's carbonabsorbing capacity,this,request-25-2-1
+this,corporations' continued operations and demand for resources drive further deforestation,request-25-2-2
+corporations engage in unsustainable farming and livestock practices,these practices lead to high levels of methane emissions from livestock and nitrous oxide emissions from fertilizers,request-25-3-0
+these practices lead to high levels of methane emissions from livestock and nitrous oxide emissions from fertilizers,these greenhouse gases contribute significantly to climate change,request-25-3-1
+these greenhouse gases contribute significantly to climate change,demand for corporate products drives the continuation of these practices,request-25-3-2
+corporations engage in unsustainable transportation and logistics practices,this includes heavy use of fossil fuelpowered vehicles and machinery,request-25-4-0
+this includes heavy use of fossil fuelpowered vehicles and machinery,this,request-25-4-1
+this,consumers' demand for corporate products drives the continuation of these practices,request-25-4-2
+corporations extract and burn fossil fuels for energy,fossil fuel burning releases co2 and other greenhouse gases into the atmosphere,request-26-0-0
+fossil fuel burning releases co2 and other greenhouse gases into the atmosphere,"greenhouse gases trap heat, causing global temperatures to rise",request-26-0-1
+"greenhouse gases trap heat, causing global temperatures to rise","rising temperatures lead to climate change, including melting ice caps, rising sea levels, and changing weather patterns",request-26-0-2
+"rising temperatures lead to climate change, including melting ice caps, rising sea levels, and changing weather patterns",over 90% of humaninduced climate change emissions are attributed to the burning of fossil fuels,request-26-0-3
+"corporations deforest land for agriculture, logging, and urban development","deforestation reduces the earth's ability to absorb co2, as trees are a significant carbon sink",request-26-1-0
+"deforestation reduces the earth's ability to absorb co2, as trees are a significant carbon sink",increased co2 levels in the atmosphere contribute to global warming and climate change,request-26-1-1
+increased co2 levels in the atmosphere contribute to global warming and climate change,"deforestation also releases stored carbon, further increasing greenhouse gas emissions",request-26-1-2
+"deforestation also releases stored carbon, further increasing greenhouse gas emissions","over 15% of global greenhouse gas emissions are due to deforestation, contributing to over 90% of climate change emissions",request-26-1-3
+"corporations produce and consume goods and services, driving economic growth","economic growth increases energy demand, leading to more fossil fuel consumption",request-26-2-0
+"economic growth increases energy demand, leading to more fossil fuel consumption",increased fossil fuel consumption results in higher greenhouse gas emissions,request-26-2-1
+increased fossil fuel consumption results in higher greenhouse gas emissions,over 90% of climate change emissions are linked to human activities that drive economic growth,request-26-2-2
+"corporations invest in and develop infrastructure, such as roads and airports",infrastructure development encourages urban sprawl and increased car dependency,request-26-3-0
+infrastructure development encourages urban sprawl and increased car dependency,increased car usage,request-26-3-1
+increased car usage,"transportation accounts for around 14% of global greenhouse gas emissions, contributing to over 90% of climate change emissions",request-26-3-2
+"the tossing of a single cigarette on dry, hot ground","ignition of the cigarette, causing a small fire",request-27-0-0
+"ignition of the cigarette, causing a small fire","rapid spread of the small fire due to dry, hot conditions",request-27-0-1
+"rapid spread of the small fire due to dry, hot conditions","flames reach nearby dry grass and bushes, intensifying the fire",request-27-0-2
+"flames reach nearby dry grass and bushes, intensifying the fire","wind picks up, fanning the flames and causing the fire to grow larger",request-27-0-3
+"wind picks up, fanning the flames and causing the fire to grow larger",trees and other vegetation in the vicinity catch fire,request-27-0-4
+trees and other vegetation in the vicinity catch fire,"the fire becomes a wildfire, burning out of control",request-27-0-5
+"the fire becomes a wildfire, burning out of control","a massive fire results, causing significant destruction",request-27-0-6
+"the tossing of a single cigarette on dry, hot ground","ignition of the cigarette, causing a small fire",request-27-1-0
+"ignition of the cigarette, causing a small fire","fire spreads to nearby dry leaves and debris, creating a larger fire",request-27-1-1
+"fire spreads to nearby dry leaves and debris, creating a larger fire","flames reach a nearby structure, such as a house or outbuilding",request-27-1-2
+"flames reach a nearby structure, such as a house or outbuilding",the structure catches fire and begins to burn,request-27-1-3
+the structure catches fire and begins to burn,"the fire in the structure intensifies, sending flames and smoke into the air",request-27-1-4
+"the fire in the structure intensifies, sending flames and smoke into the air",wind carries embers from the burning structure to nearby vegetation,request-27-1-5
+wind carries embers from the burning structure to nearby vegetation,"a massive fire results, destroying multiple structures and causing significant damage",request-27-1-6
+"the tossing of a single cigarette on dry, hot ground","ignition of the cigarette, causing a small fire",request-27-2-0
+"ignition of the cigarette, causing a small fire","fire spreads to nearby dry, dead trees, creating a forest fire",request-27-2-1
+"fire spreads to nearby dry, dead trees, creating a forest fire","the forest fire grows in size and intensity, burning through the forest",request-27-2-2
+"the forest fire grows in size and intensity, burning through the forest","fire reaches a campsite or picnic area, where flammable materials are present",request-27-2-3
+"fire reaches a campsite or picnic area, where flammable materials are present","the fire spreads rapidly, engulfing the campsite or picnic area",request-27-2-4
+"the fire spreads rapidly, engulfing the campsite or picnic area","a massive fire results, destroying the campsite and causing significant damage to the surrounding forest",request-27-2-5
+industrial revolution in britain,"this practice is adopted by the us, leading to increased coal mining and usage",request-28-0-0
+"this practice is adopted by the us, leading to increased coal mining and usage",increased coal usage results in higher co2 emissions,request-28-0-1
+increased coal usage results in higher co2 emissions,"over time, these emissions accumulate in the atmosphere, contributing to current co2 levels",request-28-0-2
+us becomes a global superpower postworld war ii,this,request-28-1-0
+this,"to fuel this growth, the us increases its reliance on fossil fuels like oil and gas",request-28-1-1
+"to fuel this growth, the us increases its reliance on fossil fuels like oil and gas",increased fossil fuel usage results in higher co2 emissions,request-28-1-2
+increased fossil fuel usage results in higher co2 emissions,"over time, these emissions accumulate in the atmosphere, contributing to current co2 levels",request-28-1-3
+"us adopts the internal combustion engine for vehicles, leading to widespread use of cars","this increases the demand for oil and gas, leading to higher co2 emissions from transportation",request-28-2-0
+"this increases the demand for oil and gas, leading to higher co2 emissions from transportation","over time, these emissions accumulate in the atmosphere, contributing to current co2 levels",request-28-2-1
+us promotes a lifestyle of convenience and disposability,this,request-28-3-0
+this,"to meet this energy demand, the us relies heavily on fossil fuels, leading to higher co2 emissions",request-28-3-1
+"to meet this energy demand, the us relies heavily on fossil fuels, leading to higher co2 emissions","over time, these emissions accumulate in the atmosphere, contributing to current co2 levels",request-28-3-2
+us becomes a leader in technological innovation,"however, these innovations often focus on improving efficiency rather than shifting to renewable energy sources",request-28-4-0
+"however, these innovations often focus on improving efficiency rather than shifting to renewable energy sources",this,request-28-4-1
+this,"over time, these emissions accumulate in the atmosphere, contributing to current co2 levels",request-28-4-2
+climate change,rising global temperatures,request-29-0-0
+rising global temperatures,increased evaporation from oceans and lakes,request-29-0-1
+increased evaporation from oceans and lakes,higher moisture content in the atmosphere,request-29-0-2
+higher moisture content in the atmosphere,more frequent and intense thunderstorms,request-29-0-3
+more frequent and intense thunderstorms,the increasing frequency of lightning,request-29-0-4
+climate change,changes in ocean currents,request-29-1-0
+changes in ocean currents,altered atmospheric circulation patterns,request-29-1-1
+altered atmospheric circulation patterns,increased instability in the atmosphere,request-29-1-2
+increased instability in the atmosphere,more frequent and intense thunderstorms,request-29-1-3
+more frequent and intense thunderstorms,the increasing frequency of lightning,request-29-1-4
+climate change,increased greenhouse gases,request-29-2-0
+increased greenhouse gases,enhanced convection in the atmosphere,request-29-2-1
+enhanced convection in the atmosphere,more frequent and intense thunderstorms,request-29-2-2
+more frequent and intense thunderstorms,the increasing frequency of lightning,request-29-2-3
+climate change,changes in sea surface temperatures,request-29-3-0
+changes in sea surface temperatures,altered marine ecosystems,request-29-3-1
+altered marine ecosystems,increased atmospheric aerosol production,request-29-3-2
+increased atmospheric aerosol production,more frequent and intense thunderstorms,request-29-3-3
+more frequent and intense thunderstorms,the increasing frequency of lightning,request-29-3-4
+human influence,increased greenhouse gas emissions,request-30-0-0
+increased greenhouse gas emissions,enhanced greenhouse effect,request-30-0-1
+enhanced greenhouse effect,global temperature rise,request-30-0-2
+global temperature rise,this 1°c increase,request-30-0-3
+human influence,deforestation,request-30-1-0
+deforestation,reduced carbon sequestration,request-30-1-1
+reduced carbon sequestration,increased atmospheric co2,request-30-1-2
+increased atmospheric co2,enhanced greenhouse effect,request-30-1-3
+enhanced greenhouse effect,global temperature rise,request-30-1-4
+global temperature rise,this 1°c increase,request-30-1-5
+human influence,industrialization,request-30-2-0
+industrialization,increased energy consumption,request-30-2-1
+increased energy consumption,enhanced use of fossil fuels,request-30-2-2
+enhanced use of fossil fuels,increased greenhouse gas emissions,request-30-2-3
+increased greenhouse gas emissions,enhanced greenhouse effect,request-30-2-4
+enhanced greenhouse effect,global temperature rise,request-30-2-5
+global temperature rise,this 1°c increase,request-30-2-6
+human influence,urbanization,request-30-3-0
+urbanization,heat island effect,request-30-3-1
+heat island effect,local temperature increase,request-30-3-2
+local temperature increase,global temperature rise,request-30-3-3
+global temperature rise,this 1°c increase,request-30-3-4
+humans,human activities release greenhouse gases,request-31-0-0
+human activities release greenhouse gases,greenhouse gases trap heat in the atmosphere,request-31-0-1
+greenhouse gases trap heat in the atmosphere,rising temperatures melt polar ice,request-31-0-2
+rising temperatures melt polar ice,melting ice reduces earth's reflectivity,request-31-0-3
+melting ice reduces earth's reflectivity,reduced reflectivity increases the amount of solar energy absorbed by earth,request-31-0-4
+reduced reflectivity increases the amount of solar energy absorbed by earth,increased absorbed energy raises global temperatures,request-31-0-5
+increased absorbed energy raises global temperatures,warming oceans trigger increased solar activity,request-31-0-6
+warming oceans trigger increased solar activity,solar activity,request-31-0-7
+humans,human activities cause deforestation,request-31-1-0
+human activities cause deforestation,deforestation reduces carbon absorption,request-31-1-1
+deforestation reduces carbon absorption,reduced carbon absorption increases atmospheric carbon dioxide,request-31-1-2
+reduced carbon absorption increases atmospheric carbon dioxide,increased carbon dioxide enhances the greenhouse effect,request-31-1-3
+increased carbon dioxide enhances the greenhouse effect,strengthened greenhouse effect raises global temperatures,request-31-1-4
+strengthened greenhouse effect raises global temperatures,warming temperatures cause ocean currents to shift,request-31-1-5
+warming temperatures cause ocean currents to shift,shifted ocean currents affect solar activity,request-31-1-6
+shifted ocean currents affect solar activity,solar activity,request-31-1-7
+humans,human activities alter land use,request-31-2-0
+human activities alter land use,altered land use changes water cycles,request-31-2-1
+altered land use changes water cycles,changed water cycles affect cloud formation,request-31-2-2
+changed water cycles affect cloud formation,altered cloud formation influences solar radiation reflection,request-31-2-3
+altered cloud formation influences solar radiation reflection,modified reflection changes earth's energy balance,request-31-2-4
+modified reflection changes earth's energy balance,shifted energy balance alters global climate patterns,request-31-2-5
+shifted energy balance alters global climate patterns,altered climate patterns influence solar activity,request-31-2-6
+altered climate patterns influence solar activity,solar activity ,request-31-2-7
+increase in co2 in the atmosphere,rise in global temperature,request-32-0-0
+rise in global temperature,melting of polar ice caps,request-32-0-1
+melting of polar ice caps,reduction in earth's albedo,request-32-0-2
+reduction in earth's albedo,increase in solar radiation absorption,request-32-0-3
+increase in solar radiation absorption,the trapping of solar rays in the atmosphere,request-32-0-4
+increase in co2 in the atmosphere,rise in global temperature,request-32-1-0
+rise in global temperature,increase in water vapor,request-32-1-1
+increase in water vapor,greenhouse effect enhancement,request-32-1-2
+greenhouse effect enhancement,the trapping of solar rays in the atmosphere,request-32-1-3
+increase in co2 in the atmosphere,rise in global temperature,request-32-2-0
+rise in global temperature,increase in plant respiration,request-32-2-1
+increase in plant respiration,further increase in co2,request-32-2-2
+further increase in co2,positive feedback loop,request-32-2-3
+positive feedback loop,accelerated greenhouse effect,request-32-2-4
+accelerated greenhouse effect,the trapping of solar rays in the atmosphere,request-32-2-5
+the trapping of solar rays in the atmosphere,this causes the atmosphere to absorb some of the sun's energy,request-33-0-0
+this causes the atmosphere to absorb some of the sun's energy,the absorbed energy heats the atmosphere,request-33-0-1
+the absorbed energy heats the atmosphere,the heated atmosphere radiates this heat back towards earth,request-33-0-2
+the heated atmosphere radiates this heat back towards earth,this radiated heat is absorbed by the earth's surface,request-33-0-3
+this radiated heat is absorbed by the earth's surface,the earth's surface reradiates some of this heat back towards the atmosphere,request-33-0-4
+the earth's surface reradiates some of this heat back towards the atmosphere,the trapping of this reradiated heat by the atmosphere,request-33-0-5
+the trapping of this reradiated heat by the atmosphere,this increase in global temperatures is commonly known as the greenhouse effect,request-33-0-6
+the trapping of solar rays in the atmosphere,this causes the atmosphere to warm up,request-33-1-0
+this causes the atmosphere to warm up,the warmed atmosphere,request-33-1-1
+the warmed atmosphere,"these changes in weather patterns can cause extreme weather events, such as heatwaves and storms",request-33-1-2
+"these changes in weather patterns can cause extreme weather events, such as heatwaves and storms",these extreme weather events can lead to increased temperatures on earth,request-33-1-3
+these extreme weather events can lead to increased temperatures on earth,this increase in global temperatures is commonly known as the greenhouse effect,request-33-1-4
+the trapping of solar rays in the atmosphere,this causes the atmosphere to retain more heat,request-33-2-0
+this causes the atmosphere to retain more heat,the retention of more heat in the atmosphere,request-33-2-1
+the retention of more heat in the atmosphere,this increase in sea surface temperatures can cause more water vapor to evaporate into the atmosphere,request-33-2-2
+this increase in sea surface temperatures can cause more water vapor to evaporate into the atmosphere,the increased water vapor in the atmosphere can lead to more clouds forming,request-33-2-3
+the increased water vapor in the atmosphere can lead to more clouds forming,"these clouds can trap even more heat, leading to a further increase in global temperatures",request-33-2-4
+"these clouds can trap even more heat, leading to a further increase in global temperatures",this increase in global temperatures is commonly known as the greenhouse effect,request-33-2-5
+prolonged droughts we are experiencing,decrease in soil moisture,request-34-0-0
+decrease in soil moisture,dried out vegetation,request-34-0-1
+dried out vegetation,increased flammability of vegetation,request-34-0-2
+increased flammability of vegetation,wild fires,request-34-0-3
+prolonged droughts we are experiencing,decrease in water levels in rivers and lakes,request-34-1-0
+decrease in water levels in rivers and lakes,reduced water supply for firefighting efforts,request-34-1-1
+reduced water supply for firefighting efforts,wild fires,request-34-1-2
+prolonged droughts we are experiencing,heatwaves,request-34-2-0
+heatwaves,increased temperatures,request-34-2-1
+increased temperatures,increased likelihood of lightning strikes,request-34-2-2
+increased likelihood of lightning strikes,wild fires,request-34-2-3
+prolonged droughts we are experiencing,decreased plant growth,request-34-3-0
+decreased plant growth,reduced food and habitat for wildlife,request-34-3-1
+reduced food and habitat for wildlife,increased wildlife movement in search of resources,request-34-3-2
+increased wildlife movement in search of resources,wild fires,request-34-3-3
+prolonged droughts we are experiencing,decreased plant growth,request-34-4-0
+decreased plant growth,increased human activity in affected areas,request-34-4-1
+increased human activity in affected areas,increased likelihood of humancaused wild fires,request-34-4-2
+increased likelihood of humancaused wild fires,wild fires,request-34-4-3
+microplastics enter the ocean,marine life ingests or gets entangled in microplastics,request-35-0-0
+marine life ingests or gets entangled in microplastics,plasticingested marine life is consumed by larger marine animals,request-35-0-1
+plasticingested marine life is consumed by larger marine animals,"these larger animals are then consumed by humans, who eat seafood",request-35-0-2
+"these larger animals are then consumed by humans, who eat seafood",humans develop health issues due to plastic ingestion,request-35-0-3
+humans develop health issues due to plastic ingestion,scientists study these health issues and discover the extent of the microplastics problem,request-35-0-4
+scientists study these health issues and discover the extent of the microplastics problem,governments worldwide impose stricter regulations on plastic production and usage,request-35-0-5
+governments worldwide impose stricter regulations on plastic production and usage,plastic production companies invest in space debris cleanup to maintain their reputation,request-35-0-6
+plastic production companies invest in space debris cleanup to maintain their reputation,"during space debris cleanup, they discover alien life in the debris",request-35-0-7
+"during space debris cleanup, they discover alien life in the debris","first contact is made, leading to the discovery of an alien world",request-35-0-8
+microplastics enter the ocean,marine life ingests or gets entangled in microplastics,request-35-1-0
+marine life ingests or gets entangled in microplastics,plasticingested marine life is consumed by birds and other wildlife,request-35-1-1
+plasticingested marine life is consumed by birds and other wildlife,birds and wildlife die due to plastic ingestion or entanglement,request-35-1-2
+birds and wildlife die due to plastic ingestion or entanglement,scientists study the mass dieoffs and attribute it to microplastics,request-35-1-3
+scientists study the mass dieoffs and attribute it to microplastics,public awareness of the microplastics issue grows,request-35-1-4
+public awareness of the microplastics issue grows,environmental activists push for stricter regulations on plastic usage,request-35-1-5
+environmental activists push for stricter regulations on plastic usage,plastic companies invest in recycling technologies to stay competitive,request-35-1-6
+plastic companies invest in recycling technologies to stay competitive,these technologies are advanced and eventually used in space for waste management,request-35-1-7
+these technologies are advanced and eventually used in space for waste management,"during space waste management, they encounter an alien world",request-35-1-8
+microplastics enter the ocean,marine life ingests or gets entangled in microplastics,request-35-2-0
+marine life ingests or gets entangled in microplastics,plasticingested marine life is consumed by fish and enters the human food chain,request-35-2-1
+plasticingested marine life is consumed by fish and enters the human food chain,humans consume these fish and develop health issues due to plastic ingestion,request-35-2-2
+humans consume these fish and develop health issues due to plastic ingestion,scientists study these health issues and discover the microplastics in human tissues,request-35-2-3
+scientists study these health issues and discover the microplastics in human tissues,governments impose stricter regulations on plastic production and usage,request-35-2-4
+governments impose stricter regulations on plastic production and usage,plastic companies invest in alternative materials to replace plastic,request-35-2-5
+plastic companies invest in alternative materials to replace plastic,these alternative materials are used in space exploration due to their durability and safety,request-35-2-6
+these alternative materials are used in space exploration due to their durability and safety,"during space exploration, these materials are used on an alien world for research purposes",request-35-2-7
+the significant greening of the planet increases the number of trees,the increase in trees,request-36-0-0
+the increase in trees,the enhanced net primary productivity results in greater carbon sequestration,request-36-0-1
+the enhanced net primary productivity results in greater carbon sequestration,"however, this increased carbon sequestration reaches a saturation point",request-36-0-2
+"however, this increased carbon sequestration reaches a saturation point","as a result, the additional carbon dioxide  produced by the greening is not entirely absorbed",request-36-0-3
+"as a result, the additional carbon dioxide  produced by the greening is not entirely absorbed",the excess co₂ emissions contribute to the rise in global co₂ levels,request-36-0-4
+the excess co₂ emissions contribute to the rise in global co₂ levels,this increase in co₂ emissions drives the shift from trees to fossil fuels for energy,request-36-0-5
+the significant greening of the planet increases the number of trees,the growth in tree population,request-36-1-0
+the growth in tree population,this increased competition results in a rise in tree mortality rates,request-36-1-1
+this increased competition results in a rise in tree mortality rates,the dying trees release stored carbon back into the atmosphere as co₂,request-36-1-2
+the dying trees release stored carbon back into the atmosphere as co₂,the additional co₂ emissions contribute to the rise in global co₂ levels,request-36-1-3
+the additional co₂ emissions contribute to the rise in global co₂ levels,this increase in co₂ emissions drives the shift from trees to fossil fuels for energy,request-36-1-4
+the significant greening of the planet increases the number of trees,the growth in tree population,request-36-2-0
+the growth in tree population,this reduction in agricultural land results in a greater reliance on fossil fuels for food production,request-36-2-1
+this reduction in agricultural land results in a greater reliance on fossil fuels for food production,the increased use of fossil fuels,request-36-2-2
+the increased use of fossil fuels,this increase in co₂ emissions drives the shift from trees to fossil fuels for energy,request-36-2-3
+the significant greening of the planet increases the number of trees,the growth in tree population,request-36-3-0
+the growth in tree population,this increased demand results in more deforestation for logging,request-36-3-1
+this increased demand results in more deforestation for logging,the deforestation process releases stored carbon back into the atmosphere as co₂,request-36-3-2
+the deforestation process releases stored carbon back into the atmosphere as co₂,the additional co₂ emissions contribute to the rise in global co₂ levels,request-36-3-3
+the additional co₂ emissions contribute to the rise in global co₂ levels,this increase in co₂ emissions drives the shift from trees to fossil fuels for energy,request-36-3-4
+land clearance for construction and agriculture,deforestation to make way for new farmland and infrastructure,request-37-0-0
+deforestation to make way for new farmland and infrastructure,clearing of trees and vegetation,request-37-0-1
+clearing of trees and vegetation,removal of topsoil,request-37-0-2
+removal of topsoil,exposure of underlying soil and bedrock,request-37-0-3
+exposure of underlying soil and bedrock,increased erosion and loss of biodiversity,request-37-0-4
+increased erosion and loss of biodiversity,deforestation,request-37-0-5
+land clearance for construction and agriculture,construction of buildings and infrastructure,request-37-1-0
+construction of buildings and infrastructure,demand for timber and other forest products,request-37-1-1
+demand for timber and other forest products,logging and harvesting of trees,request-37-1-2
+logging and harvesting of trees,reduction in forest cover,request-37-1-3
+reduction in forest cover,deforestation,request-37-1-4
+land clearance for construction and agriculture,expansion of agricultural land,request-37-2-0
+expansion of agricultural land,increased demand for agricultural products,request-37-2-1
+increased demand for agricultural products,clearing of additional forest land for farming,request-37-2-2
+clearing of additional forest land for farming,fragmentation of remaining forests,request-37-2-3
+fragmentation of remaining forests,habitat loss for forestdependent species,request-37-2-4
+habitat loss for forestdependent species,deforestation,request-37-2-5
+land clearance for construction and agriculture,construction of roads and infrastructure,request-37-3-0
+construction of roads and infrastructure,increased accessibility to remote forest areas,request-37-3-1
+increased accessibility to remote forest areas,illegal logging and deforestation,request-37-3-2
+illegal logging and deforestation,loss of forest cover,request-37-3-3
+loss of forest cover,deforestation,request-37-3-4
+the burning of carbon releases energy,this energy is used to heat water and create steam,request-38-0-0
+this energy is used to heat water and create steam,"the steam turns a turbine, generating mechanical energy",request-38-0-1
+"the steam turns a turbine, generating mechanical energy",this mechanical energy is converted into electrical energy by a generator,request-38-0-2
+this mechanical energy is converted into electrical energy by a generator,"the electrical energy is then distributed to various facilities, including labs",request-38-0-3
+"the electrical energy is then distributed to various facilities, including labs","in labs, the electricity is used to power equipment and lighting",request-38-0-4
+the burning of carbon releases energy,this energy is used to power a vehicle,request-38-1-0
+this energy is used to power a vehicle,"the vehicle generates motion, which is used to turn a generator",request-38-1-1
+"the vehicle generates motion, which is used to turn a generator",the generator converts this mechanical energy into electrical energy,request-38-1-2
+the generator converts this mechanical energy into electrical energy,"the electrical energy is then distributed to various facilities, including labs",request-38-1-3
+"the electrical energy is then distributed to various facilities, including labs","in labs, the electricity is used to power equipment and lighting",request-38-1-4
+the burning of carbon releases energy,this energy is used to generate heat in a power plant,request-38-2-0
+this energy is used to generate heat in a power plant,"the heat is used to create steam, which turns a turbine",request-38-2-1
+"the heat is used to create steam, which turns a turbine","the turbine generates mechanical energy, which is converted into electrical energy by a generator",request-38-2-2
+"the turbine generates mechanical energy, which is converted into electrical energy by a generator","the electrical energy is then distributed to various facilities, including labs",request-38-2-3
+"the electrical energy is then distributed to various facilities, including labs","in labs, the electricity is used to power equipment and lighting",request-38-2-4
+high carbon footprint of labgrown wood,results in high emissions of greenhouse gases during production,request-39-0-0
+results in high emissions of greenhouse gases during production,greenhouse gases trap heat in the atmosphere,request-39-0-1
+greenhouse gases trap heat in the atmosphere,causes global warming,request-39-0-2
+high carbon footprint of labgrown wood,requires significant energy for growth and processing,request-39-1-0
+requires significant energy for growth and processing,"largely powered by fossil fuels, releasing carbon dioxide",request-39-1-1
+"largely powered by fossil fuels, releasing carbon dioxide",increased carbon dioxide levels in the atmosphere,request-39-1-2
+increased carbon dioxide levels in the atmosphere,contributes to global warming,request-39-1-3
+high carbon footprint of labgrown wood,encourages deforestation for raw materials,request-39-2-0
+encourages deforestation for raw materials,reduces the earth's ability to absorb carbon dioxide,request-39-2-1
+reduces the earth's ability to absorb carbon dioxide,leads to higher atmospheric carbon dioxide levels,request-39-2-2
+leads to higher atmospheric carbon dioxide levels,contributes to global warming,request-39-2-3
+high carbon footprint of labgrown wood,promotes unsustainable farming practices,request-39-3-0
+promotes unsustainable farming practices,leads to soil degradation and loss of biodiversity,request-39-3-1
+leads to soil degradation and loss of biodiversity,reduces natural carbon sequestration,request-39-3-2
+reduces natural carbon sequestration,contributes to global warming,request-39-3-3
+the enrichment of green energy investors and big banks,increased investment in green energy projects,request-40-0-0
+increased investment in green energy projects,expansion of green energy infrastructure,request-40-0-1
+expansion of green energy infrastructure,decrease in carbon emissions due to reduced reliance on fossil fuels,request-40-0-2
+decrease in carbon emissions due to reduced reliance on fossil fuels,slowing of global warming and climate change,request-40-0-3
+slowing of global warming and climate change,changes in the political economy of climate change,request-40-0-4
+the enrichment of green energy investors and big banks,increased demand for green energy technology and services,request-40-1-0
+increased demand for green energy technology and services,stimulation of innovation and r&d in green energy sector,request-40-1-1
+stimulation of innovation and r&d in green energy sector,"development of new, more efficient green energy technologies",request-40-1-2
+"development of new, more efficient green energy technologies",accelerated transition to a lowcarbon economy,request-40-1-3
+accelerated transition to a lowcarbon economy,changes in the political economy of climate change,request-40-1-4
+the enrichment of green energy investors and big banks,increased investment in green energy projects in developing countries,request-40-2-0
+increased investment in green energy projects in developing countries,access to clean energy in underdeveloped regions,request-40-2-1
+access to clean energy in underdeveloped regions,economic growth and poverty reduction in these regions,request-40-2-2
+economic growth and poverty reduction in these regions,increased global cooperation on climate change mitigation,request-40-2-3
+increased global cooperation on climate change mitigation,changes in the political economy of climate change,request-40-2-4
+the enrichment of green energy investors and big banks,increased investment in green energy projects in developed countries,request-40-3-0
+increased investment in green energy projects in developed countries,job creation in green energy sector,request-40-3-1
+job creation in green energy sector,political pressure for stronger climate policies,request-40-3-2
+political pressure for stronger climate policies,implementation of more ambitious climate change mitigation policies,request-40-3-3
+implementation of more ambitious climate change mitigation policies,changes in the political economy of climate change ,request-40-3-4
+congress introduces the proposed bill,the bill is debated and discussed in congress,request-41-0-0
+the bill is debated and discussed in congress,congress votes in favor of the bill,request-41-0-1
+congress votes in favor of the bill,the bill is signed into law by the president,request-41-0-2
+the bill is signed into law by the president,the new law allocates funds for infrastructure projects,request-41-0-3
+the new law allocates funds for infrastructure projects,state and local governments submit proposals for these projects,request-41-0-4
+state and local governments submit proposals for these projects,the federal government approves and funds these projects,request-41-0-5
+the federal government approves and funds these projects,construction and other related industries start hiring to complete the projects,request-41-0-6
+construction and other related industries start hiring to complete the projects,millions of jobs are created for americans,request-41-0-7
+congress introduces the proposed bill,the bill is debated and discussed in congress,request-41-1-0
+the bill is debated and discussed in congress,congress votes in favor of the bill,request-41-1-1
+congress votes in favor of the bill,the bill is signed into law by the president,request-41-1-2
+the bill is signed into law by the president,the new law provides tax incentives for businesses to expand and hire more employees,request-41-1-3
+the new law provides tax incentives for businesses to expand and hire more employees,businesses take advantage of these incentives to expand their operations,request-41-1-4
+businesses take advantage of these incentives to expand their operations,businesses hire more employees to meet the increased demand,request-41-1-5
+businesses hire more employees to meet the increased demand,millions of jobs are created for americans,request-41-1-6
+congress introduces the proposed bill,the bill is debated and discussed in congress,request-41-2-0
+the bill is debated and discussed in congress,congress votes in favor of the bill,request-41-2-1
+congress votes in favor of the bill,the bill is signed into law by the president,request-41-2-2
+the bill is signed into law by the president,the new law invests in education and training programs,request-41-2-3
+the new law invests in education and training programs,americans participate in these programs to gain new skills,request-41-2-4
+americans participate in these programs to gain new skills,"businesses, in need of skilled workers, hire program graduates",request-41-2-5
+"businesses, in need of skilled workers, hire program graduates",millions of jobs are created or filled for americans,request-41-2-6
+congress introduces the proposed bill,the bill is debated and discussed in congress,request-41-3-0
+the bill is debated and discussed in congress,congress votes in favor of the bill,request-41-3-1
+congress votes in favor of the bill,the bill is signed into law by the president,request-41-3-2
+the bill is signed into law by the president,the new law provides funding for small business loans,request-41-3-3
+the new law provides funding for small business loans,small businesses take out these loans to expand their operations,request-41-3-4
+small businesses take out these loans to expand their operations,small businesses hire more employees to meet the increased demand,request-41-3-5
+small businesses hire more employees to meet the increased demand,millions of jobs are created for americans,request-41-3-6
+the avoidance of products from such companies,decreased demand for products,request-42-0-0
+decreased demand for products,reduced production of those products,request-42-0-1
+reduced production of those products,lower emissions from reduced manufacturing,request-42-0-2
+lower emissions from reduced manufacturing,action against climate change,request-42-0-3
+the avoidance of products from such companies,decreased demand for products,request-42-1-0
+decreased demand for products,reduced production of those products,request-42-1-1
+reduced production of those products,lower revenue for companies,request-42-1-2
+lower revenue for companies,companies invest in sustainable practices to regain revenue,request-42-1-3
+companies invest in sustainable practices to regain revenue,action against climate change,request-42-1-4
+the avoidance of products from such companies,decreased demand for products,request-42-2-0
+decreased demand for products,reduced production of those products,request-42-2-1
+reduced production of those products,lower emissions from reduced manufacturing,request-42-2-2
+lower emissions from reduced manufacturing,positive public perception of consumers' actions,request-42-2-3
+positive public perception of consumers' actions,encouragement of others to take similar actions,request-42-2-4
+encouragement of others to take similar actions,action against climate change,request-42-2-5
+the avoidance of products from such companies,decreased demand for products,request-42-3-0
+decreased demand for products,reduced production of those products,request-42-3-1
+reduced production of those products,lower revenue for companies,request-42-3-2
+lower revenue for companies,companies lobby for stricter climate regulations to level the playing field,request-42-3-3
+companies lobby for stricter climate regulations to level the playing field,action against climate change,request-42-3-4
+the avoidance of products from such companies,decreased demand for products,request-42-4-0
+decreased demand for products,reduced production of those products,request-42-4-1
+reduced production of those products,lower emissions from reduced manufacturing,request-42-4-2
+lower emissions from reduced manufacturing,improved air quality and health benefits,request-42-4-3
+improved air quality and health benefits,increased awareness and support for climate action,request-42-4-4
+increased awareness and support for climate action,action against climate change ,request-42-4-5
+humans consume fossil fuels for energy,fossil fuel consumption releases carbon dioxide  into the atmosphere,request-43-0-0
+fossil fuel consumption releases carbon dioxide  into the atmosphere,"increased co2 levels enhance the greenhouse effect, trapping more heat in the atmosphere",request-43-0-1
+"increased co2 levels enhance the greenhouse effect, trapping more heat in the atmosphere",trapped heat,request-43-0-2
+trapped heat,"global warming causes climate change, including rising temperatures, melting ice caps, and altered weather patterns",request-43-0-3
+"global warming causes climate change, including rising temperatures, melting ice caps, and altered weather patterns","however, this year's climate is not significantly changing due to natural climate variability and the shortterm influence of other factors, such as volcanic activity or ocean currents",request-43-0-4
+"humans deforest land for agriculture, urban development, and other purposes",deforestation reduces the earth's ability to absorb co2 through photosynthesis,request-43-1-0
+deforestation reduces the earth's ability to absorb co2 through photosynthesis,decreased co2 absorption,request-43-1-1
+decreased co2 absorption,"increased co2 levels enhance the greenhouse effect, trapping more heat in the atmosphere",request-43-1-2
+"increased co2 levels enhance the greenhouse effect, trapping more heat in the atmosphere",trapped heat,request-43-1-3
+trapped heat,"global warming causes climate change, including rising temperatures, melting ice caps, and altered weather patterns",request-43-1-4
+"global warming causes climate change, including rising temperatures, melting ice caps, and altered weather patterns","however, this year's climate is not significantly changing due to natural climate variability and the shortterm influence of other factors, such as volcanic activity or ocean currents",request-43-1-5
+humans use refrigerants and other chemicals in industrial processes and products,"some of these chemicals, like chlorofluorocarbons  and hydrofluorocarbons , are potent greenhouse gases",request-43-2-0
+"some of these chemicals, like chlorofluorocarbons  and hydrofluorocarbons , are potent greenhouse gases",leakage and disposal of these chemicals release them into the atmosphere,request-43-2-1
+leakage and disposal of these chemicals release them into the atmosphere,"greenhouse gas emissions enhance the greenhouse effect, trapping more heat in the atmosphere",request-43-2-2
+"greenhouse gas emissions enhance the greenhouse effect, trapping more heat in the atmosphere",trapped heat,request-43-2-3
+trapped heat,"global warming causes climate change, including rising temperatures, melting ice caps, and altered weather patterns",request-43-2-4
+"global warming causes climate change, including rising temperatures, melting ice caps, and altered weather patterns","however, this year's climate is not significantly changing due to natural climate variability and the shortterm influence of other factors, such as volcanic activity or ocean currents",request-43-2-5
+phytoplankton growth and reproduction,release of dimethylsulfoniopropionate,request-44-0-0
+release of dimethylsulfoniopropionate,enzymatic cleavage of dmsp to form dimethyl sulfide,request-44-0-1
+phytoplankton growth and reproduction,grazing by zooplankton,request-44-1-0
+grazing by zooplankton,fecal pellet production,request-44-1-1
+fecal pellet production,release of dmsp from zooplankton and fecal pellets,request-44-1-2
+release of dmsp from zooplankton and fecal pellets,enzymatic cleavage of dmsp to form dimethyl sulfide,request-44-1-3
+phytoplankton growth and reproduction,death and sinking of phytoplankton,request-44-2-0
+death and sinking of phytoplankton,bacterial degradation of organic matter,request-44-2-1
+bacterial degradation of organic matter,release of dmsp by bacteria,request-44-2-2
+release of dmsp by bacteria,enzymatic cleavage of dmsp to form dimethyl sulfide,request-44-2-3
+phytoplankton growth and reproduction,release of organic matter,request-44-3-0
+release of organic matter,bacterial degradation of organic matter,request-44-3-1
+bacterial degradation of organic matter,release of dmsp by bacteria,request-44-3-2
+release of dmsp by bacteria,enzymatic cleavage of dmsp to form dimethyl sulfide ,request-44-3-3
+"largescale, regular blowing of desert sand into the ocean",sand particles carried by wind reach the coastal waters,request-45-0-0
+sand particles carried by wind reach the coastal waters,"sand particles settle on the seafloor, reducing light penetration and promoting sedimentary processes",request-45-0-1
+"sand particles settle on the seafloor, reducing light penetration and promoting sedimentary processes",reduced light penetration,request-45-0-2
+reduced light penetration,phytoplankton population decline results in less competition for nutrients among marine plants and microscopic organisms,request-45-0-3
+phytoplankton population decline results in less competition for nutrients among marine plants and microscopic organisms,"increased availability of nutrients, particularly iron and phosphorus, in the surface waters",request-45-0-4
+"increased availability of nutrients, particularly iron and phosphorus, in the surface waters","enhanced growth of marine plants and microscopic organisms, including diatoms, in the surface waters",request-45-0-5
+"enhanced growth of marine plants and microscopic organisms, including diatoms, in the surface waters",increased marine plant and microscopic organism biomass,request-45-0-6
+increased marine plant and microscopic organism biomass,ocean fertilization through increased carbon dioxide absorption and marine plant growth,request-45-0-7
+"largescale, regular blowing of desert sand into the ocean",sand particles carried by wind reach the coastal waters and are suspended in the water column,request-45-1-0
+sand particles carried by wind reach the coastal waters and are suspended in the water column,"suspended sand particles scatter and absorb light, altering the underwater light environment",request-45-1-1
+"suspended sand particles scatter and absorb light, altering the underwater light environment","altered light environment promotes the growth of mixotrophic organisms, which can use both light and nutrients for growth",request-45-1-2
+"altered light environment promotes the growth of mixotrophic organisms, which can use both light and nutrients for growth","mixotrophic organisms consume nutrients, leading to a decrease in nutrient availability for other marine plants and microscopic organisms",request-45-1-3
+"mixotrophic organisms consume nutrients, leading to a decrease in nutrient availability for other marine plants and microscopic organisms",decreased nutrient availability results in a decline in the growth of phytoplankton and other nutrientdependent organisms,request-45-1-4
+decreased nutrient availability results in a decline in the growth of phytoplankton and other nutrientdependent organisms,reduced phytoplankton and other organism growth,request-45-1-5
+reduced phytoplankton and other organism growth,ocean fertilization is hindered by the decreased carbon dioxide absorption and marine plant growth,request-45-1-6
+climate change causes global temperatures to rise,rising temperatures melt polar ice caps,request-46-0-0
+rising temperatures melt polar ice caps,melting ice caps cause sea levels to rise,request-46-0-1
+melting ice caps cause sea levels to rise,rising sea levels flood coastal cities and lowlying island nations,request-46-0-2
+rising sea levels flood coastal cities and lowlying island nations,"flooding displaces millions of people, leading to mass migration",request-46-0-3
+"flooding displaces millions of people, leading to mass migration",mass migration causes political instability and conflict over resources,request-46-0-4
+mass migration causes political instability and conflict over resources,"conflict and instability disrupt food and water supplies, leading to famine and disease",request-46-0-5
+"conflict and instability disrupt food and water supplies, leading to famine and disease",famine and disease cause a significant decrease in human population,request-46-0-6
+famine and disease cause a significant decrease in human population,decreased population,request-46-0-7
+decreased population,"without advancements, humans are unable to adapt to the changing climate and rising sea levels",request-46-0-8
+"without advancements, humans are unable to adapt to the changing climate and rising sea levels","unable to adapt, humans go extinct",request-46-0-9
+climate change causes extreme weather events to become more frequent and severe,"extreme weather events damage or destroy infrastructure, including power grids and transportation systems",request-46-1-0
+"extreme weather events damage or destroy infrastructure, including power grids and transportation systems","infrastructure damage disrupts essential services, such as healthcare and food distribution",request-46-1-1
+"infrastructure damage disrupts essential services, such as healthcare and food distribution",disrupted services lead to an increase in preventable deaths and suffering,request-46-1-2
+disrupted services lead to an increase in preventable deaths and suffering,suffering and deaths cause societal unrest and civil unrest,request-46-1-3
+suffering and deaths cause societal unrest and civil unrest,civil unrest,request-46-1-4
+civil unrest,"without governance, humans are unable to coordinate a global response to climate change",request-46-1-5
+"without governance, humans are unable to coordinate a global response to climate change","unable to respond, humans go extinct",request-46-1-6
+"climate change causes changes in precipitation patterns, leading to increased droughts and desertification",droughts and desertification reduce agricultural productivity and lead to food shortages,request-46-2-0
+droughts and desertification reduce agricultural productivity and lead to food shortages,food shortages cause widespread hunger and malnutrition,request-46-2-1
+food shortages cause widespread hunger and malnutrition,"hunger and malnutrition weaken immune systems, making people more susceptible to diseases",request-46-2-2
+"hunger and malnutrition weaken immune systems, making people more susceptible to diseases",increased susceptibility,request-46-2-3
+increased susceptibility,disease outbreaks cause a significant decrease in human population,request-46-2-4
+disease outbreaks cause a significant decrease in human population,decreased population,request-46-2-5
+decreased population,"without advancements, humans are unable to adapt to the changing climate and rising sea levels",request-46-2-6
+"without advancements, humans are unable to adapt to the changing climate and rising sea levels","unable to adapt, humans go extinct",request-46-2-7
+highlatitude glacier melt,increased freshwater input to the ocean,request-47-0-0
+increased freshwater input to the ocean,disruption of ocean currents and thermohaline circulation,request-47-0-1
+disruption of ocean currents and thermohaline circulation,changes in ocean temperature and salinity,request-47-0-2
+changes in ocean temperature and salinity,expansion of ocean water due to increased temperature,request-47-0-3
+expansion of ocean water due to increased temperature,sea level rise,request-47-0-4
+highlatitude glacier melt,increased freshwater input to the ocean,request-47-1-0
+increased freshwater input to the ocean,reduced salinity of ocean surface water,request-47-1-1
+reduced salinity of ocean surface water,weakened ocean upwelling and reduced nutrient supply to surface waters,request-47-1-2
+weakened ocean upwelling and reduced nutrient supply to surface waters,decreased phytoplankton growth and reduced carbon sequestration,request-47-1-3
+decreased phytoplankton growth and reduced carbon sequestration,increased atmospheric co2 concentration,request-47-1-4
+increased atmospheric co2 concentration,global warming,request-47-1-5
+global warming,additional ocean warming and thermal expansion,request-47-1-6
+additional ocean warming and thermal expansion,sea level rise,request-47-1-7
+highlatitude glacier melt,increased freshwater input to the ocean,request-47-2-0
+increased freshwater input to the ocean,accelerated coastal erosion due to increased wave action and storm surges,request-47-2-1
+accelerated coastal erosion due to increased wave action and storm surges,loss of coastal land to the ocean,request-47-2-2
+loss of coastal land to the ocean,sea level rise,request-47-2-3
+highlatitude glacier melt,increased freshwater input to the ocean,request-47-3-0
+increased freshwater input to the ocean,changes in ocean currents and wind patterns,request-47-3-1
+changes in ocean currents and wind patterns,altered weather patterns and increased precipitation in some regions,request-47-3-2
+altered weather patterns and increased precipitation in some regions,glacier melt and ice cap collapse in lowerlatitude regions,request-47-3-3
+glacier melt and ice cap collapse in lowerlatitude regions,additional freshwater input to the ocean,request-47-3-4
+additional freshwater input to the ocean,accelerated thermal expansion and sea level rise,request-47-3-5
+every minor setback,"↓
+delays production",request-48-0-0
+"↓
+delays production","↓
+reduces inventory",request-48-0-1
+"↓
+reduces inventory",↓,request-48-0-2
+every minor setback,"↓
+affects worker morale",request-48-1-0
+"↓
+affects worker morale","↓
+decreases productivity",request-48-1-1
+"↓
+decreases productivity","↓
+reduces output",request-48-1-2
+"↓
+reduces output",↓,request-48-1-3
+every minor setback,"↓
+increases costs",request-48-2-0
+"↓
+increases costs","↓
+reduces budget for raw materials",request-48-2-1
+"↓
+reduces budget for raw materials",↓,request-48-2-2
+every minor setback,"↓
+disrupts supply chain",request-48-3-0
+"↓
+disrupts supply chain","↓
+delays delivery of raw materials",request-48-3-1
+"↓
+delays delivery of raw materials","↓
+reduces inventory",request-48-3-2
+"↓
+reduces inventory",↓,request-48-3-3
+every minor setback,"↓
+requires additional resources for recovery",request-48-4-0
+"↓
+requires additional resources for recovery","↓
+reduces funds for planned production",request-48-4-1
+"↓
+reduces funds for planned production",↓,request-48-4-2
+every minor setback,"↓
+affects quality control",request-48-5-0
+"↓
+affects quality control","↓
+increases product returns",request-48-5-1
+"↓
+increases product returns","↓
+reduces available inventory",request-48-5-2
+"↓
+reduces available inventory",↓,request-48-5-3
+tree planting,tree growth,request-49-0-0
+tree growth,increased carbon sequestration,request-49-0-1
+increased carbon sequestration,reduced atmospheric co2,request-49-0-2
+reduced atmospheric co2,mitigated global warming,request-49-0-3
+mitigated global warming,climate change impact reduced,request-49-0-4
+climate change impact reduced,climate change,request-49-0-5
+tree planting,tree growth,request-49-1-0
+tree growth,increased biodiversity,request-49-1-1
+increased biodiversity,enhanced ecosystem services,request-49-1-2
+enhanced ecosystem services,improved carbon sequestration,request-49-1-3
+improved carbon sequestration,reduced atmospheric co2,request-49-1-4
+reduced atmospheric co2,mitigated global warming,request-49-1-5
+mitigated global warming,climate change impact reduced,request-49-1-6
+climate change impact reduced,climate change,request-49-1-7
+tree planting,tree growth,request-49-2-0
+tree growth,soil erosion prevention,request-49-2-1
+soil erosion prevention,improved water quality,request-49-2-2
+improved water quality,enhanced hydrological cycle,request-49-2-3
+enhanced hydrological cycle,altered precipitation patterns,request-49-2-4
+altered precipitation patterns,climate change impact altered,request-49-2-5
+climate change impact altered,climate change,request-49-2-6
+tree planting,tree growth,request-49-3-0
+tree growth,increased evapotranspiration,request-49-3-1
+increased evapotranspiration,cooler local temperatures,request-49-3-2
+cooler local temperatures,altered local climate,request-49-3-3
+altered local climate,climate change impact altered,request-49-3-4
+climate change impact altered,climate change,request-49-3-5
+40 degrees,high temperatures,request-50-0-0
+high temperatures,heatwave,request-50-0-1
+heatwave,drought,request-50-0-2
+drought,wildfires,request-50-0-3
+wildfires,fires in europe,request-50-0-4
+40 degrees,high temperatures,request-50-1-0
+high temperatures,heatwave,request-50-1-1
+heatwave,drought,request-50-1-2
+drought,water scarcity,request-50-1-3
+water scarcity,increased humanwildlife conflict,request-50-1-4
+increased humanwildlife conflict,fires in europe,request-50-1-5
+40 degrees,high temperatures,request-50-2-0
+high temperatures,heatwave,request-50-2-1
+heatwave,drought,request-50-2-2
+drought,crop failure,request-50-2-3
+crop failure,increased food prices,request-50-2-4
+increased food prices,social unrest,request-50-2-5
+social unrest,fires in europe,request-50-2-6
+40 degrees,high temperatures,request-50-3-0
+high temperatures,heatwave,request-50-3-1
+heatwave,drought,request-50-3-2
+drought,decreased river flow,request-50-3-3
+decreased river flow,lowered water levels,request-50-3-4
+lowered water levels,increased wildfire risk,request-50-3-5
+increased wildfire risk,fires in europe,request-50-3-6
+40 degrees,high temperatures,request-50-4-0
+high temperatures,heatwave,request-50-4-1
+heatwave,drought,request-50-4-2
+drought,reduced rainfall,request-50-4-3
+reduced rainfall,decreased soil moisture,request-50-4-4
+decreased soil moisture,increased wildfire likelihood,request-50-4-5
+increased wildfire likelihood,fires in europe,request-50-4-6
+air temperature,heating of dry vegetation,request-51-0-0
+heating of dry vegetation,increased flammability,request-51-0-1
+increased flammability,spark or heat source,request-51-0-2
+spark or heat source,ignition of vegetation,request-51-0-3
+ignition of vegetation,the fires,request-51-0-4
+air temperature,heating of dry vegetation,request-51-1-0
+heating of dry vegetation,increased flammability,request-51-1-1
+increased flammability,lightning strike,request-51-1-2
+lightning strike,ignition of vegetation,request-51-1-3
+ignition of vegetation,the fires,request-51-1-4
+air temperature,heating of dry vegetation,request-51-2-0
+heating of dry vegetation,increased flammability,request-51-2-1
+increased flammability,human activity,request-51-2-2
+human activity,ignition of vegetation,request-51-2-3
+ignition of vegetation,the fires,request-51-2-4
+air temperature,heating of dry vegetation,request-51-3-0
+heating of dry vegetation,increased flammability,request-51-3-1
+increased flammability,equipment malfunction,request-51-3-2
+equipment malfunction,ignition of vegetation,request-51-3-3
+ignition of vegetation,the fires,request-51-3-4
+heating,vaporization of a flammable substance,request-52-0-0
+vaporization of a flammable substance,accumulation of vapor in an enclosed space,request-52-0-1
+accumulation of vapor in an enclosed space,ignition of the vapor,request-52-0-2
+ignition of the vapor,fire,request-52-0-3
+heating,vaporization of a flammable substance,request-52-1-0
+vaporization of a flammable substance,leakage of the vapor into an open space,request-52-1-1
+leakage of the vapor into an open space,mixing of the vapor with oxygen in the air,request-52-1-2
+mixing of the vapor with oxygen in the air,ignition of the vaporair mixture,request-52-1-3
+ignition of the vaporair mixture,fire,request-52-1-4
+heating,vaporization of a flammable substance,request-52-2-0
+vaporization of a flammable substance,accumulation of vapor in an enclosed space,request-52-2-1
+accumulation of vapor in an enclosed space,sparks or embers entering the enclosed space,request-52-2-2
+sparks or embers entering the enclosed space,ignition of the vapor,request-52-2-3
+ignition of the vapor,fire,request-52-2-4
+heating,vaporization of a flammable substance,request-52-3-0
+vaporization of a flammable substance,leakage of the vapor into an open space,request-52-3-1
+leakage of the vapor into an open space,accidental contact with a heat source,request-52-3-2
+accidental contact with a heat source,ignition of the vaporair mixture,request-52-3-3
+ignition of the vaporair mixture,fire,request-52-3-4
+40 degrees,causes,request-53-0-0
+causes,high temperature,request-53-0-1
+high temperature,can lead to,request-53-0-2
+can lead to,spark,request-53-0-3
+spark,ignites,request-53-0-4
+ignites,fires,request-53-0-5
+40 degrees,is above,request-53-1-0
+is above,freezing point of water,request-53-1-1
+freezing point of water,melts,request-53-1-2
+melts,ice,request-53-1-3
+ice,can drip,request-53-1-4
+can drip,and cause,request-53-1-5
+and cause,short circuit,request-53-1-6
+short circuit,which can lead to,request-53-1-7
+which can lead to,fires,request-53-1-8
+40 degrees,is the melting point of,request-53-2-0
+is the melting point of,lead,request-53-2-1
+lead,which can drip,request-53-2-2
+which can drip,and cause,request-53-2-3
+and cause,short circuit,request-53-2-4
+short circuit,which can lead to,request-53-2-5
+which can lead to,fires,request-53-2-6
+40 degrees,can be reached by,request-53-3-0
+can be reached by,a room with,request-53-3-1
+a room with,no air conditioning,request-53-3-2
+no air conditioning,on a hot day,request-53-3-3
+on a hot day,causing,request-53-3-4
+causing,people to use,request-53-3-5
+people to use,more electric fans,request-53-3-6
+more electric fans,overloading,request-53-3-7
+overloading,circuit,request-53-3-8
+circuit,leading to,request-53-3-9
+leading to,fires,request-53-3-10
+a cigarette butt,starts a fire on dry grass,request-54-0-0
+starts a fire on dry grass,which spreads to nearby bushes,request-54-0-1
+which spreads to nearby bushes,that catch fire,request-54-0-2
+that catch fire,and the flames reach a nearby building,request-54-0-3
+and the flames reach a nearby building,causing a structure fire,request-54-0-4
+lightning,strikes a tree,request-54-1-0
+strikes a tree,splitting it,request-54-1-1
+splitting it,and causing it to fall,request-54-1-2
+and causing it to fall,onto a power line,request-54-1-3
+onto a power line,which shorts out,request-54-1-4
+which shorts out,starting an electrical fire,request-54-1-5
+starting an electrical fire,in the nearby transformer,request-54-1-6
+in the nearby transformer,which then spreads to the surrounding area,request-54-1-7
+a spark from a barbecue,lands on a nearby tarp,request-54-2-0
+lands on a nearby tarp,which catches fire,request-54-2-1
+which catches fire,and the flames spread to the wooden deck,request-54-2-2
+and the flames spread to the wooden deck,below,request-54-2-3
+below,causing a deck fire,request-54-2-4
+causing a deck fire,which then spreads to the house,request-54-2-5
+which then spreads to the house,starting a house fire,request-54-2-6
+heavy rainfall causes kentucky floods,floods damage homes and infrastructure,request-55-0-0
+floods damage homes and infrastructure,displaced residents seek temporary housing and relief aid,request-55-0-1
+displaced residents seek temporary housing and relief aid,overcrowded shelters and strain on resources lead to chaos,request-55-0-2
+"floods damage crops and livestock, affecting farmers' livelihoods",food prices increase due to reduced supply,request-55-1-0
+food prices increase due to reduced supply,rising food prices cause unrest and protests,request-55-1-1
+rising food prices cause unrest and protests,protests escalate into chaos,request-55-1-2
+floods disrupt power and communication lines,prolonged outages cause inconvenience and panic,request-55-2-0
+prolonged outages cause inconvenience and panic,"people rush to buy generators and other supplies, leading to shortages",request-55-2-1
+"people rush to buy generators and other supplies, leading to shortages","shortages and increased demand cause prices to skyrocket, leading to chaos",request-55-2-2
+unexpected snowfall in texas causes widespread power outages,prolonged outages lead to water pipe freezes and bursts,request-55-3-0
+prolonged outages lead to water pipe freezes and bursts,water main breaks cause water shortages and boil advisories,request-55-3-1
+water main breaks cause water shortages and boil advisories,"residents struggle to access clean water, leading to chaos",request-55-3-2
+"snowfall disrupts transportation, causing traffic chaos",delayed or canceled flights cause travel chaos at airports,request-55-4-0
+delayed or canceled flights cause travel chaos at airports,people stranded at airports and on highways cause logistical chaos,request-55-4-1
+people stranded at airports and on highways cause logistical chaos,chaos spreads as resources are stretched thin,request-55-4-2
+"snowfall causes tree limbs to break and fall, damaging properties","insurance companies are flooded with claims, causing delays and backlogs",request-55-5-0
+"insurance companies are flooded with claims, causing delays and backlogs",delays in repairs and compensation lead to financial strain and chaos,request-55-5-1
+people,"start a campfire for recreation
+    leave the campfire unattended",request-56-0-0
+"start a campfire for recreation
+    leave the campfire unattended",the campfire spreads to nearby dry grass,request-56-0-1
+the campfire spreads to nearby dry grass,a wildfire starts,request-56-0-2
+a wildfire starts,the wildfire burns down a forest,request-56-0-3
+the wildfire burns down a forest,the forest is the habitat of many animals,request-56-0-4
+the forest is the habitat of many animals,the animals are displaced or harmed by the fire,request-56-0-5
+the animals are displaced or harmed by the fire,fires,request-56-0-6
+people,discard a lit cigarette,request-56-1-0
+discard a lit cigarette,the cigarette lands on dry leaves,request-56-1-1
+the cigarette lands on dry leaves,the leaves catch fire,request-56-1-2
+the leaves catch fire,the fire spreads to a nearby building,request-56-1-3
+the fire spreads to a nearby building,the building catches fire,request-56-1-4
+the building catches fire,fires,request-56-1-5
+people,use a stove or heater without proper ventilation,request-56-2-0
+use a stove or heater without proper ventilation,carbon monoxide builds up in the room,request-56-2-1
+carbon monoxide builds up in the room,the carbon monoxide ignites,request-56-2-2
+the carbon monoxide ignites,a house fire starts,request-56-2-3
+a house fire starts,fires,request-56-2-4
+people,overload electrical sockets,request-56-3-0
+overload electrical sockets,the sockets overheat,request-56-3-1
+the sockets overheat,an electrical fire starts,request-56-3-2
+an electrical fire starts,fires,request-56-3-3
+people,play with fireworks,request-56-4-0
+play with fireworks,a firework malfunctions,request-56-4-1
+a firework malfunctions,the firework starts a fire,request-56-4-2
+the firework starts a fire,fires,request-56-4-3
+high temperatures cause increased water loss in plants,this,request-57-0-0
+this,"dry, flammable plants increase the risk of wildfires",request-57-0-1
+"dry, flammable plants increase the risk of wildfires","wildfires spread and cause destruction, including fires",request-57-0-2
+high temperatures lead to drought conditions,"droughts cause water stress in plants, leading to decreased water content",request-57-1-0
+"droughts cause water stress in plants, leading to decreased water content",drier plants are more susceptible to combustion,request-57-1-1
+drier plants are more susceptible to combustion,combustible plants increase the likelihood of fires,request-57-1-2
+high temperatures cause increased evaporation from the soil,soil moisture depletion reduces the water uptake by plant roots,request-57-2-0
+soil moisture depletion reduces the water uptake by plant roots,reduced water uptake,request-57-2-1
+reduced water uptake,drier plants facilitate the spread of fires,request-57-2-2
+humans start a fire for warmth or cooking,fire is left unattended,request-58-0-0
+fire is left unattended,fire spreads to nearby flammable materials,request-58-0-1
+fire spreads to nearby flammable materials,fire grows larger and out of control,request-58-0-2
+humans discard a lit cigarette,cigarette starts a small fire in dry grass,request-58-1-0
+cigarette starts a small fire in dry grass,fire spreads to nearby trees and bushes,request-58-1-1
+fire spreads to nearby trees and bushes,fire grows into a large wildfire,request-58-1-2
+humans cut down trees for lumber,deforestation leaves dry leaves and branches on the ground,request-58-2-0
+deforestation leaves dry leaves and branches on the ground,lightning strikes dry leaves and branches,request-58-2-1
+lightning strikes dry leaves and branches,lightning starts a fire,request-58-2-2
+humans leave a candle burning in an unsupervised room,candle tips over and sets nearby curtains on fire,request-58-3-0
+candle tips over and sets nearby curtains on fire,fire spreads to other furniture and items in the room,request-58-3-1
+fire spreads to other furniture and items in the room,fire grows and engulfs the entire building,request-58-3-2
+40 degrees,causes,request-59-0-0
+causes,high temperature,request-59-0-1
+high temperature,can lead to,request-59-0-2
+can lead to,spark,request-59-0-3
+spark,ignites,request-59-0-4
+ignites,fires,request-59-0-5
+40 degrees,is above,request-59-1-0
+is above,freezing point of water,request-59-1-1
+freezing point of water,melts,request-59-1-2
+melts,ice,request-59-1-3
+ice,can drip,request-59-1-4
+can drip,and cause,request-59-1-5
+and cause,short circuit,request-59-1-6
+short circuit,which can lead to,request-59-1-7
+which can lead to,fires,request-59-1-8
+40 degrees,is the melting point of,request-59-2-0
+is the melting point of,lead,request-59-2-1
+lead,which can drip,request-59-2-2
+which can drip,and cause,request-59-2-3
+and cause,short circuit,request-59-2-4
+short circuit,which can lead to,request-59-2-5
+which can lead to,fires,request-59-2-6
+40 degrees,can be reached by,request-59-3-0
+can be reached by,a room with,request-59-3-1
+a room with,no air conditioning,request-59-3-2
+no air conditioning,on a hot day,request-59-3-3
+on a hot day,causing,request-59-3-4
+causing,people to use,request-59-3-5
+people to use,more electric fans,request-59-3-6
+more electric fans,overloading,request-59-3-7
+overloading,circuit,request-59-3-8
+circuit,leading to,request-59-3-9
+leading to,fires,request-59-3-10
+forest fires,char and consume trees,request-60-0-0
+char and consume trees,trees fall and decompose,request-60-0-1
+trees fall and decompose,nutrients from trees are released into soil,request-60-0-2
+nutrients from trees are released into soil,the return of plant nutrients to the soil and subsequent rapid regrowth,request-60-0-3
+forest fires,char and consume trees,request-60-1-0
+char and consume trees,trees fall and decompose,request-60-1-1
+trees fall and decompose,nutrients from trees are released into soil,request-60-1-2
+nutrients from trees are released into soil,soil microorganisms break down organic matter,request-60-1-3
+soil microorganisms break down organic matter,nutrients are made available to new plants,request-60-1-4
+nutrients are made available to new plants,the return of plant nutrients to the soil and subsequent rapid regrowth,request-60-1-5
+forest fires,char and consume trees,request-60-2-0
+char and consume trees,trees fall and decompose,request-60-2-1
+trees fall and decompose,nutrients from trees are released into soil,request-60-2-2
+nutrients from trees are released into soil,soil ph changes due to increased nutrients,request-60-2-3
+soil ph changes due to increased nutrients,some plant species are favored by the new soil conditions,request-60-2-4
+some plant species are favored by the new soil conditions,rapid regrowth of favored plant species,request-60-2-5
+rapid regrowth of favored plant species,the return of plant nutrients to the soil and subsequent rapid regrowth,request-60-2-6
+forest fires,char and consume trees,request-60-3-0
+char and consume trees,trees fall and decompose,request-60-3-1
+trees fall and decompose,nutrients from trees are released into soil,request-60-3-2
+nutrients from trees are released into soil,increased nutrient availability stimulates seed germination,request-60-3-3
+increased nutrient availability stimulates seed germination,rapid growth of new plants,request-60-3-4
+rapid growth of new plants,the return of plant nutrients to the soil and subsequent rapid regrowth,request-60-3-5
+forest fires,char and consume trees,request-60-4-0
+char and consume trees,trees fall and decompose,request-60-4-1
+trees fall and decompose,nutrients from trees are released into soil,request-60-4-2
+nutrients from trees are released into soil,increased nutrient availability promotes plant growth,request-60-4-3
+increased nutrient availability promotes plant growth,rapid regrowth of plants,request-60-4-4
+rapid regrowth of plants,the return of plant nutrients to the soil and subsequent rapid regrowth,request-60-4-5
+plant nutrients return to the soil,soil nutrient levels increase,request-61-0-0
+soil nutrient levels increase,plants have sufficient nutrients for growth,request-61-0-1
+plants have sufficient nutrients for growth,plants grow at a faster rate,request-61-0-2
+plants grow at a faster rate,the relatively fast regrowth of plants,request-61-0-3
+plant nutrients return to the soil,soil nutrient levels increase,request-61-1-0
+soil nutrient levels increase,plants have sufficient nutrients for growth and reproduction,request-61-1-1
+plants have sufficient nutrients for growth and reproduction,plants produce more seeds,request-61-1-2
+plants produce more seeds,more seeds lead to a larger plant population,request-61-1-3
+more seeds lead to a larger plant population,"with sufficient nutrients, the larger plant population grows rapidly",request-61-1-4
+"with sufficient nutrients, the larger plant population grows rapidly",the relatively fast regrowth of plants,request-61-1-5
+plant nutrients return to the soil,soil nutrient levels increase,request-61-2-0
+soil nutrient levels increase,plants have sufficient nutrients for growth and reproduction,request-61-2-1
+plants have sufficient nutrients for growth and reproduction,plants produce more roots,request-61-2-2
+plants produce more roots,more roots improve soil structure and nutrient absorption,request-61-2-3
+more roots improve soil structure and nutrient absorption,improved soil structure and nutrient absorption lead to faster plant growth,request-61-2-4
+improved soil structure and nutrient absorption lead to faster plant growth,the relatively fast regrowth of plants,request-61-2-5
+plant nutrients return to the soil,soil nutrient levels increase,request-61-3-0
+soil nutrient levels increase,plants have sufficient nutrients for growth and reproduction,request-61-3-1
+plants have sufficient nutrients for growth and reproduction,plants produce more leaves,request-61-3-2
+plants produce more leaves,more leaves increase photosynthesis efficiency,request-61-3-3
+more leaves increase photosynthesis efficiency,increased photosynthesis,request-61-3-4
+increased photosynthesis,the relatively fast regrowth of plants,request-61-3-5
+humans discard cigarettes carelessly,cigarette butt starts dry grass on fire,request-62-0-0
+cigarette butt starts dry grass on fire,fire spreads to nearby trees and bushes,request-62-0-1
+fire spreads to nearby trees and bushes,wildfire begins,request-62-0-2
+wildfire begins,wildfire spreads to other areas,request-62-0-3
+wildfire spreads to other areas,wildfire reaches europe,request-62-0-4
+wildfire reaches europe,wildfire causes damage and destruction in europe,request-62-0-5
+humans use barbecues or campfires carelessly,embers escape and land on dry grass,request-62-1-0
+embers escape and land on dry grass,grass catches fire,request-62-1-1
+grass catches fire,fire spreads to nearby trees and bushes,request-62-1-2
+fire spreads to nearby trees and bushes,wildfire begins,request-62-1-3
+wildfire begins,wildfire spreads to other areas,request-62-1-4
+wildfire spreads to other areas,wildfire reaches europe,request-62-1-5
+wildfire reaches europe,wildfire causes damage and destruction in europe,request-62-1-6
+humans discard rubbish like glass,glass focuses sunlight onto dry grass,request-62-2-0
+glass focuses sunlight onto dry grass,grass catches fire,request-62-2-1
+grass catches fire,fire spreads to nearby trees and bushes,request-62-2-2
+fire spreads to nearby trees and bushes,wildfire begins,request-62-2-3
+wildfire begins,wildfire spreads to other areas,request-62-2-4
+wildfire spreads to other areas,wildfire reaches europe,request-62-2-5
+wildfire reaches europe,wildfire causes damage and destruction in europe,request-62-2-6
+global warming increases average temperatures,higher temperatures lead to longer and more severe heatwaves,request-63-0-0
+higher temperatures lead to longer and more severe heatwaves,"heatwaves dry out vegetation, making it more flammable",request-63-0-1
+"heatwaves dry out vegetation, making it more flammable",drier vegetation increases the likelihood and intensity of fires,request-63-0-2
+global warming causes shifts in precipitation patterns,"some regions experience decreased rainfall, leading to droughts",request-63-1-0
+"some regions experience decreased rainfall, leading to droughts",droughts cause vegetation to become drier and more flammable,request-63-1-1
+droughts cause vegetation to become drier and more flammable,drier vegetation increases the likelihood and intensity of fires,request-63-1-2
+"global warming melts sea ice and glaciers, causing sea levels to rise",rising sea levels lead to increased flooding and saltwater intrusion in coastal areas,request-63-2-0
+rising sea levels lead to increased flooding and saltwater intrusion in coastal areas,"flooding and saltwater intrusion can kill or stress trees and other vegetation, making them more susceptible to pests and diseases",request-63-2-1
+"flooding and saltwater intrusion can kill or stress trees and other vegetation, making them more susceptible to pests and diseases","diseased or stressed vegetation becomes more flammable, increasing the likelihood and intensity of fires ",request-63-2-2
+40 degrees,high temperature,request-64-0-0
+high temperature,dry conditions,request-64-0-1
+dry conditions,spark,request-64-0-2
+spark,ignition of flammable material,request-64-0-3
+ignition of flammable material,fire,request-64-0-4
+40 degrees,high temperature,request-64-1-0
+high temperature,heat exhaustion,request-64-1-1
+heat exhaustion,fatigue,request-64-1-2
+fatigue,carelessness,request-64-1-3
+carelessness,knocking over a candle,request-64-1-4
+knocking over a candle,fire,request-64-1-5
+40 degrees,high temperature,request-64-2-0
+high temperature,power lines sagging,request-64-2-1
+power lines sagging,contact with trees,request-64-2-2
+contact with trees,spark,request-64-2-3
+spark,ignition of dry leaves,request-64-2-4
+ignition of dry leaves,fire,request-64-2-5
+40 degrees,high temperature,request-64-3-0
+high temperature,heat wave,request-64-3-1
+heat wave,crop failure,request-64-3-2
+crop failure,hunger,request-64-3-3
+hunger,desperation,request-64-3-4
+desperation,arson,request-64-3-5
+arson,fire,request-64-3-6
+"permaculture is practiced, which involves designing sustainable, productive ecosystems","this design includes the integration of fungi, leading to the practice of fungiculture",request-65-0-0
+"this design includes the integration of fungi, leading to the practice of fungiculture",fungi in permaculture systems help in nutrient cycling and improving soil health,request-65-0-1
+fungi in permaculture systems help in nutrient cycling and improving soil health,healthy soil,request-65-0-2
+healthy soil,this increased biodiversity and resilience contribute to the remediation of the ecosystem,request-65-0-3
+"permaculture is implemented, which focuses on working with natural systems rather than against them",this approach,request-65-1-0
+this approach,fungi help in decomposing organic matter and making nutrients available to plants,request-65-1-1
+fungi help in decomposing organic matter and making nutrients available to plants,this improved nutrient availability promotes plant growth and health,request-65-1-2
+this improved nutrient availability promotes plant growth and health,"healthier plants lead to improved ecosystem function and structure, contributing to ecosystem remediation",request-65-1-3
+"permaculture is applied, which emphasizes the use of renewable resources and minimizing waste",this principle,request-65-2-0
+this principle,"mushroom cultivation produces organic waste, which can be composted",request-65-2-1
+"mushroom cultivation produces organic waste, which can be composted",composting improves soil structure and fertility,request-65-2-2
+composting improves soil structure and fertility,enhanced soil fertility promotes plant growth and supports a more robust ecosystem,request-65-2-3
+enhanced soil fertility promotes plant growth and supports a more robust ecosystem,this stronger ecosystem contributes to the remediation of the ecosystem as a whole,request-65-2-4
+drought occurs,crops fail due to lack of rain,request-66-0-0
+crops fail due to lack of rain,"food supplies decrease, leading to famine",request-66-0-1
+"food supplies decrease, leading to famine","hunger becomes widespread, causing malnutrition and starvation",request-66-0-2
+"hunger becomes widespread, causing malnutrition and starvation","people migrate in search of food and water, putting pressure on resources in other areas",request-66-0-3
+"people migrate in search of food and water, putting pressure on resources in other areas",conflicts arise between migrating populations and local communities over resources such as land and water,request-66-0-4
+conflicts arise between migrating populations and local communities over resources such as land and water,these conflicts escalate into violent clashes and skirmishes,request-66-0-5
+these conflicts escalate into violent clashes and skirmishes,"wars break out, causing millions of deaths",request-66-0-6
+drought occurs,"water sources dry up, causing severe thirst",request-66-1-0
+"water sources dry up, causing severe thirst","people become desperate for water, leading to societal unrest",request-66-1-1
+"people become desperate for water, leading to societal unrest",conflicts erupt between communities and nations over control of remaining water sources,request-66-1-2
+conflicts erupt between communities and nations over control of remaining water sources,"these conflicts intensify and spread, leading to fullblown wars",request-66-1-3
+"these conflicts intensify and spread, leading to fullblown wars",millions of people die as a result of the wars,request-66-1-4
+drought occurs,pastures and grazing lands become scarce and infertile,request-66-2-0
+pastures and grazing lands become scarce and infertile,livestock die off due to lack of food and water,request-66-2-1
+livestock die off due to lack of food and water,nomadic herders lose their primary source of income and sustenance,request-66-2-2
+nomadic herders lose their primary source of income and sustenance,"herders migrate to other areas, causing tension and competition with local populations",request-66-2-3
+"herders migrate to other areas, causing tension and competition with local populations",resource conflicts escalate into violent clashes and wars,request-66-2-4
+resource conflicts escalate into violent clashes and wars,millions of people perish in the resulting conflicts,request-66-2-5
+fuel,> combustion,request-67-0-0
+> combustion,> energy production,request-67-0-1
+> energy production,> emissions,request-67-0-2
+fuel,> transportation,request-67-1-0
+> transportation,> vehicle movement,request-67-1-1
+> vehicle movement,> emissions,request-67-1-2
+fuel,> storage,request-67-2-0
+> storage,> leakage,request-67-2-1
+> leakage,> emissions,request-67-2-2
+fuel,> processing,request-67-3-0
+> processing,> chemical reactions,request-67-3-1
+> chemical reactions,> emissions,request-67-3-2
+canada has high per capita greenhouse gas emissions,high per capita emissions contribute to the country's overall emissions,request-68-0-0
+high per capita emissions contribute to the country's overall emissions,canada's overall emissions account for a significant portion of global emissions,request-68-0-1
+canada's overall emissions account for a significant portion of global emissions,1% of global emissions is a small but significant portion of the total,request-68-0-2
+1% of global emissions is a small but significant portion of the total,"therefore, canada's high per capita emissions contribute to 1% of global emissions",request-68-0-3
+canada has a large and robust economy,a large economy requires substantial energy to function,request-68-1-0
+a large economy requires substantial energy to function,canada's energy needs are primarily met by burning fossil fuels,request-68-1-1
+canada's energy needs are primarily met by burning fossil fuels,fossil fuel combustion releases greenhouse gases into the atmosphere,request-68-1-2
+fossil fuel combustion releases greenhouse gases into the atmosphere,canada's greenhouse gas emissions make up a significant portion of global emissions,request-68-1-3
+canada's greenhouse gas emissions make up a significant portion of global emissions,1% of global emissions is a small but significant portion of the total,request-68-1-4
+1% of global emissions is a small but significant portion of the total,"therefore, canada's large economy and reliance on fossil fuels contribute to 1% of global emissions",request-68-1-5
+canada has a large landmass with a relatively small population,this,request-68-2-0
+this,low population density encourages carcentric urban planning and transportation infrastructure,request-68-2-1
+low population density encourages carcentric urban planning and transportation infrastructure,carcentric infrastructure,request-68-2-2
+carcentric infrastructure,"canada's overall emissions, including those from transportation, account for a significant portion of global emissions",request-68-2-3
+"canada's overall emissions, including those from transportation, account for a significant portion of global emissions",1% of global emissions is a small but significant portion of the total,request-68-2-4
+1% of global emissions is a small but significant portion of the total,"therefore, canada's low population density and carcentric infrastructure contribute to 1% of global emissions",request-68-2-5
+fossil fuel combustion,greenhouse gas emissions,request-69-0-0
+greenhouse gas emissions,global warming,request-69-0-1
+global warming,climate change,request-69-0-2
+climate change,increased frequency and intensity of extreme weather events,request-69-0-3
+increased frequency and intensity of extreme weather events,disrupted access to food and clean water,request-69-0-4
+disrupted access to food and clean water,increased malnutrition and waterborne diseases,request-69-0-5
+increased malnutrition and waterborne diseases,1/5 of all worldwide deaths,request-69-0-6
+fossil fuel combustion,air pollution,request-69-1-0
+air pollution,respiratory diseases,request-69-1-1
+respiratory diseases,1/5 of all worldwide deaths,request-69-1-2
+fossil fuel combustion,air pollution,request-69-2-0
+air pollution,cardiovascular diseases,request-69-2-1
+cardiovascular diseases,1/5 of all worldwide deaths,request-69-2-2
+fossil fuel combustion,air pollution,request-69-3-0
+air pollution,stroke,request-69-3-1
+stroke,1/5 of all worldwide deaths,request-69-3-2
+fossil fuel combustion,fossil fuel extraction,request-69-4-0
+fossil fuel extraction,industrial accidents and occupational diseases,request-69-4-1
+industrial accidents and occupational diseases,1/5 of all worldwide deaths,request-69-4-2
+fossil fuel combustion,fossil fuel extraction,request-69-5-0
+fossil fuel extraction,conflict over resources,request-69-5-1
+conflict over resources,war and violence,request-69-5-2
+war and violence,1/5 of all worldwide deaths,request-69-5-3
+fossil fuel combustion,fossil fuel extraction,request-69-6-0
+fossil fuel extraction,economic inequality,request-69-6-1
+economic inequality,poverty and hunger,request-69-6-2
+poverty and hunger,1/5 of all worldwide deaths,request-69-6-3
+loss of land in farms due to turbines,decrease in farm size,request-70-0-0
+decrease in farm size,reduced crop yield due to smaller farm size,request-70-0-1
+reduced crop yield due to smaller farm size,decreased income for farmers,request-70-0-2
+decreased income for farmers,economic hardship for farmers,request-70-0-3
+economic hardship for farmers,potential loss of production due to economic hardship,request-70-0-4
+loss of land in farms due to turbines,decrease in grazing land for livestock,request-70-1-0
+decrease in grazing land for livestock,reduced livestock population,request-70-1-1
+reduced livestock population,decreased meat and dairy production,request-70-1-2
+decreased meat and dairy production,loss of production,request-70-1-3
+loss of land in farms due to turbines,decrease in farm size,request-70-2-0
+decrease in farm size,increased use of fertilizers and pesticides to maintain yield,request-70-2-1
+increased use of fertilizers and pesticides to maintain yield,environmental degradation,request-70-2-2
+environmental degradation,soil erosion and nutrient depletion,request-70-2-3
+soil erosion and nutrient depletion,reduced crop yield due to soil degradation,request-70-2-4
+reduced crop yield due to soil degradation,decreased income for farmers,request-70-2-5
+decreased income for farmers,economic hardship for farmers,request-70-2-6
+economic hardship for farmers,potential loss of production due to economic hardship,request-70-2-7
+loss of land in farms due to turbines,decrease in farm size,request-70-3-0
+decrease in farm size,increased farming costs due to smaller scale operations,request-70-3-1
+increased farming costs due to smaller scale operations,decreased profit margins,request-70-3-2
+decreased profit margins,farmers unable to invest in modern technologies and practices,request-70-3-3
+farmers unable to invest in modern technologies and practices,reduced productivity and efficiency,request-70-3-4
+reduced productivity and efficiency,loss of production,request-70-3-5
+humans use fossil fuels for energy,fossil fuel combustion releases carbon dioxide  into the atmosphere,request-71-0-0
+fossil fuel combustion releases carbon dioxide  into the atmosphere,"increased co2 concentrations trap more heat, leading to global warming",request-71-0-1
+"increased co2 concentrations trap more heat, leading to global warming",global warming contributes to climate change,request-71-0-2
+humans deforest land for agriculture and urban development,deforestation reduces the number of trees available to absorb co2,request-71-1-0
+deforestation reduces the number of trees available to absorb co2,decreased co2 absorption,request-71-1-1
+decreased co2 absorption,"increased co2 concentrations trap more heat, leading to global warming",request-71-1-2
+"increased co2 concentrations trap more heat, leading to global warming",global warming contributes to climate change,request-71-1-3
+"humans produce and discard waste, including plastics and other nonbiodegradable materials","waste incineration releases heattrapping greenhouse gases, such as methane and nitrous oxide, into the atmosphere",request-71-2-0
+"waste incineration releases heattrapping greenhouse gases, such as methane and nitrous oxide, into the atmosphere","increased greenhouse gas concentrations trap more heat, leading to global warming",request-71-2-1
+"increased greenhouse gas concentrations trap more heat, leading to global warming",global warming contributes to climate change,request-71-2-2
+humans use refrigerants in cooling systems,leaks and improper disposal of refrigerants release hydrofluorocarbons  into the atmosphere,request-71-3-0
+leaks and improper disposal of refrigerants release hydrofluorocarbons  into the atmosphere,hfcs are potent greenhouse gases that trap heat in the atmosphere,request-71-3-1
+hfcs are potent greenhouse gases that trap heat in the atmosphere,increased greenhouse gas concentrations contribute to global warming,request-71-3-2
+increased greenhouse gas concentrations contribute to global warming,global warming contributes to climate change,request-71-3-3
+co2 dumping,increased atmospheric co2 concentration,request-72-0-0
+increased atmospheric co2 concentration,enhanced greenhouse effect,request-72-0-1
+enhanced greenhouse effect,trapping of more heat in the atmosphere,request-72-0-2
+trapping of more heat in the atmosphere,global warming,request-72-0-3
+global warming,increased average temperature,request-72-0-4
+increased average temperature,warmth,request-72-0-5
+co2 dumping,increased atmospheric co2 concentration,request-72-1-0
+increased atmospheric co2 concentration,enhanced greenhouse effect,request-72-1-1
+enhanced greenhouse effect,melting of sea ice,request-72-1-2
+melting of sea ice,reduced reflection of sunlight,request-72-1-3
+reduced reflection of sunlight,increased absorption of heat by oceans,request-72-1-4
+increased absorption of heat by oceans,warmth,request-72-1-5
+co2 dumping,increased atmospheric co2 concentration,request-72-2-0
+increased atmospheric co2 concentration,enhanced greenhouse effect,request-72-2-1
+enhanced greenhouse effect,changes in ocean currents,request-72-2-2
+changes in ocean currents,modified weather patterns,request-72-2-3
+modified weather patterns,increased frequency of heatwaves,request-72-2-4
+increased frequency of heatwaves,warmth,request-72-2-5
+higher concentrations of co2,increased global temperatures due to enhanced greenhouse effect,request-73-0-0
+increased global temperatures due to enhanced greenhouse effect,"altered precipitation patterns, including increased rainfall in some regions",request-73-0-1
+"altered precipitation patterns, including increased rainfall in some regions",increased plant growth and biomass production in those regions due to additional water and co2,request-73-0-2
+increased plant growth and biomass production in those regions due to additional water and co2,"increased leaf area index , leading to surface greening",request-73-0-3
+"increased leaf area index , leading to surface greening",enhanced convective activity due to increased latent heat release from more vegetation,request-73-0-4
+enhanced convective activity due to increased latent heat release from more vegetation,surface greening acting as a convective refrigerant,request-73-0-5
+higher concentrations of co2,increased global temperatures,request-73-1-0
+increased global temperatures,lengthened growing seasons in some regions due to earlier springs and later falls,request-73-1-1
+lengthened growing seasons in some regions due to earlier springs and later falls,increased plant growth and biomass production due to longer growing seasons,request-73-1-2
+increased plant growth and biomass production due to longer growing seasons,"increased leaf area index , leading to surface greening",request-73-1-3
+"increased leaf area index , leading to surface greening",enhanced convective activity due to increased latent heat release from more vegetation,request-73-1-4
+enhanced convective activity due to increased latent heat release from more vegetation,surface greening acting as a convective refrigerant,request-73-1-5
+higher concentrations of co2,increased global temperatures,request-73-2-0
+increased global temperatures,"increased frequency and intensity of extreme weather events, including droughts and heatwaves",request-73-2-1
+"increased frequency and intensity of extreme weather events, including droughts and heatwaves",selective survival and growth of more droughttolerant and heatresistant plant species,request-73-2-2
+selective survival and growth of more droughttolerant and heatresistant plant species,"increased leaf area index  of these species, leading to surface greening",request-73-2-3
+"increased leaf area index  of these species, leading to surface greening",enhanced convective activity due to increased latent heat release from more vegetation,request-73-2-4
+enhanced convective activity due to increased latent heat release from more vegetation,surface greening acting as a convective refrigerant,request-73-2-5
+humans use fossil fuels for energy,fossil fuel combustion releases carbon dioxide  into the atmosphere,request-74-0-0
+fossil fuel combustion releases carbon dioxide  into the atmosphere,"increased co2 concentrations trap more heat, leading to global warming",request-74-0-1
+"increased co2 concentrations trap more heat, leading to global warming",global warming contributes to climate change,request-74-0-2
+humans deforest land for agriculture and urban development,deforestation reduces the number of trees available to absorb co2,request-74-1-0
+deforestation reduces the number of trees available to absorb co2,decreased co2 absorption,request-74-1-1
+decreased co2 absorption,"increased co2 concentrations trap more heat, leading to global warming",request-74-1-2
+"increased co2 concentrations trap more heat, leading to global warming",global warming contributes to climate change,request-74-1-3
+"humans produce and discard waste, including plastics and other nonbiodegradable materials","waste incineration releases heattrapping greenhouse gases, such as methane and nitrous oxide, into the atmosphere",request-74-2-0
+"waste incineration releases heattrapping greenhouse gases, such as methane and nitrous oxide, into the atmosphere","increased greenhouse gas concentrations trap more heat, leading to global warming",request-74-2-1
+"increased greenhouse gas concentrations trap more heat, leading to global warming",global warming contributes to climate change,request-74-2-2
+humans use refrigerants in cooling systems,leaks and improper disposal of refrigerants release hydrofluorocarbons  into the atmosphere,request-74-3-0
+leaks and improper disposal of refrigerants release hydrofluorocarbons  into the atmosphere,hfcs are potent greenhouse gases that trap heat in the atmosphere,request-74-3-1
+hfcs are potent greenhouse gases that trap heat in the atmosphere,increased greenhouse gas concentrations contribute to global warming,request-74-3-2
+increased greenhouse gas concentrations contribute to global warming,global warming contributes to climate change,request-74-3-3
+humans release greenhouse gases into the atmosphere,greenhouse gases trap heat in the atmosphere,request-75-0-0
+greenhouse gases trap heat in the atmosphere,the trapped heat warms the earth's surface,request-75-0-1
+the trapped heat warms the earth's surface,the warmed surface,request-75-0-2
+humans release greenhouse gases into the atmosphere,greenhouse gases increase the atmospheric carbon dioxide levels,request-75-1-0
+greenhouse gases increase the atmospheric carbon dioxide levels,carbon dioxide promotes the growth of plants through photosynthesis,request-75-1-1
+carbon dioxide promotes the growth of plants through photosynthesis,the increased plant growth,request-75-1-2
+the increased plant growth,"this biomass decomposes and releases heat, contributing to an increase in heat retention on earth",request-75-1-3
+humans release greenhouse gases into the atmosphere,"greenhouse gases, particularly carbon dioxide, dissolve in ocean water",request-75-2-0
+"greenhouse gases, particularly carbon dioxide, dissolve in ocean water",this increases the acidity of the oceans,request-75-2-1
+this increases the acidity of the oceans,ocean acidification reduces the ability of plankton and corals to produce calcium carbonate shells,request-75-2-2
+ocean acidification reduces the ability of plankton and corals to produce calcium carbonate shells,the reduced shell production,request-75-2-3
+humans release greenhouse gases into the atmosphere,"greenhouse gases, including methane, are released from human activities like agriculture and waste management",request-75-3-0
+"greenhouse gases, including methane, are released from human activities like agriculture and waste management","methane is a potent greenhouse gas, trapping more heat than carbon dioxide",request-75-3-1
+"methane is a potent greenhouse gas, trapping more heat than carbon dioxide",the increased heat trapped by methane contributes to an increase in heat retention on earth,request-75-3-2
+humans release greenhouse gases into the atmosphere,"greenhouse gases, including nitrous oxide, are produced by human activities like agriculture and industry",request-75-4-0
+"greenhouse gases, including nitrous oxide, are produced by human activities like agriculture and industry",nitrous oxide is a longlived greenhouse gas that traps heat over a long period,request-75-4-1
+nitrous oxide is a longlived greenhouse gas that traps heat over a long period,the heat trapped by nitrous oxide contributes to an increase in heat retention on earth,request-75-4-2
+reducing individual carbon footprint,decreases personal energy consumption,request-76-0-0
+decreases personal energy consumption,leads to lower demand for fossil fuels,request-76-0-1
+leads to lower demand for fossil fuels,results in reduced emissions from power plants,request-76-0-2
+results in reduced emissions from power plants,contributes to slower global temperature rise,request-76-0-3
+contributes to slower global temperature rise,helps mitigate climate change,request-76-0-4
+reducing individual carbon footprint,encourages sustainable transportation choices,request-76-1-0
+encourages sustainable transportation choices,decreases emissions from the transportation sector,request-76-1-1
+decreases emissions from the transportation sector,contributes to lower overall greenhouse gas emissions,request-76-1-2
+contributes to lower overall greenhouse gas emissions,slows down global warming,request-76-1-3
+slows down global warming,assists in combating climate change,request-76-1-4
+reducing individual carbon footprint,promotes energyefficient practices at home,request-76-2-0
+promotes energyefficient practices at home,leads to lower home energy consumption,request-76-2-1
+leads to lower home energy consumption,decreases demand for electricity from nonrenewable sources,request-76-2-2
+decreases demand for electricity from nonrenewable sources,encourages investment in renewable energy infrastructure,request-76-2-3
+encourages investment in renewable energy infrastructure,increases reliance on clean energy sources,request-76-2-4
+increases reliance on clean energy sources,helps reduce the impact of climate change,request-76-2-5
+china's increasing international trade,an expansion of industrial activities within the country,request-77-0-0
+an expansion of industrial activities within the country,which results in,request-77-0-1
+which results in,a significant increase in energy consumption,request-77-0-2
+a significant increase in energy consumption,due to the high energy demand of these industries,request-77-0-3
+due to the high energy demand of these industries,primarily powered by coal,request-77-0-4
+primarily powered by coal,leading to,request-77-0-5
+leading to,a substantial rise in greenhouse gas emissions,request-77-0-6
+a substantial rise in greenhouse gas emissions,accounting for,request-77-0-7
+accounting for,13% of the world's total emissions,request-77-0-8
+china's international trade growth fosters,the development of infrastructure,request-77-1-0
+the development of infrastructure,to support and facilitate this trade,request-77-1-1
+to support and facilitate this trade,which,request-77-1-2
+which,an increased use of cement and steel,request-77-1-3
+an increased use of cement and steel,for construction,request-77-1-4
+for construction,resulting in,request-77-1-5
+resulting in,a significant increase in emissions from the production of these materials,request-77-1-6
+a significant increase in emissions from the production of these materials,contributing to,request-77-1-7
+contributing to,13% of the world's total emissions,request-77-1-8
+china's growing international trade necessitates,the transportation of goods,request-77-2-0
+the transportation of goods,leading to,request-77-2-1
+leading to,an increase in the number of ships and trucks,request-77-2-2
+an increase in the number of ships and trucks,resulting in,request-77-2-3
+resulting in,a rise in emissions from these modes of transport,request-77-2-4
+a rise in emissions from these modes of transport,which contributes to,request-77-2-5
+which contributes to,13% of the world's total emissions,request-77-2-6
+increased co2 levels,trapping more heat in the atmosphere,request-78-0-0
+trapping more heat in the atmosphere,rising global temperatures,request-78-0-1
+rising global temperatures,melting of ice caps and glaciers,request-78-0-2
+melting of ice caps and glaciers,sea level rise,request-78-0-3
+sea level rise,"increased frequency and intensity of heatwaves, storms, and other extreme weather events",request-78-0-4
+"increased frequency and intensity of heatwaves, storms, and other extreme weather events",disruption of ecosystems and habitats,request-78-0-5
+disruption of ecosystems and habitats,changes in precipitation patterns,request-78-0-6
+changes in precipitation patterns,impacts on agriculture and food security,request-78-0-7
+impacts on agriculture and food security,runaway global warming,request-78-0-8
+increased co2 levels,trapping more heat in the atmosphere,request-78-1-0
+trapping more heat in the atmosphere,rising global temperatures,request-78-1-1
+rising global temperatures,thawing of permafrost,request-78-1-2
+thawing of permafrost,release of stored carbon dioxide and methane,request-78-1-3
+release of stored carbon dioxide and methane,feedback loop: further increase in greenhouse gases,request-78-1-4
+feedback loop: further increase in greenhouse gases,accelerated global warming,request-78-1-5
+accelerated global warming,runaway global warming,request-78-1-6
+increased co2 levels,trapping more heat in the atmosphere,request-78-2-0
+trapping more heat in the atmosphere,rising global temperatures,request-78-2-1
+rising global temperatures,changes in ocean currents,request-78-2-2
+changes in ocean currents,disruption of ocean ecosystems,request-78-2-3
+disruption of ocean ecosystems,reduced ocean absorption of co2,request-78-2-4
+reduced ocean absorption of co2,feedback loop: further increase in atmospheric co2,request-78-2-5
+feedback loop: further increase in atmospheric co2,accelerated global warming,request-78-2-6
+accelerated global warming,runaway global warming,request-78-2-7
+increased co2 levels,trapping more heat in the atmosphere,request-78-3-0
+trapping more heat in the atmosphere,rising global temperatures,request-78-3-1
+rising global temperatures,changes in cloud formation,request-78-3-2
+changes in cloud formation,reduced reflection of sunlight,request-78-3-3
+reduced reflection of sunlight,feedback loop: further increase in global temperatures,request-78-3-4
+feedback loop: further increase in global temperatures,accelerated global warming,request-78-3-5
+accelerated global warming,runaway global warming,request-78-3-6
+global warming causes increased temperatures,increased temperatures lead to more frequent and severe heatwaves,request-79-0-0
+increased temperatures lead to more frequent and severe heatwaves,heatwaves reduce crop yields by damaging plants and disrupting pollination,request-79-0-1
+heatwaves reduce crop yields by damaging plants and disrupting pollination,reduced crop yields lead to food shortages,request-79-0-2
+global warming causes shifts in precipitation patterns,shifts in precipitation patterns lead to increased droughts in some regions,request-79-1-0
+shifts in precipitation patterns lead to increased droughts in some regions,droughts reduce crop yields by causing water stress in plants,request-79-1-1
+droughts reduce crop yields by causing water stress in plants,reduced crop yields lead to food shortages,request-79-1-2
+global warming causes the melting of sea ice and glaciers,the melting of sea ice and glaciers,request-79-2-0
+the melting of sea ice and glaciers,rising sea levels cause saltwater intrusion into freshwater aquifers used for irrigation,request-79-2-1
+rising sea levels cause saltwater intrusion into freshwater aquifers used for irrigation,saltwater intrusion reduces the quality and quantity of water available for irrigation,request-79-2-2
+saltwater intrusion reduces the quality and quantity of water available for irrigation,reduced water availability for irrigation,request-79-2-3
+reduced water availability for irrigation,reduced crop yields lead to food shortages,request-79-2-4
+"global warming causes changes in the timing of biological events, such as spring and autumn","changes in the timing of biological events lead to a phenomenon known as ""phenological mismatch""",request-79-3-0
+"changes in the timing of biological events lead to a phenomenon known as ""phenological mismatch""",phenological mismatch occurs when the timing of plant flowering and insect activity becomes misaligned,request-79-3-1
+phenological mismatch occurs when the timing of plant flowering and insect activity becomes misaligned,"this misalignment reduces pollination rates, leading to reduced crop yields",request-79-3-2
+"this misalignment reduces pollination rates, leading to reduced crop yields",reduced crop yields lead to food shortages,request-79-3-3
+global warming causes increased frequency and intensity of extreme weather events,"extreme weather events, such as storms and floods, damage agricultural infrastructure and crops",request-79-4-0
+"extreme weather events, such as storms and floods, damage agricultural infrastructure and crops",damaged infrastructure and crops lead to reduced crop yields,request-79-4-1
+damaged infrastructure and crops lead to reduced crop yields,reduced crop yields lead to food shortages,request-79-4-2
+minor fluctuations in ambient temperature,cause changes in local weather patterns,request-80-0-0
+cause changes in local weather patterns,changes in weather patterns affect crop yields,request-80-0-1
+changes in weather patterns affect crop yields,reduced crop yields lead to food scarcity,request-80-0-2
+reduced crop yields lead to food scarcity,food scarcity causes increased food prices,request-80-0-3
+food scarcity causes increased food prices,increased food prices trigger mass hunger,request-80-0-4
+increased food prices trigger mass hunger,mass hunger forces people to seek alternative food sources or migrate,request-80-0-5
+mass hunger forces people to seek alternative food sources or migrate,mass migration puts pressure on resources in destination areas,request-80-0-6
+mass migration puts pressure on resources in destination areas,resource pressure,request-80-0-7
+resource pressure,"conflict and instability force people to flee their homes, leading to forced migration of billions",request-80-0-8
+minor fluctuations in ambient temperature,cause changes in local weather patterns,request-80-1-0
+cause changes in local weather patterns,changes in weather patterns affect water resources,request-80-1-1
+changes in weather patterns affect water resources,reduced water resources lead to water scarcity,request-80-1-2
+reduced water resources lead to water scarcity,water scarcity causes increased competition for resources,request-80-1-3
+water scarcity causes increased competition for resources,increased competition,request-80-1-4
+increased competition,"conflict forces people to flee their homes, leading to forced migration of billions",request-80-1-5
+"mining operations begin, causing","environmental degradation, which",request-81-0-0
+"environmental degradation, which","soil erosion, resulting in",request-81-0-1
+"soil erosion, resulting in","clogging of water sources, thus",request-81-0-2
+"clogging of water sources, thus",jeopardizing access to water for affected communities,request-81-0-3
+"mining activities commence, leading to","destruction of natural landscapes, which in turn",request-81-1-0
+"destruction of natural landscapes, which in turn","alters local water cycles, causing",request-81-1-1
+"alters local water cycles, causing","reduced water flow in nearby rivers and streams, and",request-81-1-2
+"reduced water flow in nearby rivers and streams, and",eventually jeopardizing access to water for affected communities,request-81-1-3
+"mining operations start, causing","chemical contamination of the environment, which",request-81-2-0
+"chemical contamination of the environment, which","poisons local water sources, leading to",request-81-2-1
+"poisons local water sources, leading to","unsafe drinking water, and ultimately",request-81-2-2
+"unsafe drinking water, and ultimately",jeopardizing access to water for affected communities,request-81-2-3
+"mining activities begin, resulting in","the construction of mine infrastructure, which",request-81-3-0
+"the construction of mine infrastructure, which","requires large amounts of water, causing",request-81-3-1
+"requires large amounts of water, causing","reduced water availability for local communities, and",request-81-3-2
+"reduced water availability for local communities, and",eventually jeopardizing their access to water,request-81-3-3
+approximately 22 million litres of water is pumped from a lithiumrich brine reservoir,the water is then directed to a series of evaporation ponds,request-82-0-0
+the water is then directed to a series of evaporation ponds,"in the evaporation ponds, the water is left to evaporate under the sun",request-82-0-1
+"in the evaporation ponds, the water is left to evaporate under the sun","as the water evaporates, the lithium concentration in the remaining brine increases",request-82-0-2
+"as the water evaporates, the lithium concentration in the remaining brine increases",the concentrated brine is then pumped to a processing plant,request-82-0-3
+the concentrated brine is then pumped to a processing plant,"in the processing plant, the brine is treated with chemicals to precipitate out the lithium as a solid compound",request-82-0-4
+"in the processing plant, the brine is treated with chemicals to precipitate out the lithium as a solid compound",the lithium compound is then filtered out and processed further to extract pure lithium,request-82-0-5
+the lithium compound is then filtered out and processed further to extract pure lithium,"after multiple processing steps, approximately one ton of extracted lithium is obtained",request-82-0-6
+approximately 22 million litres of water is pumped from a lithiumrich brine reservoir,the water is directed to a direct lithium extraction  plant,request-82-1-0
+the water is directed to a direct lithium extraction  plant,"in the dle plant, the brine is passed through a series of filters and membranes to selectively remove the lithium",request-82-1-1
+"in the dle plant, the brine is passed through a series of filters and membranes to selectively remove the lithium",the lithiumrich permeate is then further processed to extract pure lithium,request-82-1-2
+the lithiumrich permeate is then further processed to extract pure lithium,"after multiple processing steps, approximately one ton of extracted lithium is obtained",request-82-1-3
+approximately 22 million litres of water is pumped from a lithiumrich brine reservoir,the water is pumped to a solar evaporation pond with a lithium extraction system,request-82-2-0
+the water is pumped to a solar evaporation pond with a lithium extraction system,"in this system, as the water evaporates, lithium is selectively removed and concentrated using a lithiumselective sorbent material",request-82-2-1
+"in this system, as the water evaporates, lithium is selectively removed and concentrated using a lithiumselective sorbent material",the concentrated lithium is then recovered from the sorbent material and processed further to extract pure lithium,request-82-2-2
+the concentrated lithium is then recovered from the sorbent material and processed further to extract pure lithium,"after multiple processing steps, approximately one ton of extracted lithium is obtained",request-82-2-3
+lithium extraction,environmental degradation of lithium mining site,request-83-0-0
+environmental degradation of lithium mining site,contamination of local water sources,request-83-0-1
+contamination of local water sources,reduction in water quality,request-83-0-2
+reduction in water quality,increased competition for clean water,request-83-0-3
+increased competition for clean water,waterrelated conflicts,request-83-0-4
+lithium extraction,increased demand for lithium due to electric vehicle production,request-83-1-0
+increased demand for lithium due to electric vehicle production,expansion of lithium mining operations,request-83-1-1
+expansion of lithium mining operations,increased water usage for new mining operations,request-83-1-2
+increased water usage for new mining operations,depletion of local water resources,request-83-1-3
+depletion of local water resources,waterrelated conflicts,request-83-1-4
+lithium extraction,accumulation of mining waste,request-83-2-0
+accumulation of mining waste,leaching of toxic chemicals into groundwater,request-83-2-1
+leaching of toxic chemicals into groundwater,contamination of local water sources,request-83-2-2
+contamination of local water sources,health issues related to contaminated water,request-83-2-3
+health issues related to contaminated water,waterrelated conflicts,request-83-2-4
+lithium extraction,disruption of local ecosystems due to mining,request-83-3-0
+disruption of local ecosystems due to mining,alteration of local weather patterns,request-83-3-1
+alteration of local weather patterns,changes in rainfall patterns,request-83-3-2
+changes in rainfall patterns,drought or flooding events,request-83-3-3
+drought or flooding events,waterrelated conflicts,request-83-3-4
+lithium extraction,economic benefits from lithium mining,request-83-4-0
+economic benefits from lithium mining,increased investment in the region,request-83-4-1
+increased investment in the region,gentrification and displacement of local communities,request-83-4-2
+gentrification and displacement of local communities,loss of traditional water access and rights,request-83-4-3
+loss of traditional water access and rights,waterrelated conflicts,request-83-4-4
+human intervention in natural processes,disruption of ecosystem balance,request-84-0-0
+disruption of ecosystem balance,loss of biodiversity,request-84-0-1
+loss of biodiversity,reduced ecosystem resilience,request-84-0-2
+reduced ecosystem resilience,increased vulnerability to natural disasters,request-84-0-3
+increased vulnerability to natural disasters,"dangers: loss of life, property damage",request-84-0-4
+human intervention in natural processes,exploitation of natural resources,request-84-1-0
+exploitation of natural resources,resource depletion,request-84-1-1
+resource depletion,economic instability,request-84-1-2
+economic instability,social unrest,request-84-1-3
+social unrest,"dangers: conflict, political instability",request-84-1-4
+human intervention in natural processes,introduction of invasive species,request-84-2-0
+introduction of invasive species,disruption of local food chains,request-84-2-1
+disruption of local food chains,spread of diseases,request-84-2-2
+spread of diseases,decline in native species populations,request-84-2-3
+decline in native species populations,"dangers: ecological collapse, loss of ecosystem services",request-84-2-4
+human intervention in natural processes,soil erosion,request-84-3-0
+soil erosion,loss of fertile land,request-84-3-1
+loss of fertile land,food insecurity,request-84-3-2
+food insecurity,malnutrition and hunger,request-84-3-3
+malnutrition and hunger,"dangers: health issues, social unrest",request-84-3-4
+human intervention in natural processes,climate change,request-84-4-0
+climate change,rising temperatures,request-84-4-1
+rising temperatures,melting of polar ice,request-84-4-2
+melting of polar ice,sea level rise,request-84-4-3
+sea level rise,"dangers: coastal flooding, loss of habitats, displacement of people",request-84-4-4
+soil damage from lithium extraction causes,"excess water use for extraction, leading to",request-85-0-0
+"excess water use for extraction, leading to","decreased water flow in rivers, resulting in",request-85-0-1
+"decreased water flow in rivers, resulting in","reduced riverbank vegetation, which in turn causes",request-85-0-2
+"reduced riverbank vegetation, which in turn causes","erosion and sediment runoff into rivers, leading to",request-85-0-3
+"erosion and sediment runoff into rivers, leading to","increased turbidity in river water, causing",request-85-0-4
+"increased turbidity in river water, causing","reduced sunlight penetration and photosynthesis, leading to",request-85-0-5
+"reduced sunlight penetration and photosynthesis, leading to","decreased oxygen production, resulting in",request-85-0-6
+"decreased oxygen production, resulting in","hypoxia and fish kills, which causes",request-85-0-7
+"hypoxia and fish kills, which causes","nutrient release from decaying organic matter, leading to",request-85-0-8
+"nutrient release from decaying organic matter, leading to","algal blooms, which result in",request-85-0-9
+"algal blooms, which result in",air contamination from released volatile organic compounds,request-85-0-10
+soil damage from lithium extraction causes,"exposure of heavy metals and other contaminants, leading to",request-85-1-0
+"exposure of heavy metals and other contaminants, leading to","groundwater contamination, which in turn causes",request-85-1-1
+"groundwater contamination, which in turn causes","contaminated groundwater to be pumped for irrigation, leading to",request-85-1-2
+"contaminated groundwater to be pumped for irrigation, leading to","contaminated farm produce, causing",request-85-1-3
+"contaminated farm produce, causing","release of volatile organic compounds during food processing, leading to",request-85-1-4
+"release of volatile organic compounds during food processing, leading to",air contamination,request-85-1-5
+soil damage from lithium extraction causes,"exposure of heavy metals and other contaminants, leading to",request-85-2-0
+"exposure of heavy metals and other contaminants, leading to","groundwater contamination, which in turn causes",request-85-2-1
+"groundwater contamination, which in turn causes","contaminated groundwater to be pumped for industrial use, leading to",request-85-2-2
+"contaminated groundwater to be pumped for industrial use, leading to","release of contaminants into the atmosphere during industrial processes, causing",request-85-2-3
+"release of contaminants into the atmosphere during industrial processes, causing",air contamination,request-85-2-4
+green co2 emissions,increase in atmospheric co2 concentration,request-86-0-0
+increase in atmospheric co2 concentration,enhanced greenhouse effect,request-86-0-1
+enhanced greenhouse effect,rise in global temperatures,request-86-0-2
+rise in global temperatures,global warming,request-86-0-3
+green co2 emissions,increase in atmospheric co2 concentration,request-86-1-0
+increase in atmospheric co2 concentration,ocean acidification,request-86-1-1
+ocean acidification,disruption of marine ecosystems,request-86-1-2
+disruption of marine ecosystems,changes in ocean currents,request-86-1-3
+changes in ocean currents,rise in global temperatures,request-86-1-4
+rise in global temperatures,global warming,request-86-1-5
+green co2 emissions,increase in atmospheric co2 concentration,request-86-2-0
+increase in atmospheric co2 concentration,changes in precipitation patterns,request-86-2-1
+changes in precipitation patterns,increased frequency of extreme weather events,request-86-2-2
+increased frequency of extreme weather events,global warming,request-86-2-3
+green co2 emissions,increase in atmospheric co2 concentration,request-86-3-0
+increase in atmospheric co2 concentration,reduction in arctic sea ice,request-86-3-1
+reduction in arctic sea ice,albedo effect,request-86-3-2
+albedo effect,rise in global temperatures,request-86-3-3
+rise in global temperatures,global warming,request-86-3-4
+green co2 emissions,increase in atmospheric co2 concentration,request-86-4-0
+increase in atmospheric co2 concentration,changes in cloud cover,request-86-4-1
+changes in cloud cover,alteration of earth's radiation balance,request-86-4-2
+alteration of earth's radiation balance,rise in global temperatures,request-86-4-3
+rise in global temperatures,global warming,request-86-4-4
+green co2 emissions,increase in atmospheric co2 concentration,request-86-5-0
+increase in atmospheric co2 concentration,impacts on plant and animal physiology,request-86-5-1
+impacts on plant and animal physiology,changes in species distribution and abundance,request-86-5-2
+changes in species distribution and abundance,disruption of ecosystems,request-86-5-3
+disruption of ecosystems,global warming,request-86-5-4
+gasoline burns in an engine,engine produces exhaust fumes,request-87-0-0
+engine produces exhaust fumes,exhaust fumes contain carbon dioxide,request-87-0-1
+exhaust fumes contain carbon dioxide,co2 is absorbed by plants during photosynthesis,request-87-0-2
+co2 is absorbed by plants during photosynthesis,plants are eaten by animals,request-87-0-3
+plants are eaten by animals,animals excrete methane as a byproduct of digestion,request-87-0-4
+animals excrete methane as a byproduct of digestion,methane  is released into the atmosphere,request-87-0-5
+gasoline burns in an engine,engine produces exhaust fumes,request-87-1-0
+engine produces exhaust fumes,exhaust fumes contain carbon dioxide,request-87-1-1
+exhaust fumes contain carbon dioxide,co2 is absorbed by oceans,request-87-1-2
+co2 is absorbed by oceans,oceans release methane into the atmosphere,request-87-1-3
+oceans release methane into the atmosphere,methane  is released into the atmosphere,request-87-1-4
+gasoline burns in an engine,engine produces exhaust fumes,request-87-2-0
+engine produces exhaust fumes,exhaust fumes contain carbon dioxide,request-87-2-1
+exhaust fumes contain carbon dioxide,co2 is absorbed by wetlands,request-87-2-2
+co2 is absorbed by wetlands,wetlands release methane into the atmosphere,request-87-2-3
+wetlands release methane into the atmosphere,methane  is released into the atmosphere,request-87-2-4
+gasoline burns in an engine,engine produces exhaust fumes,request-87-3-0
+engine produces exhaust fumes,exhaust fumes contain carbon dioxide,request-87-3-1
+exhaust fumes contain carbon dioxide,co2 is absorbed by permafrost,request-87-3-2
+co2 is absorbed by permafrost,permafrost thaws and releases methane,request-87-3-3
+permafrost thaws and releases methane,methane  is released into the atmosphere,request-87-3-4
+gasoline burns in an engine,engine produces exhaust fumes,request-87-4-0
+engine produces exhaust fumes,exhaust fumes contain carbon dioxide,request-87-4-1
+exhaust fumes contain carbon dioxide,co2 is absorbed by ruminant animals,request-87-4-2
+co2 is absorbed by ruminant animals,ruminant animals produce methane as a byproduct of digestion,request-87-4-3
+ruminant animals produce methane as a byproduct of digestion,methane  is released into the atmosphere,request-87-4-4
+cars emit exhaust fumes,exhaust fumes contain carbon dioxide,request-88-0-0
+exhaust fumes contain carbon dioxide,carbon dioxide contributes to global warming,request-88-0-1
+carbon dioxide contributes to global warming,global warming,request-88-0-2
+global warming,climate change causes more frequent and severe wildfires,request-88-0-3
+climate change causes more frequent and severe wildfires,wildfires release large amounts of smoke and particulate matter into the atmosphere,request-88-0-4
+wildfires release large amounts of smoke and particulate matter into the atmosphere,pollution increases,request-88-0-5
+cars emit exhaust fumes,exhaust fumes contain nitrogen oxides,request-88-1-0
+exhaust fumes contain nitrogen oxides,nitrogen oxides react with other chemicals in the air to form groundlevel ozone,request-88-1-1
+nitrogen oxides react with other chemicals in the air to form groundlevel ozone,smog is harmful to human health and the environment,request-88-1-2
+smog is harmful to human health and the environment,pollution increases,request-88-1-3
+cars emit exhaust fumes,exhaust fumes contain particulate matter,request-88-2-0
+exhaust fumes contain particulate matter,particulate matter is a mixture of solid and liquid droplets suspended in the air,request-88-2-1
+particulate matter is a mixture of solid and liquid droplets suspended in the air,particulate matter is harmful to human health and the environment,request-88-2-2
+particulate matter is harmful to human health and the environment,pollution increases,request-88-2-3
+cars emit exhaust fumes,exhaust fumes contribute to the depletion of the ozone layer,request-88-3-0
+exhaust fumes contribute to the depletion of the ozone layer,depletion of the ozone layer allows more ultraviolet  radiation to reach the earth's surface,request-88-3-1
+depletion of the ozone layer allows more ultraviolet  radiation to reach the earth's surface,"increased uv radiation has negative effects on human health, crops, and ecosystems",request-88-3-2
+"increased uv radiation has negative effects on human health, crops, and ecosystems",pollution increases,request-88-3-3
+trees grow densely,dead leaves and branches accumulate on the forest floor,request-89-0-0
+dead leaves and branches accumulate on the forest floor,highly flammable material builds up,request-89-0-1
+highly flammable material builds up,a lightning strike ignites the dry leaves and branches,request-89-0-2
+a lightning strike ignites the dry leaves and branches,forest fire starts,request-89-0-3
+trees are cut down for logging,dead trees and slash  are left behind,request-89-1-0
+dead trees and slash  are left behind,slash is not properly cleared or burned,request-89-1-1
+slash is not properly cleared or burned,accumulated slash becomes highly flammable,request-89-1-2
+accumulated slash becomes highly flammable,an abandoned campfire or a tossed cigarette starts a fire,request-89-1-3
+an abandoned campfire or a tossed cigarette starts a fire,forest fire begins,request-89-1-4
+trees are infested by pests or diseases,infected trees become weak and die,request-89-2-0
+infected trees become weak and die,dead trees remain standing,request-89-2-1
+dead trees remain standing,dead trees become highly flammable,request-89-2-2
+dead trees become highly flammable,a wildfire approaches the forest,request-89-2-3
+a wildfire approaches the forest,"dead trees act as fuel, intensifying the wildfire",request-89-2-4
+"dead trees act as fuel, intensifying the wildfire",forest fire spreads,request-89-2-5
+"trees are stressed by climate change, leading to droughts",droughts cause trees to lose their leaves earlier and become more flammable,request-89-3-0
+droughts cause trees to lose their leaves earlier and become more flammable,dead leaves and branches accumulate on the forest floor,request-89-3-1
+dead leaves and branches accumulate on the forest floor,a humancaused fire  starts,request-89-3-2
+a humancaused fire  starts,forest fire begins and spreads rapidly due to the dry conditions,request-89-3-3
+increase from 25% to 80% humidity,plants absorb more water through roots,request-90-0-0
+plants absorb more water through roots,soil becomes waterlogged,request-90-0-1
+soil becomes waterlogged,water table rises,request-90-0-2
+water table rises,basement floods,request-90-0-3
+basement floods,person enters flooded basement,request-90-0-4
+person enters flooded basement,person drowns,request-90-0-5
+increase from 25% to 80% humidity,plants absorb more water through roots,request-90-1-0
+plants absorb more water through roots,soil becomes waterlogged,request-90-1-1
+soil becomes waterlogged,water table rises,request-90-1-2
+water table rises,river overflows,request-90-1-3
+river overflows,flooding occurs,request-90-1-4
+flooding occurs,person is caught in floodwaters,request-90-1-5
+person is caught in floodwaters,person drowns,request-90-1-6
+increase from 25% to 80% humidity,plants absorb more water through roots,request-90-2-0
+plants absorb more water through roots,soil becomes waterlogged,request-90-2-1
+soil becomes waterlogged,water table rises,request-90-2-2
+water table rises,ground becomes unstable,request-90-2-3
+ground becomes unstable,landslide occurs,request-90-2-4
+landslide occurs,person is buried in landslide,request-90-2-5
+person is buried in landslide,person drowns in rising water,request-90-2-6
+"trees die and decompose, releasing stored carbon as co2","increased co2 levels in the atmosphere trap more heat, contributing to global warming",request-91-0-0
+"increased co2 levels in the atmosphere trap more heat, contributing to global warming","trees die and are not replaced, leading to deforestation",request-91-0-1
+"trees die and are not replaced, leading to deforestation","deforestation reduces the earth's ability to absorb co2, leading to increased co2 levels in the atmosphere",request-91-0-2
+"deforestation reduces the earth's ability to absorb co2, leading to increased co2 levels in the atmosphere","increased co2 levels in the atmosphere trap more heat, contributing to global warming",request-91-0-3
+"increased co2 levels in the atmosphere trap more heat, contributing to global warming","trees die and their stored carbon is burned as biomass for energy, releasing co2",request-91-0-4
+"trees die and their stored carbon is burned as biomass for energy, releasing co2","increased co2 levels in the atmosphere trap more heat, contributing to global warming",request-91-0-5
+"increased co2 levels in the atmosphere trap more heat, contributing to global warming",trees die and their stored carbon is released as methane  through microbial decomposition,request-91-0-6
+trees die and their stored carbon is released as methane  through microbial decomposition,"methane is a potent greenhouse gas, trapping more heat in the atmosphere and contributing to global warming",request-91-0-7
+"methane is a potent greenhouse gas, trapping more heat in the atmosphere and contributing to global warming",trees die and their stored carbon is released as nitrous oxide  through microbial decomposition,request-91-0-8
+trees die and their stored carbon is released as nitrous oxide  through microbial decomposition,"nitrous oxide is a potent greenhouse gas, trapping more heat in the atmosphere and contributing to global warming",request-91-0-9
+lower heat capacity of land,leads to slower heat retention by land compared to sea,request-92-0-0
+leads to slower heat retention by land compared to sea,results in land temperatures being more responsive to changes in solar radiation,request-92-0-1
+results in land temperatures being more responsive to changes in solar radiation,causes land temperatures to warm faster than sea temperatures when exposed to the same increase in solar radiation,request-92-0-2
+causes land temperatures to warm faster than sea temperatures when exposed to the same increase in solar radiation,the faster warming of land temperatures compared to sea temperatures,request-92-0-3
+lower heat capacity of land,allows land to cool down faster than sea during the night,request-92-1-0
+allows land to cool down faster than sea during the night,leads to a wider daily temperature range on land,request-92-1-1
+leads to a wider daily temperature range on land,causes land to warm up faster during the day when exposed to the same amount of solar radiation as sea,request-92-1-2
+causes land to warm up faster during the day when exposed to the same amount of solar radiation as sea,the faster warming of land temperatures compared to sea temperatures,request-92-1-3
+lower heat capacity of land,makes land more sensitive to changes in cloud cover,request-92-2-0
+makes land more sensitive to changes in cloud cover,causes land temperatures to fluctuate more with changes in cloud cover compared to sea,request-92-2-1
+causes land temperatures to fluctuate more with changes in cloud cover compared to sea,leads to faster warming of land temperatures when clouds clear and expose the land to more direct sunlight,request-92-2-2
+leads to faster warming of land temperatures when clouds clear and expose the land to more direct sunlight,the faster warming of land temperatures compared to sea temperatures,request-92-2-3
+climate change causes increased frequency of natural disasters,increased natural disasters lead to mass displacement of people,request-93-0-0
+increased natural disasters lead to mass displacement of people,mass displacement causes increased stress and financial strain on families,request-93-0-1
+mass displacement causes increased stress and financial strain on families,high stress and financial strain make it difficult for parents to provide adequate care for their children,request-93-0-2
+high stress and financial strain make it difficult for parents to provide adequate care for their children,inadequate care,request-93-0-3
+climate change causes food insecurity due to crop failures and disruptions in food supply chains,food insecurity,request-93-1-0
+food insecurity,parents who are struggling to provide for their children's basic needs may resort to neglect or lazy parenting due to feelings of helplessness and overwhelm,request-93-1-1
+climate change causes increased heatwaves and other extreme weather events,extreme weather events lead to increased energy costs as people try to stay cool or warm,request-93-2-0
+extreme weather events lead to increased energy costs as people try to stay cool or warm,"increased energy costs strain family budgets, leading to less disposable income",request-93-2-1
+"increased energy costs strain family budgets, leading to less disposable income","lack of disposable income means parents have less time and resources for activities with their children, leading to lazy parenting",request-93-2-2
+increase in co2 levels,"rising global temperatures, which causes",request-94-0-0
+"rising global temperatures, which causes","melting of polar ice caps and glaciers, leading to",request-94-0-1
+"melting of polar ice caps and glaciers, leading to","sea level rise, resulting in",request-94-0-2
+"sea level rise, resulting in","coastal flooding and displacement of coastal populations, causing",request-94-0-3
+"coastal flooding and displacement of coastal populations, causing","economic disruption and political instability, leading to",request-94-0-4
+increase in co2 levels,"rising global temperatures, which causes",request-94-1-0
+"rising global temperatures, which causes","changes in precipitation patterns, leading to",request-94-1-1
+"changes in precipitation patterns, leading to","droughts in some regions and increased flooding in others, resulting in",request-94-1-2
+"droughts in some regions and increased flooding in others, resulting in","agricultural failures and food shortages, causing",request-94-1-3
+"agricultural failures and food shortages, causing","malnutrition and famine, leading to",request-94-1-4
+increase in co2 levels,"rising global temperatures, which causes",request-94-2-0
+"rising global temperatures, which causes","ocean acidification, leading to",request-94-2-1
+"ocean acidification, leading to","coral bleaching and decline in marine ecosystems, resulting in",request-94-2-2
+"coral bleaching and decline in marine ecosystems, resulting in","loss of biodiversity and disruption of marine food chains, causing",request-94-2-3
+"loss of biodiversity and disruption of marine food chains, causing","decline in fish populations and disruption of global fisheries, leading to",request-94-2-4
+increase in co2 levels,"rising global temperatures, which causes",request-94-3-0
+"rising global temperatures, which causes","increased frequency and intensity of extreme weather events, leading to",request-94-3-1
+"increased frequency and intensity of extreme weather events, leading to","infrastructure damage and economic losses, resulting in",request-94-3-2
+"infrastructure damage and economic losses, resulting in","disruption of global supply chains and trade, causing",request-94-3-3
+"disruption of global supply chains and trade, causing","economic recession and increased poverty, leading to",request-94-3-4
+nothing in the environment,volcanic activity decreases due to a lack of tectonic plate movement,request-95-0-0
+volcanic activity decreases due to a lack of tectonic plate movement,fewer volcanic eruptions mean less sulfur dioxide  is released into the atmosphere,request-95-0-1
+fewer volcanic eruptions mean less sulfur dioxide  is released into the atmosphere,reduced so2,request-95-0-2
+reduced so2,fewer sulfate aerosols reflect less sunlight back into space,request-95-0-3
+fewer sulfate aerosols reflect less sunlight back into space,less sunlight reflection causes the earth's surface to absorb more heat,request-95-0-4
+less sunlight reflection causes the earth's surface to absorb more heat,increased heat absorption,request-95-0-5
+increased heat absorption,global warming causes polar ice to melt,request-95-0-6
+global warming causes polar ice to melt,melting ice reduces earth's albedo,request-95-0-7
+melting ice reduces earth's albedo,reduced albedo allows more sunlight to be absorbed by the earth's surface,request-95-0-8
+reduced albedo allows more sunlight to be absorbed by the earth's surface,more sunlight absorption causes further global warming,request-95-0-9
+more sunlight absorption causes further global warming,increased global warming,request-95-0-10
+increased global warming,shifted ocean currents cause a drop in planetary temperature,request-95-0-11
+nothing in the environment,no human activities to contribute to greenhouse gas emissions,request-95-1-0
+no human activities to contribute to greenhouse gas emissions,no greenhouse gas emissions mean less trapping of heat in the atmosphere,request-95-1-1
+no greenhouse gas emissions mean less trapping of heat in the atmosphere,less heat trapping,request-95-1-2
+less heat trapping,decreased global temperatures cause a drop in planetary temperature,request-95-1-3
+nothing in the environment,no space debris to block sunlight,request-95-2-0
+no space debris to block sunlight,no sunlight blocking allows more solar radiation to reach earth's surface,request-95-2-1
+no sunlight blocking allows more solar radiation to reach earth's surface,increased solar radiation warms the earth's surface,request-95-2-2
+increased solar radiation warms the earth's surface,warming surface causes a drop in planetary temperature due to a shift in atmospheric circulation patterns,request-95-2-3
