@@ -1,8 +1,8 @@
-# Uncovering Latent Causal Pathways as a Cure for Polarization on Climate Change Causality
+# Mechanistic Causal Reasoning in LLMs: Diagnostic Insights from  Implicit Causal Chain Inference in Climate Discourse
 
 ## Introduction
 
-This folder contains the Data and Code for reproducing the causal chain inference experiments and the diagnostic evaluation performed in Allein et al. (2025): *Uncovering Latent Causal Pathways as a Cure for Polarization on Climate Change Causality*.
+This folder contains the Data and Code for reproducing the causal chain inference experiments and the diagnostic evaluation performed in Allein, L., Pineda-Castañeda, N., Rocci, A., Moens, M.-F. (2025): *Mechanistic Causal Reasoning in LLMs: Diagnostic Insights from  Implicit Causal Chain Inference in Climate Discourse*.
 
 ## Causal Chain Data
 
