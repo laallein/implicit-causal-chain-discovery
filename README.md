@@ -1,8 +1,8 @@
-# Mechanistic Causal Reasoning in LLMs: Diagnostic Insights from  Implicit Causal Chain Inference in Climate Discourse
+# Assessing LLM Reasoning Through Implicit Causal Chain Discovery in Climate Discourse
 
 ## Introduction
 
-This folder contains the Data and Code for reproducing the causal chain inference experiments and the diagnostic evaluation performed in Allein, L., Pineda-Castañeda, N., Rocci, A., Moens, M.-F. (2025): *Mechanistic Causal Reasoning in LLMs: Diagnostic Insights from  Implicit Causal Chain Inference in Climate Discourse*.
+This folder contains the Data and Code for reproducing the causal chain inference experiments and the diagnostic evaluation performed in Allein, L., Pineda-Castañeda, N., Rocci, A., Moens, M.-F. (2025): *Assessing LLM Reasoning Through Implicit Causal Chain Discovery in Climate Discourse*.
 
 ## Causal Chain Data
 
